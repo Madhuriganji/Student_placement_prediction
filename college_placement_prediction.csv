@@ -1,0 +1,1936 @@
+gender,ssc_percentage,ssc_board,hsc_percentage,hsc_board,stream,degree_percentage,internship,quant_prowess,verbal_prowess,hostel,backlogs,projects,hackathons,college_tier,status
+M,67,Others,91,Others,Electronics And Communication,58,No,55,58.8,1,1,2,5,3,Placed
+M,79.33,Central,78.33,Others,Computer Science,77.48,Yes,86.5,66.28,1,1,2,1,2,Placed
+M,65,Central,68,Central,Information Technology,64,No,75,57.8,0,0,3,4,2,Placed
+M,56,Central,52,Central,Information Technology,52,No,66,59.43,0,1,8,0,2,Not Placed
+M,85.8,Central,73.6,Central,Mechanical,73.3,No,96.8,55.5,1,0,1,1,3,Placed
+M,55,Others,49.8,Others,Electronics And Communication,67.25,Yes,55,51.58,0,0,2,6,2,Not Placed
+F,46,Others,49.2,Others,Computer Science,79,No,74.28,53.29,0,1,1,6,3,Not Placed
+M,82,Central,64,Central,Information Technology,66,Yes,67,62.14,0,0,6,4,2,Placed
+M,73,Central,79,Central,Computer Science,72,No,91.34,61.29,0,0,4,4,1,Placed
+M,58,Central,70,Central,Computer Science,61,No,54,52.21,1,0,3,3,3,Not Placed
+M,58,Central,61,Central,Computer Science,60,Yes,62,60.85,0,0,8,5,1,Placed
+M,69.6,Central,68.4,Central,Electrical,78.3,Yes,60,63.7,0,1,5,6,1,Placed
+F,47,Central,55,Others,Computer Science,65,No,62,65.04,1,1,6,3,2,Not Placed
+F,77,Central,87,Central,Computer Science,59,No,68,68.63,0,1,5,3,2,Placed
+M,62,Central,47,Central,Electronics And Communication,50,No,76,54.96,0,0,6,1,2,Not Placed
+F,65,Central,75,Central,Mechanical,69,Yes,72,64.66,1,0,0,3,1,Placed
+M,63,Central,66.2,Central,Computer Science,65.6,Yes,60,62.54,1,0,8,4,1,Placed
+F,55,Central,67,Central,Civil,64,No,60,67.28,0,0,5,2,1,Not Placed
+F,63,Central,66,Central,Computer Science,64,No,68,64.08,0,0,6,1,2,Not Placed
+M,60,Others,67,Others,Computer Science,70,Yes,50.48,77.89,0,0,7,4,1,Placed
+M,62,Others,65,Others,Civil,66,No,50,56.7,0,0,8,4,1,Placed
+F,79,Others,76,Others,Computer Science,85,No,95,69.06,0,0,6,5,3,Placed
+F,69.8,Others,60.8,Others,Civil,72.23,No,55.53,68.81,0,0,2,0,3,Placed
+F,77.4,Others,60,Others,Electronics And Communication,64.74,Yes,92,63.62,0,1,6,6,3,Placed
+M,76.5,Others,97.7,Others,Electronics And Communication,78.86,No,97.4,74.01,0,0,3,6,1,Placed
+F,52.58,Others,54.6,Central,Electrical,50.2,Yes,76,65.33,1,0,8,5,2,Not Placed
+M,71,Others,79,Others,Electrical,66,Yes,94,57.55,0,0,1,0,1,Placed
+M,63,Others,67,Others,Information Technology,66,No,68,57.69,0,0,4,5,1,Placed
+M,76.76,Others,76.5,Others,Information Technology,67.5,Yes,73.35,64.15,0,0,3,2,2,Placed
+M,62,Central,67,Central,Information Technology,58,No,77,51.29,0,0,6,1,2,Not Placed
+F,64,Central,73.5,Central,Mechanical,73,No,52,56.7,1,0,5,4,2,Placed
+F,67,Central,53,Central,Electrical,65,No,64,58.32,0,0,6,6,2,Not Placed
+F,61,Central,81,Central,Civil,66.4,No,50.89,62.21,0,0,2,5,3,Placed
+F,87,Others,65,Others,Electrical,81,Yes,88,72.78,0,0,4,5,3,Placed
+M,62,Others,51,Others,Computer Science,52,No,68.44,62.77,0,0,7,0,3,Not Placed
+F,69,Central,78,Central,Information Technology,72,No,71,62.74,0,0,6,3,3,Placed
+M,51,Central,44,Central,Civil,57,No,64,51.45,0,0,5,5,3,Not Placed
+F,79,Central,76,Central,Computer Science,65.6,No,58,55.47,0,0,8,4,2,Placed
+F,73,Others,58,Others,Information Technology,66,No,53.7,56.86,0,0,4,3,3,Placed
+M,81,Others,68,Others,Electronics And Communication,64,No,93,62.56,0,1,4,2,2,Placed
+F,78,Central,77,Others,Electrical,80,No,60,66.72,0,1,7,6,1,Placed
+F,74,Others,63.16,Others,Civil,65,Yes,65,69.76,1,0,8,2,2,Not Placed
+M,49,Others,39,Central,Electrical,65,No,63,51.21,1,1,0,6,3,Not Placed
+M,87,Others,87,Others,Electrical,68,No,95,62.9,0,0,3,4,3,Placed
+F,77,Others,73,Others,Information Technology,81,Yes,89,69.7,0,0,3,0,1,Placed
+F,76,Central,64,Central,Electronics And Communication,72,No,58,66.53,0,0,3,6,2,Not Placed
+F,70.89,Others,71.98,Others,Computer Science,65.6,No,68,71.63,0,0,7,2,1,Not Placed
+M,63,Central,60,Central,Electronics And Communication,57,Yes,78,54.55,0,1,2,1,3,Placed
+M,63,Others,62,Others,Information Technology,68,No,64,62.46,0,0,4,1,1,Placed
+F,50,Others,37,Others,Electronics And Communication,52,No,65,56.11,0,0,8,0,2,Not Placed
+F,75.2,Central,73.2,Central,Electronics And Communication,68.4,No,65,62.98,0,0,3,5,1,Placed
+M,54.4,Central,61.12,Central,Electrical,56.2,No,67,62.65,0,0,4,0,3,Not Placed
+F,40.89,Others,45.83,Others,Computer Science,53,No,71.2,65.49,1,0,2,3,3,Not Placed
+M,80,Others,70,Others,Electrical,72,No,87,71.04,1,1,1,3,2,Placed
+F,74,Central,60,Others,Electronics And Communication,69,No,78,65.56,0,0,3,6,3,Placed
+M,60.4,Central,66.6,Others,Computer Science,65,No,71,52.71,0,0,8,2,2,Placed
+M,63,Others,71.4,Others,Electronics And Communication,61.4,No,68,66.88,0,0,6,6,1,Placed
+M,68,Central,76,Central,Civil,74,No,80,63.59,0,0,1,1,1,Placed
+M,74,Central,62,Others,Electronics And Communication,68,No,74,57.99,0,0,4,1,3,Placed
+M,52.6,Central,65.58,Others,Electrical,72.11,No,57.6,56.66,0,0,6,0,3,Placed
+M,74,Central,70,Central,Computer Science,72,Yes,60,57.24,0,1,6,4,3,Placed
+M,84.2,Central,73.4,Central,Computer Science,66.89,No,61.6,62.48,0,0,8,0,2,Placed
+F,86.5,Others,64.2,Others,Information Technology,67.4,No,59,59.69,0,0,8,2,1,Placed
+M,61,Others,70,Others,Information Technology,64,No,68.5,59.5,0,0,3,3,1,Not Placed
+M,80,Others,73,Others,Information Technology,75,No,61,58.78,1,0,6,4,3,Placed
+M,54,Others,47,Others,Mechanical,57,No,89.69,57.1,0,0,5,1,2,Not Placed
+M,83,Others,74,Others,Computer Science,66,No,68.92,58.46,0,0,5,1,2,Placed
+M,80.92,Others,78.5,Others,Information Technology,67,No,68.71,60.99,0,0,4,1,3,Placed
+F,69.7,Central,47,Central,Computer Science,72.7,No,79,59.24,0,0,1,2,1,Not Placed
+M,73,Central,73,Central,Mechanical,66,Yes,70,68.07,1,1,8,1,1,Placed
+M,82,Others,61,Others,Electrical,62,No,89,65.45,0,0,4,0,2,Placed
+M,75,Others,70.29,Others,Information Technology,71,No,95,66.94,0,0,2,4,2,Placed
+M,84.86,Others,67,Others,Computer Science,78,No,95.5,68.53,0,0,3,2,1,Placed
+M,64.6,Central,83.83,Others,Information Technology,71.72,No,86,59.75,0,0,3,1,2,Placed
+M,56.6,Central,64.8,Central,Information Technology,70.2,No,84.27,67.2,0,0,1,4,3,Placed
+F,59,Central,62,Others,Civil,77.5,No,74,67,0,0,0,2,1,Not Placed
+F,66.5,Others,70.4,Central,Mechanical,71.93,No,61,64.27,1,0,2,2,1,Placed
+M,64,Others,80,Others,Mechanical,65,Yes,69,57.65,1,1,6,3,1,Placed
+M,84,Others,90.9,Others,Information Technology,64.5,No,86.04,59.42,0,0,7,1,2,Placed
+F,69,Central,62,Central,Computer Science,66,No,75,67.99,0,0,5,5,2,Not Placed
+F,69,Others,62,Others,Civil,69,Yes,67,62.35,0,0,1,4,2,Placed
+M,81.7,Others,63,Others,Computer Science,67,Yes,86,70.2,0,0,4,2,3,Placed
+M,63,Central,67,Central,Mechanical,74,No,82,60.44,1,0,2,5,3,Not Placed
+M,84,Others,79,Others,Information Technology,68,Yes,84,66.69,0,0,1,5,1,Placed
+M,70,Central,63,Others,Mechanical,70,Yes,55,62,1,0,2,6,2,Placed
+F,83.84,Others,89.83,Others,Electronics And Communication,77.2,Yes,78.74,76.18,0,0,1,2,2,Placed
+M,62,Others,63,Others,Computer Science,64,No,67,57.03,0,0,0,6,2,Placed
+M,59.6,Central,51,Central,Computer Science,60,No,75,59.08,0,0,5,3,2,Not Placed
+F,66,Central,62,Central,Civil,73,No,58,64.36,1,0,4,3,3,Placed
+F,84,Others,75,Others,Mechanical,69,Yes,62,62.36,0,0,4,4,1,Placed
+F,85,Others,90,Others,Civil,82,No,92,68.03,0,1,7,2,2,Placed
+M,52,Central,57,Central,Information Technology,50.8,No,67,62.79,0,0,8,6,2,Not Placed
+F,60.23,Central,69,Central,Electrical,66,No,72,59.47,0,0,3,2,1,Placed
+M,52,Central,62,Central,Information Technology,54,No,72,55.41,0,0,7,5,2,Not Placed
+M,58,Central,62,Central,Electronics And Communication,64,No,53.88,54.97,0,0,5,1,1,Placed
+M,73,Central,78,Others,Computer Science,65,Yes,95.46,62.16,0,0,6,1,3,Placed
+F,76,Central,70,Central,Computer Science,76,Yes,66,64.44,0,0,4,6,2,Placed
+F,70.5,Central,62.5,Others,Information Technology,61,No,93.91,69.03,0,0,5,6,2,Not Placed
+F,69,Central,73,Central,Information Technology,65,No,70,57.31,0,0,7,6,1,Placed
+M,54,Central,82,Others,Mechanical,63,No,50,59.47,0,0,5,6,3,Not Placed
+F,45,Others,57,Others,Computer Science,58,Yes,56.39,64.95,0,0,6,1,1,Not Placed
+M,63,Central,72,Central,Civil,68,No,78,60.44,0,0,0,1,1,Placed
+F,77,Others,61,Others,Mechanical,68,Yes,57.5,61.31,0,0,6,3,2,Placed
+M,73,Central,78,Central,Information Technology,73,Yes,85,65.83,0,0,8,6,3,Placed
+M,69,Central,63,Others,Electrical,65,Yes,55,58.23,1,0,6,1,2,Placed
+M,59,Central,64,Others,Information Technology,58,No,85,55.3,0,0,3,3,1,Not Placed
+M,61.08,Others,50,Others,Information Technology,54,No,71,65.69,0,0,6,3,2,Not Placed
+M,82,Others,90,Others,Information Technology,83,No,80,73.52,0,0,1,6,1,Placed
+M,61,Central,82,Central,Civil,69,No,84,58.31,0,1,1,6,1,Placed
+M,52,Central,63,Others,Information Technology,65,Yes,86,56.09,0,0,8,0,1,Not Placed
+F,69.5,Central,70,Central,Information Technology,72,No,57.2,54.8,0,0,8,6,2,Placed
+M,51,Others,54,Others,Electronics And Communication,61,No,60,60.64,0,1,8,2,1,Not Placed
+M,58,Others,61,Others,Electrical,61,No,58,53.94,0,0,7,1,2,Placed
+F,73.96,Others,79,Others,Information Technology,67,No,72.15,63.08,0,0,2,0,3,Placed
+M,65,Central,68,Others,Computer Science,69,No,53.7,55.01,0,0,3,2,3,Placed
+F,73,Others,63,Others,Electrical,66,No,89,60.5,0,0,8,3,2,Placed
+M,68.2,Central,72.8,Central,Information Technology,66.6,Yes,96,70.85,1,0,2,5,1,Placed
+M,77,Others,75,Others,Information Technology,73,No,80,67.05,1,0,7,1,1,Placed
+M,76,Central,80,Central,Information Technology,78,Yes,97,70.48,0,1,7,1,1,Placed
+M,60.8,Central,68.4,Central,Mechanical,64.6,Yes,82.66,64.34,1,0,4,0,1,Placed
+M,58,Others,40,Others,Information Technology,59,No,73,58.81,0,0,5,3,3,Not Placed
+F,64,Central,67,Others,Electronics And Communication,69.6,Yes,55.67,71.49,0,0,8,0,2,Placed
+F,66.5,Central,66.8,Central,Information Technology,69.3,Yes,80.4,71,0,0,1,4,1,Placed
+M,74,Others,59,Others,Information Technology,73,Yes,60,56.7,0,0,3,0,3,Placed
+M,67,Central,71,Central,Mechanical,64.33,Yes,64,61.26,1,0,6,1,2,Placed
+F,84,Central,73,Central,Information Technology,73,No,75,73.33,0,0,1,2,2,Placed
+F,79,Others,61,Others,Information Technology,75.5,Yes,70,68.2,0,0,8,3,2,Placed
+F,72,Others,60,Others,Computer Science,69,No,55.5,58.4,0,0,6,3,3,Placed
+M,80.4,Central,73.4,Central,Electronics And Communication,77.72,Yes,81.2,76.26,0,0,8,0,1,Placed
+M,76.7,Central,89.7,Others,Information Technology,66,Yes,90,68.55,0,0,4,1,1,Placed
+M,62,Central,65,Others,Mechanical,60,No,84,64.15,1,1,0,1,2,Not Placed
+F,74.9,Others,57,Others,Computer Science,62,Yes,80,60.78,0,0,0,4,3,Placed
+M,67,Others,68,Others,Mechanical,64,Yes,74.4,53.49,1,0,1,6,3,Placed
+M,73,Central,64,Others,Computer Science,77,Yes,65,60.98,0,0,8,5,3,Placed
+F,77.44,Central,92,Others,Mechanical,72,Yes,94,67.13,1,1,3,4,3,Placed
+F,72,Central,56,Others,Computer Science,69,No,55.6,65.63,0,0,6,5,2,Placed
+F,47,Central,59,Central,Mechanical,64,No,78,61.58,0,0,8,5,2,Not Placed
+M,67,Others,63,Central,Information Technology,72,No,56,60.41,0,0,0,1,1,Placed
+F,82,Others,64,Others,Electrical,73,Yes,96,71.77,0,0,7,1,2,Placed
+M,77,Central,70,Central,Electrical,59,Yes,58,54.43,1,0,8,6,2,Placed
+M,65,Central,64.8,Others,Computer Science,69.5,Yes,56,56.94,0,0,5,2,3,Placed
+M,66,Central,64,Central,Electronics And Communication,60,No,60,61.9,0,0,2,4,3,Not Placed
+M,85,Central,60,Others,Information Technology,73.43,Yes,60,61.29,0,0,0,0,2,Placed
+M,77.67,Others,64.89,Others,Computer Science,70.67,No,89,60.39,0,0,6,1,1,Placed
+M,52,Others,50,Others,Computer Science,61,No,60,58.52,0,0,7,4,1,Not Placed
+M,89.4,Others,65.66,Others,Civil,71.25,No,72,63.23,1,0,1,6,1,Placed
+M,62,Central,63,Others,Information Technology,66,No,85,55.14,0,0,8,3,1,Placed
+M,70,Central,74,Central,Mechanical,65,No,83,62.28,1,1,4,3,1,Placed
+F,77,Central,86,Central,Electrical,56,No,57,64.08,0,0,0,2,1,Placed
+M,44,Central,58,Central,Computer Science,55,Yes,64.25,58.54,0,0,5,4,1,Not Placed
+M,71,Central,58.66,Central,Electrical,58,Yes,56,61.3,0,0,0,0,2,Placed
+M,65,Central,65,Central,Information Technology,75,No,83,58.87,0,0,0,2,3,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,0,0,6,2,3,Placed
+M,49,Others,59,Others,Electronics And Communication,65,Yes,86,62.48,0,0,0,1,3,Placed
+M,53,Central,63,Others,Civil,60,Yes,70,53.2,0,0,0,1,1,Placed
+M,51.57,Others,74.66,Others,Electronics And Communication,59.9,Yes,56.15,65.99,0,0,0,4,2,Not Placed
+M,84.2,Central,69.4,Central,Information Technology,65,Yes,80,52.72,0,0,3,2,3,Placed
+M,66.5,Central,62.5,Central,Computer Science,60.9,No,93.4,55.03,0,0,5,0,3,Placed
+M,67,Others,63,Others,Computer Science,64,No,60,61.87,0,0,1,1,3,Not Placed
+M,52,Central,49,Others,Computer Science,58,No,62,60.59,0,1,0,6,1,Not Placed
+M,87,Central,74,Central,Electronics And Communication,65,Yes,75,72.29,0,0,0,2,2,Placed
+M,55.6,Others,51,Others,Mechanical,57.5,No,57.63,62.72,1,0,8,4,2,Not Placed
+M,74.2,Central,87.6,Others,Computer Science,77.25,Yes,75.2,66.06,0,0,0,2,2,Placed
+M,63,Others,67,Others,Computer Science,64,No,75,66.46,0,0,2,3,1,Placed
+F,67.16,Central,72.5,Central,Civil,63.35,No,53.04,65.52,1,0,4,4,1,Placed
+F,63.3,Central,78.33,Others,Computer Science,74,No,80,74.56,0,1,8,5,3,Not Placed
+M,62,Others,62,Others,Electrical,60,Yes,63,52.38,0,0,5,1,3,Placed
+M,67.9,Others,62,Others,Information Technology,67,Yes,58.1,75.71,0,0,5,0,1,Not Placed
+F,48,Central,51,Central,Computer Science,58,Yes,60,58.79,0,0,5,6,3,Not Placed
+M,59.96,Others,42.16,Others,Computer Science,61.26,No,54.48,65.48,0,0,5,6,2,Not Placed
+F,63.4,Others,67.2,Others,Civil,60,No,58.06,69.28,0,0,7,4,3,Not Placed
+M,80,Others,80,Others,Information Technology,72,Yes,63.79,66.04,0,0,2,4,2,Placed
+M,73,Others,58,Others,Information Technology,56,No,84,52.64,0,0,5,1,3,Placed
+F,52,Others,52,Others,Civil,55,No,67,59.32,0,0,2,3,2,Not Placed
+M,73.24,Others,50.83,Others,Civil,64.27,Yes,64,66.23,0,1,5,1,1,Placed
+M,63,Others,62,Others,Information Technology,65,No,87.5,60.69,0,0,7,3,2,Not Placed
+F,59,Central,60,Others,Electronics And Communication,56,No,55,57.9,0,0,6,1,1,Placed
+F,73,Central,97,Others,Information Technology,79,Yes,89,70.81,1,0,3,1,2,Placed
+M,68,Others,56,Others,Electrical,68,No,73,68.07,0,0,6,3,2,Placed
+F,77.8,Central,64,Central,Mechanical,64.2,No,75.5,72.14,1,0,0,1,3,Not Placed
+M,65,Central,71.5,Others,Information Technology,62.8,Yes,57,56.6,1,0,3,5,2,Placed
+M,62,Central,60.33,Others,Computer Science,64.21,No,63,60.02,0,0,1,3,1,Not Placed
+M,52,Others,65,Others,Electronics And Communication,57,Yes,75,59.81,0,1,5,0,1,Not Placed
+M,65,Central,77,Central,Civil,69,No,60,61.82,0,0,5,1,1,Placed
+F,56.28,Others,62.83,Others,Electrical,59.79,No,60,57.29,0,1,6,3,3,Not Placed
+F,88,Central,72,Central,Civil,78,No,82,71.43,0,0,4,1,3,Placed
+F,52,Central,64,Central,Computer Science,61,No,55,62.93,1,0,2,4,3,Not Placed
+M,78.5,Central,65.5,Central,Computer Science,67,Yes,95,64.86,0,0,5,5,3,Placed
+M,61.8,Others,47,Others,Electronics And Communication,54.38,No,57,56.13,1,0,8,0,3,Not Placed
+F,54,Central,77.6,Others,Information Technology,69.2,No,95.65,66.94,0,0,6,2,1,Not Placed
+F,64,Others,70.2,Central,Computer Science,61,No,50,62.5,0,0,7,3,1,Not Placed
+M,67,Others,61,Central,Computer Science,72,No,72,61.01,0,0,1,5,1,Placed
+M,65.2,Central,61.4,Central,Mechanical,64.8,Yes,93.4,57.34,1,0,1,1,1,Placed
+F,60,Central,63,Central,Computer Science,56,Yes,80,56.63,0,0,4,2,3,Placed
+M,52,Others,55,Others,Information Technology,56.3,No,59,64.74,0,1,4,1,3,Not Placed
+M,66,Central,76,Central,Computer Science,72,Yes,84,58.95,1,0,8,2,2,Placed
+M,72,Others,63,Others,Electronics And Communication,77.5,Yes,78,54.48,1,1,5,4,2,Placed
+F,83.96,Others,53,Others,Information Technology,91,No,59.32,69.71,1,1,7,2,1,Placed
+F,67,Central,70,Central,Computer Science,65,No,88,71.96,1,0,2,1,3,Not Placed
+M,69,Others,65,Others,Computer Science,57,No,73,55.8,0,0,4,1,1,Placed
+M,69,Others,60,Others,Computer Science,65,No,87.55,52.81,0,0,8,0,1,Placed
+M,54.2,Central,63,Others,Computer Science,58,No,79,58.44,0,0,0,5,2,Not Placed
+M,70,Central,63,Central,Information Technology,66,No,61.28,60.11,1,0,3,1,2,Placed
+M,55.68,Others,61.33,Others,Electronics And Communication,56.87,No,66,58.3,0,0,4,5,1,Placed
+F,74,Others,73,Others,Computer Science,73,Yes,80,67.69,1,0,1,3,3,Placed
+M,61,Others,62,Others,Mechanical,65,No,62,56.81,1,0,3,5,3,Placed
+M,41,Central,42,Central,Mechanical,60,No,97,53.39,1,0,1,2,3,Not Placed
+M,83.33,Central,78,Others,Information Technology,61,Yes,88.56,71.55,0,0,1,5,1,Placed
+F,43,Central,60,Others,Electrical,65,No,92.66,62.92,0,0,2,1,1,Not Placed
+M,62,Central,72,Central,Mechanical,65,No,67,56.49,0,0,0,3,1,Placed
+M,80.6,Others,82,Others,Computer Science,77.6,No,91,74.49,0,0,8,4,2,Placed
+M,58,Others,60,Others,Information Technology,72,No,74,53.62,0,0,5,5,1,Placed
+M,67,Others,67,Others,Information Technology,73,Yes,59,69.72,0,1,0,1,2,Placed
+F,74,Others,66,Others,Information Technology,58,No,70,60.23,0,0,2,0,1,Placed
+M,62,Central,58,Others,Electrical,53,No,89,60.22,0,0,7,0,2,Not Placed
+M,67,Others,91,Others,Civil,58,No,55,58.8,0,0,1,3,3,Placed
+M,79.33,Central,78.33,Others,Computer Science,77.48,Yes,86.5,66.28,0,0,5,3,2,Placed
+M,65,Central,68,Central,Civil,64,No,75,57.8,1,0,1,2,1,Placed
+M,56,Central,52,Central,Electrical,52,No,66,59.43,0,0,2,6,1,Not Placed
+M,85.8,Central,73.6,Central,Electronics And Communication,73.3,No,96.8,55.5,1,1,6,1,3,Placed
+M,55,Others,49.8,Others,Electrical,67.25,Yes,55,51.58,0,1,2,2,1,Not Placed
+F,46,Others,49.2,Others,Computer Science,79,No,74.28,53.29,0,0,6,6,3,Not Placed
+M,82,Central,64,Central,Mechanical,66,Yes,67,62.14,1,1,7,1,2,Placed
+M,73,Central,79,Central,Computer Science,72,No,91.34,61.29,0,0,7,5,2,Placed
+M,58,Central,70,Central,Civil,61,No,54,52.21,0,0,1,2,3,Not Placed
+M,58,Central,61,Central,Civil,60,Yes,62,60.85,1,0,4,2,2,Placed
+M,69.6,Central,68.4,Central,Computer Science,78.3,Yes,60,63.7,1,0,2,2,3,Placed
+F,47,Central,55,Others,Computer Science,65,No,62,65.04,0,0,8,0,3,Not Placed
+F,77,Central,87,Central,Mechanical,59,No,68,68.63,1,0,2,1,2,Placed
+M,62,Central,47,Central,Mechanical,50,No,76,54.96,1,0,0,5,3,Not Placed
+F,65,Central,75,Central,Electronics And Communication,69,Yes,72,64.66,0,0,4,1,1,Placed
+M,63,Central,66.2,Central,Computer Science,65.6,Yes,60,62.54,0,0,0,5,1,Placed
+F,55,Central,67,Central,Information Technology,64,No,60,67.28,0,0,4,5,1,Not Placed
+F,63,Central,66,Central,Information Technology,64,No,68,64.08,0,0,1,2,1,Not Placed
+M,60,Others,67,Others,Information Technology,70,Yes,50.48,77.89,0,1,7,4,1,Placed
+M,62,Others,65,Others,Computer Science,66,No,50,56.7,0,0,0,5,3,Placed
+F,79,Others,76,Others,Computer Science,85,No,95,69.06,0,0,0,6,2,Placed
+F,69.8,Others,60.8,Others,Information Technology,72.23,No,55.53,68.81,0,0,1,6,1,Placed
+F,77.4,Others,60,Others,Mechanical,64.74,Yes,92,63.62,1,0,8,5,2,Placed
+M,76.5,Others,97.7,Others,Computer Science,78.86,No,97.4,74.01,1,0,8,2,1,Placed
+F,52.58,Others,54.6,Central,Information Technology,50.2,Yes,76,65.33,0,0,5,0,3,Not Placed
+M,71,Others,79,Others,Computer Science,66,Yes,94,57.55,1,0,1,4,3,Placed
+M,63,Others,67,Others,Information Technology,66,No,68,57.69,1,0,1,5,1,Placed
+M,76.76,Others,76.5,Others,Civil,67.5,Yes,73.35,64.15,1,1,2,5,3,Placed
+M,62,Central,67,Central,Electrical,58,No,77,51.29,0,0,5,2,2,Not Placed
+F,64,Central,73.5,Central,Electronics And Communication,73,No,52,56.7,0,0,6,3,2,Placed
+F,67,Central,53,Central,Mechanical,65,No,64,58.32,1,0,3,0,2,Not Placed
+F,61,Central,81,Central,Civil,66.4,No,50.89,62.21,0,0,7,0,3,Placed
+F,87,Others,65,Others,Electrical,81,Yes,88,72.78,0,0,5,5,3,Placed
+M,62,Others,51,Others,Computer Science,52,No,68.44,62.77,0,0,2,5,1,Not Placed
+F,69,Central,78,Central,Computer Science,72,No,71,62.74,0,0,4,0,3,Placed
+M,51,Central,44,Central,Information Technology,57,No,64,51.45,0,1,8,2,3,Not Placed
+F,79,Central,76,Central,Electronics And Communication,65.6,No,58,55.47,0,0,4,1,3,Placed
+F,73,Others,58,Others,Civil,66,No,53.7,56.86,0,0,6,4,2,Placed
+M,81,Others,68,Others,Information Technology,64,No,93,62.56,1,1,1,4,2,Placed
+F,78,Central,77,Others,Computer Science,80,No,60,66.72,1,1,1,1,1,Placed
+F,74,Others,63.16,Others,Mechanical,65,Yes,65,69.76,1,0,6,6,3,Not Placed
+M,49,Others,39,Central,Electrical,65,No,63,51.21,0,0,7,5,1,Not Placed
+M,87,Others,87,Others,Electronics And Communication,68,No,95,62.9,0,0,3,5,2,Placed
+F,77,Others,73,Others,Information Technology,81,Yes,89,69.7,0,0,0,5,2,Placed
+F,76,Central,64,Central,Computer Science,72,No,58,66.53,1,0,7,4,1,Not Placed
+F,70.89,Others,71.98,Others,Information Technology,65.6,No,68,71.63,0,0,1,2,3,Not Placed
+M,63,Central,60,Central,Electrical,57,Yes,78,54.55,0,0,3,2,1,Placed
+M,63,Others,62,Others,Mechanical,68,No,64,62.46,1,1,2,0,3,Placed
+F,50,Others,37,Others,Civil,52,No,65,56.11,0,0,0,6,3,Not Placed
+F,75.2,Central,73.2,Central,Information Technology,68.4,No,65,62.98,0,0,8,2,3,Placed
+M,54.4,Central,61.12,Central,Information Technology,56.2,No,67,62.65,0,0,1,2,2,Not Placed
+F,40.89,Others,45.83,Others,Electronics And Communication,53,No,71.2,65.49,1,1,4,0,2,Not Placed
+M,80,Others,70,Others,Civil,72,No,87,71.04,0,0,3,5,3,Placed
+F,74,Central,60,Others,Information Technology,69,No,78,65.56,0,0,0,6,3,Placed
+M,60.4,Central,66.6,Others,Electrical,65,No,71,52.71,1,0,6,5,2,Placed
+M,63,Others,71.4,Others,Information Technology,61.4,No,68,66.88,1,1,1,6,1,Placed
+M,68,Central,76,Central,Electronics And Communication,74,No,80,63.59,0,0,6,5,3,Placed
+M,74,Central,62,Others,Computer Science,68,No,74,57.99,0,1,3,4,2,Placed
+M,52.6,Central,65.58,Others,Electronics And Communication,72.11,No,57.6,56.66,0,0,2,4,1,Placed
+M,74,Central,70,Central,Mechanical,72,Yes,60,57.24,1,0,4,2,2,Placed
+M,84.2,Central,73.4,Central,Civil,66.89,No,61.6,62.48,0,0,3,6,2,Placed
+F,86.5,Others,64.2,Others,Civil,67.4,No,59,59.69,1,0,6,2,1,Placed
+M,61,Others,70,Others,Computer Science,64,No,68.5,59.5,0,0,0,5,3,Not Placed
+M,80,Others,73,Others,Information Technology,75,No,61,58.78,0,1,3,4,1,Placed
+M,54,Others,47,Others,Electronics And Communication,57,No,89.69,57.1,0,0,7,3,1,Not Placed
+M,83,Others,74,Others,Mechanical,66,No,68.92,58.46,1,0,3,4,2,Placed
+M,80.92,Others,78.5,Others,Mechanical,67,No,68.71,60.99,1,1,2,6,1,Placed
+F,69.7,Central,47,Central,Civil,72.7,No,79,59.24,1,0,3,2,3,Not Placed
+M,73,Central,73,Central,Electronics And Communication,66,Yes,70,68.07,0,0,5,1,2,Placed
+M,82,Others,61,Others,Electronics And Communication,62,No,89,65.45,1,1,2,3,2,Placed
+M,75,Others,70.29,Others,Mechanical,71,No,95,66.94,1,0,6,5,1,Placed
+M,84.86,Others,67,Others,Computer Science,78,No,95.5,68.53,0,0,4,5,2,Placed
+M,64.6,Central,83.83,Others,Civil,71.72,No,86,59.75,0,0,1,4,1,Placed
+M,56.6,Central,64.8,Central,Information Technology,70.2,No,84.27,67.2,0,0,0,1,1,Placed
+F,59,Central,62,Others,Computer Science,77.5,No,74,67,0,0,2,6,3,Not Placed
+F,66.5,Others,70.4,Central,Civil,71.93,No,61,64.27,1,0,1,3,3,Placed
+M,64,Others,80,Others,Computer Science,65,Yes,69,57.65,1,1,4,6,1,Placed
+M,84,Others,90.9,Others,Electronics And Communication,64.5,No,86.04,59.42,0,0,3,5,3,Placed
+F,69,Central,62,Central,Civil,66,No,75,67.99,0,0,8,0,2,Not Placed
+F,69,Others,62,Others,Civil,69,Yes,67,62.35,0,0,1,3,3,Placed
+M,81.7,Others,63,Others,Computer Science,67,Yes,86,70.2,0,0,4,6,1,Placed
+M,63,Central,67,Central,Computer Science,74,No,82,60.44,0,0,1,5,3,Not Placed
+M,84,Others,79,Others,Electronics And Communication,68,Yes,84,66.69,1,1,0,4,3,Placed
+M,70,Central,63,Others,Information Technology,70,Yes,55,62,0,0,7,0,1,Placed
+F,83.84,Others,89.83,Others,Civil,77.2,Yes,78.74,76.18,0,0,4,5,2,Placed
+M,62,Others,63,Others,Civil,64,No,67,57.03,0,0,6,1,2,Placed
+M,59.6,Central,51,Central,Electronics And Communication,60,No,75,59.08,0,0,2,3,2,Not Placed
+F,66,Central,62,Central,Information Technology,73,No,58,64.36,0,0,6,2,1,Placed
+F,84,Others,75,Others,Electronics And Communication,69,Yes,62,62.36,0,0,1,1,1,Placed
+F,85,Others,90,Others,Computer Science,82,No,92,68.03,0,1,3,3,2,Placed
+M,52,Central,57,Central,Electrical,50.8,No,67,62.79,0,1,2,0,3,Not Placed
+F,60.23,Central,69,Central,Information Technology,66,No,72,59.47,0,1,7,1,2,Placed
+M,52,Central,62,Central,Computer Science,54,No,72,55.41,1,0,7,5,2,Not Placed
+M,58,Central,62,Central,Electrical,64,No,53.88,54.97,0,0,4,6,1,Placed
+M,73,Central,78,Others,Computer Science,65,Yes,95.46,62.16,0,0,0,3,1,Placed
+F,76,Central,70,Central,Information Technology,76,Yes,66,64.44,0,1,6,5,1,Placed
+F,70.5,Central,62.5,Others,Computer Science,61,No,93.91,69.03,1,0,0,3,2,Not Placed
+F,69,Central,73,Central,Civil,65,No,70,57.31,0,0,0,2,2,Placed
+M,54,Central,82,Others,Mechanical,63,No,50,59.47,1,0,2,4,2,Not Placed
+F,45,Others,57,Others,Civil,58,Yes,56.39,64.95,0,0,1,1,1,Not Placed
+M,63,Central,72,Central,Information Technology,68,No,78,60.44,0,0,1,1,3,Placed
+F,77,Others,61,Others,Electrical,68,Yes,57.5,61.31,0,0,3,4,1,Placed
+M,73,Central,78,Central,Computer Science,73,Yes,85,65.83,1,0,5,6,1,Placed
+M,69,Central,63,Others,Computer Science,65,Yes,55,58.23,0,0,2,3,3,Placed
+M,59,Central,64,Others,Computer Science,58,No,85,55.3,0,0,6,2,3,Not Placed
+M,61.08,Others,50,Others,Mechanical,54,No,71,65.69,0,1,1,4,2,Not Placed
+M,82,Others,90,Others,Computer Science,83,No,80,73.52,0,0,0,3,3,Placed
+M,61,Central,82,Central,Civil,69,No,84,58.31,1,0,2,4,3,Placed
+M,52,Central,63,Others,Mechanical,65,Yes,86,56.09,1,0,6,5,3,Not Placed
+F,69.5,Central,70,Central,Computer Science,72,No,57.2,54.8,0,0,1,3,1,Placed
+M,51,Others,54,Others,Computer Science,61,No,60,60.64,0,0,7,0,3,Not Placed
+M,58,Others,61,Others,Electronics And Communication,61,No,58,53.94,0,0,4,4,3,Placed
+F,73.96,Others,79,Others,Electronics And Communication,67,No,72.15,63.08,1,1,4,3,3,Placed
+M,65,Central,68,Others,Information Technology,69,No,53.7,55.01,0,0,1,2,2,Placed
+F,73,Others,63,Others,Computer Science,66,No,89,60.5,0,0,4,6,3,Placed
+M,68.2,Central,72.8,Central,Electrical,66.6,Yes,96,70.85,0,0,0,4,1,Placed
+M,77,Others,75,Others,Electronics And Communication,73,No,80,67.05,0,0,2,5,2,Placed
+M,76,Central,80,Central,Information Technology,78,Yes,97,70.48,0,0,3,0,3,Placed
+M,60.8,Central,68.4,Central,Mechanical,64.6,Yes,82.66,64.34,1,1,5,4,3,Placed
+M,58,Others,40,Others,Mechanical,59,No,73,58.81,1,1,8,2,2,Not Placed
+F,64,Central,67,Others,Electronics And Communication,69.6,Yes,55.67,71.49,0,0,8,2,3,Placed
+F,66.5,Central,66.8,Central,Information Technology,69.3,Yes,80.4,71,0,0,1,0,3,Placed
+M,74,Others,59,Others,Computer Science,73,Yes,60,56.7,1,0,5,0,3,Placed
+M,67,Central,71,Central,Electronics And Communication,64.33,Yes,64,61.26,0,0,6,4,3,Placed
+F,84,Central,73,Central,Electronics And Communication,73,No,75,73.33,0,1,0,6,3,Placed
+F,79,Others,61,Others,Information Technology,75.5,Yes,70,68.2,0,0,1,4,1,Placed
+F,72,Others,60,Others,Information Technology,69,No,55.5,58.4,0,0,3,4,2,Placed
+M,80.4,Central,73.4,Central,Electrical,77.72,Yes,81.2,76.26,0,1,0,2,3,Placed
+M,76.7,Central,89.7,Others,Information Technology,66,Yes,90,68.55,0,0,3,5,2,Placed
+M,62,Central,65,Others,Mechanical,60,No,84,64.15,1,1,8,6,3,Not Placed
+F,74.9,Others,57,Others,Mechanical,62,Yes,80,60.78,1,0,8,6,2,Placed
+M,67,Others,68,Others,Electronics And Communication,64,Yes,74.4,53.49,0,0,4,4,1,Placed
+M,73,Central,64,Others,Civil,77,Yes,65,60.98,0,0,3,2,3,Placed
+F,77.44,Central,92,Others,Computer Science,72,Yes,94,67.13,1,0,2,0,3,Placed
+F,72,Central,56,Others,Information Technology,69,No,55.6,65.63,0,0,4,0,2,Placed
+F,47,Central,59,Central,Mechanical,64,No,78,61.58,1,0,6,6,1,Not Placed
+M,67,Others,63,Central,Mechanical,72,No,56,60.41,1,0,1,6,2,Placed
+F,82,Others,64,Others,Electronics And Communication,73,Yes,96,71.77,0,0,3,0,3,Placed
+M,77,Central,70,Central,Computer Science,59,Yes,58,54.43,0,0,0,2,2,Placed
+M,65,Central,64.8,Others,Electrical,69.5,Yes,56,56.94,0,1,8,0,1,Placed
+M,66,Central,64,Central,Information Technology,60,No,60,61.9,0,0,7,0,3,Not Placed
+M,85,Central,60,Others,Electrical,73.43,Yes,60,61.29,0,0,3,2,3,Placed
+M,77.67,Others,64.89,Others,Electronics And Communication,70.67,No,89,60.39,0,0,5,5,3,Placed
+M,52,Others,50,Others,Mechanical,61,No,60,58.52,1,0,3,2,2,Not Placed
+M,89.4,Others,65.66,Others,Electronics And Communication,71.25,No,72,63.23,0,0,7,4,3,Placed
+M,62,Central,63,Others,Computer Science,66,No,85,55.14,0,0,2,5,2,Placed
+M,70,Central,74,Central,Electronics And Communication,65,No,83,62.28,0,0,7,3,3,Placed
+F,77,Central,86,Central,Computer Science,56,No,57,64.08,0,1,6,3,3,Placed
+M,44,Central,58,Central,Information Technology,55,Yes,64.25,58.54,0,1,5,2,2,Not Placed
+M,71,Central,58.66,Central,Electronics And Communication,58,Yes,56,61.3,0,0,0,2,1,Placed
+M,65,Central,65,Central,Computer Science,75,No,83,58.87,0,0,0,0,3,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,0,1,3,3,2,Placed
+M,49,Others,59,Others,Electrical,65,Yes,86,62.48,0,0,0,2,1,Placed
+M,53,Central,63,Others,Information Technology,60,Yes,70,53.2,0,0,5,0,3,Placed
+M,51.57,Others,74.66,Others,Computer Science,59.9,Yes,56.15,65.99,0,0,7,2,2,Not Placed
+M,84.2,Central,69.4,Central,Computer Science,65,Yes,80,52.72,1,0,4,6,1,Placed
+M,66.5,Central,62.5,Central,Information Technology,60.9,No,93.4,55.03,0,0,6,3,1,Placed
+M,67,Others,63,Others,Information Technology,64,No,60,61.87,0,0,7,5,2,Not Placed
+M,52,Central,49,Others,Civil,58,No,62,60.59,1,0,0,1,2,Not Placed
+M,87,Central,74,Central,Mechanical,65,Yes,75,72.29,0,0,1,5,3,Placed
+M,55.6,Others,51,Others,Mechanical,57.5,No,57.63,62.72,1,0,2,6,3,Not Placed
+M,74.2,Central,87.6,Others,Information Technology,77.25,Yes,75.2,66.06,0,0,5,5,2,Placed
+M,63,Others,67,Others,Mechanical,64,No,75,66.46,1,1,1,4,3,Placed
+F,67.16,Central,72.5,Central,Computer Science,63.35,No,53.04,65.52,0,1,8,1,2,Placed
+F,63.3,Central,78.33,Others,Computer Science,74,No,80,74.56,0,0,8,4,1,Not Placed
+M,62,Others,62,Others,Information Technology,60,Yes,63,52.38,0,0,4,5,3,Placed
+M,67.9,Others,62,Others,Computer Science,67,Yes,58.1,75.71,0,0,5,4,2,Not Placed
+F,48,Central,51,Central,Information Technology,58,Yes,60,58.79,1,0,6,0,3,Not Placed
+M,59.96,Others,42.16,Others,Electronics And Communication,61.26,No,54.48,65.48,0,1,7,2,2,Not Placed
+F,63.4,Others,67.2,Others,Information Technology,60,No,58.06,69.28,0,0,4,6,3,Not Placed
+M,80,Others,80,Others,Computer Science,72,Yes,63.79,66.04,0,0,0,1,1,Placed
+M,73,Others,58,Others,Mechanical,56,No,84,52.64,1,0,3,4,1,Placed
+F,52,Others,52,Others,Electronics And Communication,55,No,67,59.32,0,0,8,1,1,Not Placed
+M,73.24,Others,50.83,Others,Information Technology,64.27,Yes,64,66.23,0,1,5,0,3,Placed
+M,63,Others,62,Others,Civil,65,No,87.5,60.69,0,0,7,2,2,Not Placed
+F,59,Central,60,Others,Mechanical,56,No,55,57.9,1,0,5,5,2,Placed
+F,73,Central,97,Others,Electronics And Communication,79,Yes,89,70.81,0,0,4,5,2,Placed
+M,68,Others,56,Others,Computer Science,68,No,73,68.07,0,0,6,5,2,Placed
+F,77.8,Central,64,Central,Mechanical,64.2,No,75.5,72.14,1,0,7,0,1,Not Placed
+M,65,Central,71.5,Others,Information Technology,62.8,Yes,57,56.6,0,0,2,3,2,Placed
+M,62,Central,60.33,Others,Electronics And Communication,64.21,No,63,60.02,1,1,5,4,2,Not Placed
+M,52,Others,65,Others,Electronics And Communication,57,Yes,75,59.81,0,0,8,3,1,Not Placed
+M,65,Central,77,Central,Electronics And Communication,69,No,60,61.82,0,0,3,4,1,Placed
+F,56.28,Others,62.83,Others,Information Technology,59.79,No,60,57.29,0,1,6,6,2,Not Placed
+F,88,Central,72,Central,Electrical,78,No,82,71.43,0,0,5,3,3,Placed
+F,52,Central,64,Central,Mechanical,61,No,55,62.93,0,0,6,0,3,Not Placed
+M,78.5,Central,65.5,Central,Electronics And Communication,67,Yes,95,64.86,0,1,1,4,1,Placed
+M,61.8,Others,47,Others,Information Technology,54.38,No,57,56.13,1,0,1,3,3,Not Placed
+F,54,Central,77.6,Others,Computer Science,69.2,No,95.65,66.94,1,1,3,1,2,Not Placed
+F,64,Others,70.2,Central,Information Technology,61,No,50,62.5,0,0,4,3,1,Not Placed
+M,67,Others,61,Central,Mechanical,72,No,72,61.01,1,1,0,0,2,Placed
+M,65.2,Central,61.4,Central,Information Technology,64.8,Yes,93.4,57.34,1,0,5,6,2,Placed
+F,60,Central,63,Central,Computer Science,56,Yes,80,56.63,0,1,3,3,3,Placed
+M,52,Others,55,Others,Electrical,56.3,No,59,64.74,0,0,1,5,1,Not Placed
+M,66,Central,76,Central,Information Technology,72,Yes,84,58.95,0,1,6,2,3,Placed
+M,72,Others,63,Others,Electronics And Communication,77.5,Yes,78,54.48,0,1,8,4,3,Placed
+F,83.96,Others,53,Others,Electrical,91,No,59.32,69.71,0,1,4,2,3,Placed
+F,67,Central,70,Central,Electronics And Communication,65,No,88,71.96,1,1,1,0,1,Not Placed
+M,69,Others,65,Others,Computer Science,57,No,73,55.8,0,0,2,2,1,Placed
+M,69,Others,60,Others,Mechanical,65,No,87.55,52.81,1,0,3,5,1,Placed
+M,54.2,Central,63,Others,Computer Science,58,No,79,58.44,0,0,0,3,1,Not Placed
+M,70,Central,63,Central,Electrical,66,No,61.28,60.11,0,0,0,2,2,Placed
+M,55.68,Others,61.33,Others,Civil,56.87,No,66,58.3,1,0,5,3,3,Placed
+F,74,Others,73,Others,Information Technology,73,Yes,80,67.69,0,0,4,2,1,Placed
+M,61,Others,62,Others,Computer Science,65,No,62,56.81,0,1,3,2,3,Placed
+M,41,Central,42,Central,Electrical,60,No,97,53.39,0,1,7,3,2,Not Placed
+M,83.33,Central,78,Others,Computer Science,61,Yes,88.56,71.55,0,0,6,5,3,Placed
+F,43,Central,60,Others,Computer Science,65,No,92.66,62.92,0,0,5,0,2,Not Placed
+M,62,Central,72,Central,Mechanical,65,No,67,56.49,1,0,7,3,2,Placed
+M,80.6,Others,82,Others,Electrical,77.6,No,91,74.49,0,0,4,3,2,Placed
+M,58,Others,60,Others,Mechanical,72,No,74,53.62,1,1,4,1,3,Placed
+M,67,Others,67,Others,Electrical,73,Yes,59,69.72,0,0,6,1,2,Placed
+F,74,Others,66,Others,Computer Science,58,No,70,60.23,1,0,4,0,2,Placed
+M,62,Central,58,Others,Computer Science,53,No,89,60.22,0,0,2,6,1,Not Placed
+M,67,Others,91,Others,Electrical,58,No,55,58.8,0,0,8,5,2,Placed
+M,79.33,Central,78.33,Others,Civil,77.48,Yes,86.5,66.28,0,0,5,3,2,Placed
+M,65,Central,68,Central,Civil,64,No,75,57.8,0,0,5,5,3,Placed
+M,56,Central,52,Central,Information Technology,52,No,66,59.43,0,0,2,3,2,Not Placed
+M,85.8,Central,73.6,Central,Computer Science,73.3,No,96.8,55.5,0,0,3,4,3,Placed
+M,55,Others,49.8,Others,Mechanical,67.25,Yes,55,51.58,1,1,3,6,2,Not Placed
+F,46,Others,49.2,Others,Civil,79,No,74.28,53.29,0,0,5,6,2,Not Placed
+M,82,Central,64,Central,Information Technology,66,Yes,67,62.14,1,0,4,2,3,Placed
+M,73,Central,79,Central,Civil,72,No,91.34,61.29,0,0,1,0,1,Placed
+M,58,Central,70,Central,Computer Science,61,No,54,52.21,0,1,1,6,2,Not Placed
+M,58,Central,61,Central,Electrical,60,Yes,62,60.85,0,0,3,6,3,Placed
+M,69.6,Central,68.4,Central,Electrical,78.3,Yes,60,63.7,0,1,1,1,2,Placed
+F,47,Central,55,Others,Electronics And Communication,65,No,62,65.04,0,1,0,5,3,Not Placed
+F,77,Central,87,Central,Computer Science,59,No,68,68.63,0,1,2,4,3,Placed
+M,62,Central,47,Central,Computer Science,50,No,76,54.96,0,1,2,3,1,Not Placed
+F,65,Central,75,Central,Civil,69,Yes,72,64.66,0,1,8,6,1,Placed
+M,63,Central,66.2,Central,Information Technology,65.6,Yes,60,62.54,0,0,7,6,1,Placed
+F,55,Central,67,Central,Electronics And Communication,64,No,60,67.28,0,0,7,4,2,Not Placed
+F,63,Central,66,Central,Civil,64,No,68,64.08,1,0,2,3,2,Not Placed
+M,60,Others,67,Others,Computer Science,70,Yes,50.48,77.89,0,0,5,4,1,Placed
+M,62,Others,65,Others,Electronics And Communication,66,No,50,56.7,0,0,1,2,1,Placed
+F,79,Others,76,Others,Information Technology,85,No,95,69.06,1,0,1,3,2,Placed
+F,69.8,Others,60.8,Others,Mechanical,72.23,No,55.53,68.81,1,0,2,6,1,Placed
+F,77.4,Others,60,Others,Mechanical,64.74,Yes,92,63.62,1,0,7,3,1,Placed
+M,76.5,Others,97.7,Others,Information Technology,78.86,No,97.4,74.01,0,0,6,2,3,Placed
+F,52.58,Others,54.6,Central,Mechanical,50.2,Yes,76,65.33,1,0,7,5,2,Not Placed
+M,71,Others,79,Others,Electronics And Communication,66,Yes,94,57.55,0,0,8,4,3,Placed
+M,63,Others,67,Others,Electrical,66,No,68,57.69,0,0,5,0,2,Placed
+M,76.76,Others,76.5,Others,Mechanical,67.5,Yes,73.35,64.15,1,0,7,1,1,Placed
+M,62,Central,67,Central,Mechanical,58,No,77,51.29,1,0,3,5,2,Not Placed
+F,64,Central,73.5,Central,Electronics And Communication,73,No,52,56.7,1,1,7,5,3,Placed
+F,67,Central,53,Central,Computer Science,65,No,64,58.32,0,1,7,3,2,Not Placed
+F,61,Central,81,Central,Computer Science,66.4,No,50.89,62.21,0,0,5,6,2,Placed
+F,87,Others,65,Others,Computer Science,81,Yes,88,72.78,0,1,8,5,2,Placed
+M,62,Others,51,Others,Information Technology,52,No,68.44,62.77,1,0,3,1,2,Not Placed
+F,69,Central,78,Central,Electronics And Communication,72,No,71,62.74,0,0,8,2,1,Placed
+M,51,Central,44,Central,Computer Science,57,No,64,51.45,0,0,6,4,1,Not Placed
+F,79,Central,76,Central,Civil,65.6,No,58,55.47,0,0,4,2,2,Placed
+F,73,Others,58,Others,Information Technology,66,No,53.7,56.86,0,0,1,6,1,Placed
+M,81,Others,68,Others,Information Technology,64,No,93,62.56,0,0,6,2,3,Placed
+F,78,Central,77,Others,Mechanical,80,No,60,66.72,1,0,2,2,2,Placed
+F,74,Others,63.16,Others,Civil,65,Yes,65,69.76,0,0,8,3,3,Not Placed
+M,49,Others,39,Central,Electrical,65,No,63,51.21,0,1,0,5,1,Not Placed
+M,87,Others,87,Others,Information Technology,68,No,95,62.9,0,1,1,1,1,Placed
+F,77,Others,73,Others,Mechanical,81,Yes,89,69.7,1,0,0,0,3,Placed
+F,76,Central,64,Central,Mechanical,72,No,58,66.53,1,1,8,5,1,Not Placed
+F,70.89,Others,71.98,Others,Information Technology,65.6,No,68,71.63,0,0,0,1,2,Not Placed
+M,63,Central,60,Central,Information Technology,57,Yes,78,54.55,0,0,3,0,3,Placed
+M,63,Others,62,Others,Computer Science,68,No,64,62.46,0,0,4,5,3,Placed
+F,50,Others,37,Others,Computer Science,52,No,65,56.11,0,0,5,5,3,Not Placed
+F,75.2,Central,73.2,Central,Computer Science,68.4,No,65,62.98,0,1,0,6,1,Placed
+M,54.4,Central,61.12,Central,Information Technology,56.2,No,67,62.65,0,1,8,0,3,Not Placed
+F,40.89,Others,45.83,Others,Computer Science,53,No,71.2,65.49,1,1,7,6,1,Not Placed
+M,80,Others,70,Others,Information Technology,72,No,87,71.04,0,0,8,1,3,Placed
+F,74,Central,60,Others,Electronics And Communication,69,No,78,65.56,0,1,8,2,3,Placed
+M,60.4,Central,66.6,Others,Mechanical,65,No,71,52.71,1,0,4,1,3,Placed
+M,63,Others,71.4,Others,Information Technology,61.4,No,68,66.88,1,0,3,6,2,Placed
+M,68,Central,76,Central,Electrical,74,No,80,63.59,0,0,6,0,3,Placed
+M,74,Central,62,Others,Mechanical,68,No,74,57.99,1,0,6,2,1,Placed
+M,52.6,Central,65.58,Others,Civil,72.11,No,57.6,56.66,1,0,1,6,2,Placed
+M,74,Central,70,Central,Information Technology,72,Yes,60,57.24,0,1,3,4,2,Placed
+M,84.2,Central,73.4,Central,Electronics And Communication,66.89,No,61.6,62.48,0,0,4,1,1,Placed
+F,86.5,Others,64.2,Others,Information Technology,67.4,No,59,59.69,0,0,6,1,2,Placed
+M,61,Others,70,Others,Electrical,64,No,68.5,59.5,0,0,3,5,1,Not Placed
+M,80,Others,73,Others,Mechanical,75,No,61,58.78,1,0,1,0,3,Placed
+M,54,Others,47,Others,Civil,57,No,89.69,57.1,1,0,4,0,2,Not Placed
+M,83,Others,74,Others,Electronics And Communication,66,No,68.92,58.46,0,0,4,4,2,Placed
+M,80.92,Others,78.5,Others,Computer Science,67,No,68.71,60.99,0,0,2,4,1,Placed
+F,69.7,Central,47,Central,Mechanical,72.7,No,79,59.24,1,1,5,2,1,Not Placed
+M,73,Central,73,Central,Mechanical,66,Yes,70,68.07,1,0,5,0,2,Placed
+M,82,Others,61,Others,Mechanical,62,No,89,65.45,1,0,4,1,2,Placed
+M,75,Others,70.29,Others,Computer Science,71,No,95,66.94,0,0,3,5,3,Placed
+M,84.86,Others,67,Others,Computer Science,78,No,95.5,68.53,0,0,2,6,2,Placed
+M,64.6,Central,83.83,Others,Electrical,71.72,No,86,59.75,0,0,8,1,1,Placed
+M,56.6,Central,64.8,Central,Civil,70.2,No,84.27,67.2,0,0,0,0,2,Placed
+F,59,Central,62,Others,Information Technology,77.5,No,74,67,1,0,8,0,3,Not Placed
+F,66.5,Others,70.4,Central,Electronics And Communication,71.93,No,61,64.27,1,1,2,0,1,Placed
+M,64,Others,80,Others,Information Technology,65,Yes,69,57.65,0,1,6,2,3,Placed
+M,84,Others,90.9,Others,Computer Science,64.5,No,86.04,59.42,0,0,8,6,1,Placed
+F,69,Central,62,Central,Information Technology,66,No,75,67.99,0,0,8,1,3,Not Placed
+F,69,Others,62,Others,Mechanical,69,Yes,67,62.35,1,0,0,0,2,Placed
+M,81.7,Others,63,Others,Mechanical,67,Yes,86,70.2,1,0,0,3,1,Placed
+M,63,Central,67,Central,Computer Science,74,No,82,60.44,1,0,8,1,3,Not Placed
+M,84,Others,79,Others,Electrical,68,Yes,84,66.69,0,1,3,3,1,Placed
+M,70,Central,63,Others,Civil,70,Yes,55,62,0,0,3,5,1,Placed
+F,83.84,Others,89.83,Others,Computer Science,77.2,Yes,78.74,76.18,1,0,4,3,1,Placed
+M,62,Others,63,Others,Electrical,64,No,67,57.03,0,0,1,0,3,Placed
+M,59.6,Central,51,Central,Information Technology,60,No,75,59.08,0,0,4,0,1,Not Placed
+F,66,Central,62,Central,Computer Science,73,No,58,64.36,1,0,7,5,3,Placed
+F,84,Others,75,Others,Computer Science,69,Yes,62,62.36,0,0,1,6,2,Placed
+F,85,Others,90,Others,Electronics And Communication,82,No,92,68.03,0,0,4,1,3,Placed
+M,52,Central,57,Central,Mechanical,50.8,No,67,62.79,1,0,8,6,1,Not Placed
+F,60.23,Central,69,Central,Electronics And Communication,66,No,72,59.47,0,0,1,1,2,Placed
+M,52,Central,62,Central,Computer Science,54,No,72,55.41,0,0,0,3,1,Not Placed
+M,58,Central,62,Central,Civil,64,No,53.88,54.97,0,0,6,3,1,Placed
+M,73,Central,78,Others,Electronics And Communication,65,Yes,95.46,62.16,0,1,4,2,2,Placed
+F,76,Central,70,Central,Electrical,76,Yes,66,64.44,0,0,4,4,3,Placed
+F,70.5,Central,62.5,Others,Electrical,61,No,93.91,69.03,0,0,5,6,2,Not Placed
+F,69,Central,73,Central,Information Technology,65,No,70,57.31,0,0,6,3,1,Placed
+M,54,Central,82,Others,Mechanical,63,No,50,59.47,1,0,1,1,2,Not Placed
+F,45,Others,57,Others,Civil,58,Yes,56.39,64.95,1,1,2,4,1,Not Placed
+M,63,Central,72,Central,Mechanical,68,No,78,60.44,1,0,1,2,2,Placed
+F,77,Others,61,Others,Electronics And Communication,68,Yes,57.5,61.31,0,0,6,0,2,Placed
+M,73,Central,78,Central,Mechanical,73,Yes,85,65.83,1,0,3,2,2,Placed
+M,69,Central,63,Others,Mechanical,65,Yes,55,58.23,0,0,4,1,1,Placed
+M,59,Central,64,Others,Computer Science,58,No,85,55.3,0,1,2,0,2,Not Placed
+M,61.08,Others,50,Others,Electronics And Communication,54,No,71,65.69,0,0,1,4,1,Not Placed
+M,82,Others,90,Others,Mechanical,83,No,80,73.52,0,0,3,5,2,Placed
+M,61,Central,82,Central,Information Technology,69,No,84,58.31,0,0,0,1,3,Placed
+M,52,Central,63,Others,Computer Science,65,Yes,86,56.09,0,0,8,3,1,Not Placed
+F,69.5,Central,70,Central,Civil,72,No,57.2,54.8,0,0,7,6,1,Placed
+M,51,Others,54,Others,Electronics And Communication,61,No,60,60.64,0,0,1,0,1,Not Placed
+M,58,Others,61,Others,Mechanical,61,No,58,53.94,1,0,5,6,1,Placed
+F,73.96,Others,79,Others,Information Technology,67,No,72.15,63.08,0,0,8,2,1,Placed
+M,65,Central,68,Others,Computer Science,69,No,53.7,55.01,0,0,5,5,3,Placed
+F,73,Others,63,Others,Computer Science,66,No,89,60.5,0,0,1,5,1,Placed
+M,68.2,Central,72.8,Central,Civil,66.6,Yes,96,70.85,0,0,0,6,1,Placed
+M,77,Others,75,Others,Civil,73,No,80,67.05,0,0,4,1,2,Placed
+M,76,Central,80,Central,Computer Science,78,Yes,97,70.48,1,0,1,1,2,Placed
+M,60.8,Central,68.4,Central,Mechanical,64.6,Yes,82.66,64.34,1,0,2,4,2,Placed
+M,58,Others,40,Others,Computer Science,59,No,73,58.81,0,0,0,1,2,Not Placed
+F,64,Central,67,Others,Information Technology,69.6,Yes,55.67,71.49,0,1,3,5,1,Placed
+F,66.5,Central,66.8,Central,Information Technology,69.3,Yes,80.4,71,0,1,6,5,2,Placed
+M,74,Others,59,Others,Electronics And Communication,73,Yes,60,56.7,0,0,4,3,2,Placed
+M,67,Central,71,Central,Information Technology,64.33,Yes,64,61.26,1,0,8,2,3,Placed
+F,84,Central,73,Central,Civil,73,No,75,73.33,0,0,6,6,1,Placed
+F,79,Others,61,Others,Electrical,75.5,Yes,70,68.2,1,1,8,6,3,Placed
+F,72,Others,60,Others,Civil,69,No,55.5,58.4,0,1,0,1,1,Placed
+M,80.4,Central,73.4,Central,Computer Science,77.72,Yes,81.2,76.26,0,0,8,3,2,Placed
+M,76.7,Central,89.7,Others,Electrical,66,Yes,90,68.55,0,0,0,2,3,Placed
+M,62,Central,65,Others,Information Technology,60,No,84,64.15,0,1,5,6,1,Not Placed
+F,74.9,Others,57,Others,Computer Science,62,Yes,80,60.78,0,0,0,1,1,Placed
+M,67,Others,68,Others,Electrical,64,Yes,74.4,53.49,0,1,6,0,1,Placed
+M,73,Central,64,Others,Electrical,77,Yes,65,60.98,0,0,5,0,1,Placed
+F,77.44,Central,92,Others,Electrical,72,Yes,94,67.13,0,0,6,3,1,Placed
+F,72,Central,56,Others,Computer Science,69,No,55.6,65.63,0,0,7,2,2,Placed
+F,47,Central,59,Central,Computer Science,64,No,78,61.58,0,0,8,2,1,Not Placed
+M,67,Others,63,Central,Computer Science,72,No,56,60.41,0,0,0,6,3,Placed
+F,82,Others,64,Others,Electrical,73,Yes,96,71.77,0,1,3,2,3,Placed
+M,77,Central,70,Central,Computer Science,59,Yes,58,54.43,0,0,0,4,3,Placed
+M,65,Central,64.8,Others,Electronics And Communication,69.5,Yes,56,56.94,0,0,6,3,2,Placed
+M,66,Central,64,Central,Electrical,60,No,60,61.9,0,0,4,0,2,Not Placed
+M,85,Central,60,Others,Information Technology,73.43,Yes,60,61.29,0,0,1,2,3,Placed
+M,77.67,Others,64.89,Others,Computer Science,70.67,No,89,60.39,0,0,1,5,3,Placed
+M,52,Others,50,Others,Information Technology,61,No,60,58.52,0,0,8,2,1,Not Placed
+M,89.4,Others,65.66,Others,Electronics And Communication,71.25,No,72,63.23,0,0,0,1,1,Placed
+M,62,Central,63,Others,Information Technology,66,No,85,55.14,0,0,4,2,2,Placed
+M,70,Central,74,Central,Civil,65,No,83,62.28,1,0,5,5,1,Placed
+F,77,Central,86,Central,Electrical,56,No,57,64.08,0,0,3,1,3,Placed
+M,44,Central,58,Central,Computer Science,55,Yes,64.25,58.54,0,0,3,5,1,Not Placed
+M,71,Central,58.66,Central,Information Technology,58,Yes,56,61.3,0,0,7,5,3,Placed
+M,65,Central,65,Central,Civil,75,No,83,58.87,0,0,6,2,3,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,0,0,7,5,3,Placed
+M,49,Others,59,Others,Civil,65,Yes,86,62.48,1,0,6,0,3,Placed
+M,53,Central,63,Others,Computer Science,60,Yes,70,53.2,0,1,5,3,3,Placed
+M,51.57,Others,74.66,Others,Electronics And Communication,59.9,Yes,56.15,65.99,0,0,8,3,3,Not Placed
+M,84.2,Central,69.4,Central,Computer Science,65,Yes,80,52.72,0,0,2,4,2,Placed
+M,66.5,Central,62.5,Central,Computer Science,60.9,No,93.4,55.03,0,0,3,5,3,Placed
+M,67,Others,63,Others,Computer Science,64,No,60,61.87,0,1,1,6,1,Not Placed
+M,52,Central,49,Others,Electronics And Communication,58,No,62,60.59,0,0,6,5,3,Not Placed
+M,87,Central,74,Central,Information Technology,65,Yes,75,72.29,0,1,8,4,1,Placed
+M,55.6,Others,51,Others,Electronics And Communication,57.5,No,57.63,62.72,0,0,8,0,2,Not Placed
+M,74.2,Central,87.6,Others,Information Technology,77.25,Yes,75.2,66.06,0,0,2,2,1,Placed
+M,63,Others,67,Others,Computer Science,64,No,75,66.46,0,0,7,2,3,Placed
+F,67.16,Central,72.5,Central,Electronics And Communication,63.35,No,53.04,65.52,0,0,4,5,2,Placed
+F,63.3,Central,78.33,Others,Computer Science,74,No,80,74.56,0,0,2,1,1,Not Placed
+M,62,Others,62,Others,Electronics And Communication,60,Yes,63,52.38,0,0,6,6,2,Placed
+M,67.9,Others,62,Others,Information Technology,67,Yes,58.1,75.71,0,0,4,0,2,Not Placed
+F,48,Central,51,Central,Information Technology,58,Yes,60,58.79,0,0,1,6,3,Not Placed
+M,59.96,Others,42.16,Others,Information Technology,61.26,No,54.48,65.48,1,0,6,1,3,Not Placed
+F,63.4,Others,67.2,Others,Computer Science,60,No,58.06,69.28,0,0,4,5,2,Not Placed
+M,80,Others,80,Others,Information Technology,72,Yes,63.79,66.04,1,0,2,6,1,Placed
+M,73,Others,58,Others,Computer Science,56,No,84,52.64,0,0,7,1,3,Placed
+F,52,Others,52,Others,Information Technology,55,No,67,59.32,0,0,0,2,3,Not Placed
+M,73.24,Others,50.83,Others,Computer Science,64.27,Yes,64,66.23,0,0,7,3,3,Placed
+M,63,Others,62,Others,Information Technology,65,No,87.5,60.69,1,0,6,5,3,Not Placed
+F,59,Central,60,Others,Computer Science,56,No,55,57.9,0,0,1,2,1,Placed
+F,73,Central,97,Others,Electrical,79,Yes,89,70.81,0,0,5,5,2,Placed
+M,68,Others,56,Others,Information Technology,68,No,73,68.07,0,1,2,2,3,Placed
+F,77.8,Central,64,Central,Computer Science,64.2,No,75.5,72.14,0,1,0,3,3,Not Placed
+M,65,Central,71.5,Others,Computer Science,62.8,Yes,57,56.6,0,0,0,3,3,Placed
+M,62,Central,60.33,Others,Civil,64.21,No,63,60.02,0,0,1,3,1,Not Placed
+M,52,Others,65,Others,Electrical,57,Yes,75,59.81,0,0,6,6,1,Not Placed
+M,65,Central,77,Central,Information Technology,69,No,60,61.82,0,1,0,0,1,Placed
+F,56.28,Others,62.83,Others,Electronics And Communication,59.79,No,60,57.29,0,0,3,1,3,Not Placed
+F,88,Central,72,Central,Electrical,78,No,82,71.43,0,1,7,1,3,Placed
+F,52,Central,64,Central,Electrical,61,No,55,62.93,0,0,6,5,2,Not Placed
+M,78.5,Central,65.5,Central,Electronics And Communication,67,Yes,95,64.86,0,0,6,0,3,Placed
+M,61.8,Others,47,Others,Mechanical,54.38,No,57,56.13,1,0,6,6,3,Not Placed
+F,54,Central,77.6,Others,Civil,69.2,No,95.65,66.94,1,1,5,6,2,Not Placed
+F,64,Others,70.2,Central,Computer Science,61,No,50,62.5,1,0,5,2,1,Not Placed
+M,67,Others,61,Central,Electrical,72,No,72,61.01,0,0,1,6,2,Placed
+M,65.2,Central,61.4,Central,Mechanical,64.8,Yes,93.4,57.34,1,0,0,0,3,Placed
+F,60,Central,63,Central,Electronics And Communication,56,Yes,80,56.63,0,0,0,1,3,Placed
+M,52,Others,55,Others,Electronics And Communication,56.3,No,59,64.74,0,0,3,6,1,Not Placed
+M,66,Central,76,Central,Electronics And Communication,72,Yes,84,58.95,0,0,3,2,1,Placed
+M,72,Others,63,Others,Mechanical,77.5,Yes,78,54.48,1,0,4,2,3,Placed
+F,83.96,Others,53,Others,Mechanical,91,No,59.32,69.71,1,0,5,0,3,Placed
+F,67,Central,70,Central,Civil,65,No,88,71.96,0,0,3,4,2,Not Placed
+M,69,Others,65,Others,Mechanical,57,No,73,55.8,1,0,0,5,1,Placed
+M,69,Others,60,Others,Information Technology,65,No,87.55,52.81,0,0,3,5,2,Placed
+M,54.2,Central,63,Others,Electronics And Communication,58,No,79,58.44,0,0,8,6,3,Not Placed
+M,70,Central,63,Central,Information Technology,66,No,61.28,60.11,0,1,2,0,2,Placed
+M,55.68,Others,61.33,Others,Computer Science,56.87,No,66,58.3,0,0,8,4,1,Placed
+F,74,Others,73,Others,Information Technology,73,Yes,80,67.69,0,0,4,0,2,Placed
+M,61,Others,62,Others,Electrical,65,No,62,56.81,0,0,0,2,1,Placed
+M,41,Central,42,Central,Electronics And Communication,60,No,97,53.39,0,0,0,0,2,Not Placed
+M,83.33,Central,78,Others,Computer Science,61,Yes,88.56,71.55,0,0,3,2,2,Placed
+F,43,Central,60,Others,Computer Science,65,No,92.66,62.92,0,0,5,1,2,Not Placed
+M,62,Central,72,Central,Mechanical,65,No,67,56.49,1,0,8,5,1,Placed
+M,80.6,Others,82,Others,Computer Science,77.6,No,91,74.49,0,0,8,6,2,Placed
+M,58,Others,60,Others,Computer Science,72,No,74,53.62,1,0,5,0,3,Placed
+M,67,Others,67,Others,Mechanical,73,Yes,59,69.72,1,1,1,1,3,Placed
+F,74,Others,66,Others,Electronics And Communication,58,No,70,60.23,0,1,6,3,3,Placed
+M,62,Central,58,Others,Computer Science,53,No,89,60.22,1,0,6,1,3,Not Placed
+M,67,Others,91,Others,Electrical,58,No,55,58.8,0,0,1,4,1,Placed
+M,79.33,Central,78.33,Others,Information Technology,77.48,Yes,86.5,66.28,1,0,3,0,2,Placed
+M,65,Central,68,Central,Information Technology,64,No,75,57.8,0,1,3,3,3,Placed
+M,56,Central,52,Central,Information Technology,52,No,66,59.43,0,0,0,2,1,Not Placed
+M,85.8,Central,73.6,Central,Mechanical,73.3,No,96.8,55.5,1,0,8,0,3,Placed
+M,55,Others,49.8,Others,Mechanical,67.25,Yes,55,51.58,1,0,3,5,1,Not Placed
+F,46,Others,49.2,Others,Electronics And Communication,79,No,74.28,53.29,0,0,5,2,2,Not Placed
+M,82,Central,64,Central,Information Technology,66,Yes,67,62.14,0,0,3,1,2,Placed
+M,73,Central,79,Central,Civil,72,No,91.34,61.29,0,0,8,1,1,Placed
+M,58,Central,70,Central,Electrical,61,No,54,52.21,0,0,7,3,1,Not Placed
+M,58,Central,61,Central,Electronics And Communication,60,Yes,62,60.85,0,0,4,1,1,Placed
+M,69.6,Central,68.4,Central,Information Technology,78.3,Yes,60,63.7,0,0,8,0,1,Placed
+F,47,Central,55,Others,Electrical,65,No,62,65.04,0,1,0,3,3,Not Placed
+F,77,Central,87,Central,Mechanical,59,No,68,68.63,1,0,5,4,2,Placed
+M,62,Central,47,Central,Electronics And Communication,50,No,76,54.96,0,0,6,3,1,Not Placed
+F,65,Central,75,Central,Information Technology,69,Yes,72,64.66,1,0,1,5,3,Placed
+M,63,Central,66.2,Central,Computer Science,65.6,Yes,60,62.54,0,1,5,6,3,Placed
+F,55,Central,67,Central,Electronics And Communication,64,No,60,67.28,1,1,1,6,1,Not Placed
+F,63,Central,66,Central,Computer Science,64,No,68,64.08,0,0,7,2,2,Not Placed
+M,60,Others,67,Others,Information Technology,70,Yes,50.48,77.89,0,0,3,1,2,Placed
+M,62,Others,65,Others,Electronics And Communication,66,No,50,56.7,0,0,7,1,1,Placed
+F,79,Others,76,Others,Mechanical,85,No,95,69.06,1,1,4,6,2,Placed
+F,69.8,Others,60.8,Others,Computer Science,72.23,No,55.53,68.81,0,0,5,0,1,Placed
+F,77.4,Others,60,Others,Electrical,64.74,Yes,92,63.62,1,1,2,1,1,Placed
+M,76.5,Others,97.7,Others,Civil,78.86,No,97.4,74.01,0,0,2,5,1,Placed
+F,52.58,Others,54.6,Central,Civil,50.2,Yes,76,65.33,0,0,0,6,2,Not Placed
+M,71,Others,79,Others,Electrical,66,Yes,94,57.55,0,0,7,5,3,Placed
+M,63,Others,67,Others,Computer Science,66,No,68,57.69,0,0,3,0,1,Placed
+M,76.76,Others,76.5,Others,Information Technology,67.5,Yes,73.35,64.15,0,0,6,6,1,Placed
+M,62,Central,67,Central,Electrical,58,No,77,51.29,0,0,6,5,2,Not Placed
+F,64,Central,73.5,Central,Mechanical,73,No,52,56.7,1,0,0,5,2,Placed
+F,67,Central,53,Central,Computer Science,65,No,64,58.32,0,0,7,0,1,Not Placed
+F,61,Central,81,Central,Computer Science,66.4,No,50.89,62.21,0,0,6,0,2,Placed
+F,87,Others,65,Others,Civil,81,Yes,88,72.78,0,0,2,2,1,Placed
+M,62,Others,51,Others,Information Technology,52,No,68.44,62.77,0,0,3,2,2,Not Placed
+F,69,Central,78,Central,Information Technology,72,No,71,62.74,0,1,6,5,1,Placed
+M,51,Central,44,Central,Computer Science,57,No,64,51.45,0,0,8,2,3,Not Placed
+F,79,Central,76,Central,Information Technology,65.6,No,58,55.47,0,0,4,5,2,Placed
+F,73,Others,58,Others,Electronics And Communication,66,No,53.7,56.86,0,0,7,4,1,Placed
+M,81,Others,68,Others,Civil,64,No,93,62.56,1,0,3,5,3,Placed
+F,78,Central,77,Others,Electronics And Communication,80,No,60,66.72,0,0,6,0,1,Placed
+F,74,Others,63.16,Others,Mechanical,65,Yes,65,69.76,1,0,4,6,1,Not Placed
+M,49,Others,39,Central,Electrical,65,No,63,51.21,0,0,3,6,1,Not Placed
+M,87,Others,87,Others,Mechanical,68,No,95,62.9,1,0,3,6,3,Placed
+F,77,Others,73,Others,Civil,81,Yes,89,69.7,0,0,1,1,3,Placed
+F,76,Central,64,Central,Information Technology,72,No,58,66.53,0,0,4,1,3,Not Placed
+F,70.89,Others,71.98,Others,Computer Science,65.6,No,68,71.63,0,0,6,1,3,Not Placed
+M,63,Central,60,Central,Computer Science,57,Yes,78,54.55,0,0,5,3,2,Placed
+M,63,Others,62,Others,Information Technology,68,No,64,62.46,0,0,0,4,1,Placed
+F,50,Others,37,Others,Information Technology,52,No,65,56.11,0,0,6,0,2,Not Placed
+F,75.2,Central,73.2,Central,Civil,68.4,No,65,62.98,0,0,7,1,1,Placed
+M,54.4,Central,61.12,Central,Computer Science,56.2,No,67,62.65,0,0,3,0,2,Not Placed
+F,40.89,Others,45.83,Others,Computer Science,53,No,71.2,65.49,0,1,8,2,3,Not Placed
+M,80,Others,70,Others,Mechanical,72,No,87,71.04,1,0,6,3,3,Placed
+F,74,Central,60,Others,Electrical,69,No,78,65.56,0,0,0,4,3,Placed
+M,60.4,Central,66.6,Others,Computer Science,65,No,71,52.71,0,0,2,0,2,Placed
+M,63,Others,71.4,Others,Electronics And Communication,61.4,No,68,66.88,0,0,3,2,2,Placed
+M,68,Central,76,Central,Electrical,74,No,80,63.59,0,1,8,4,1,Placed
+M,74,Central,62,Others,Computer Science,68,No,74,57.99,0,0,2,0,1,Placed
+M,52.6,Central,65.58,Others,Electronics And Communication,72.11,No,57.6,56.66,0,0,5,0,2,Placed
+M,74,Central,70,Central,Computer Science,72,Yes,60,57.24,0,0,8,1,3,Placed
+M,84.2,Central,73.4,Central,Electronics And Communication,66.89,No,61.6,62.48,0,0,7,4,3,Placed
+F,86.5,Others,64.2,Others,Electrical,67.4,No,59,59.69,0,0,1,4,2,Placed
+M,61,Others,70,Others,Civil,64,No,68.5,59.5,1,0,1,2,1,Not Placed
+M,80,Others,73,Others,Computer Science,75,No,61,58.78,0,0,7,0,3,Placed
+M,54,Others,47,Others,Information Technology,57,No,89.69,57.1,0,0,3,6,3,Not Placed
+M,83,Others,74,Others,Information Technology,66,No,68.92,58.46,1,0,2,4,1,Placed
+M,80.92,Others,78.5,Others,Electrical,67,No,68.71,60.99,0,0,2,6,3,Placed
+F,69.7,Central,47,Central,Information Technology,72.7,No,79,59.24,0,0,6,6,2,Not Placed
+M,73,Central,73,Central,Information Technology,66,Yes,70,68.07,0,0,1,1,2,Placed
+M,82,Others,61,Others,Computer Science,62,No,89,65.45,0,0,3,0,2,Placed
+M,75,Others,70.29,Others,Computer Science,71,No,95,66.94,0,0,1,2,2,Placed
+M,84.86,Others,67,Others,Civil,78,No,95.5,68.53,0,0,7,3,3,Placed
+M,64.6,Central,83.83,Others,Electronics And Communication,71.72,No,86,59.75,0,0,1,0,2,Placed
+M,56.6,Central,64.8,Central,Computer Science,70.2,No,84.27,67.2,0,0,5,0,1,Placed
+F,59,Central,62,Others,Computer Science,77.5,No,74,67,0,1,4,3,3,Not Placed
+F,66.5,Others,70.4,Central,Mechanical,71.93,No,61,64.27,1,0,1,5,2,Placed
+M,64,Others,80,Others,Mechanical,65,Yes,69,57.65,1,0,0,5,3,Placed
+M,84,Others,90.9,Others,Information Technology,64.5,No,86.04,59.42,0,0,3,1,2,Placed
+F,69,Central,62,Central,Civil,66,No,75,67.99,0,1,5,6,2,Not Placed
+F,69,Others,62,Others,Computer Science,69,Yes,67,62.35,0,0,1,5,3,Placed
+M,81.7,Others,63,Others,Electrical,67,Yes,86,70.2,1,0,8,3,1,Placed
+M,63,Central,67,Central,Electrical,74,No,82,60.44,0,1,6,6,2,Not Placed
+M,84,Others,79,Others,Civil,68,Yes,84,66.69,0,0,1,5,2,Placed
+M,70,Central,63,Others,Mechanical,70,Yes,55,62,0,1,7,3,1,Placed
+F,83.84,Others,89.83,Others,Computer Science,77.2,Yes,78.74,76.18,0,0,2,3,2,Placed
+M,62,Others,63,Others,Electrical,64,No,67,57.03,0,0,3,1,3,Placed
+M,59.6,Central,51,Central,Mechanical,60,No,75,59.08,1,0,3,0,2,Not Placed
+F,66,Central,62,Central,Information Technology,73,No,58,64.36,0,0,1,1,2,Placed
+F,84,Others,75,Others,Mechanical,69,Yes,62,62.36,0,0,8,2,2,Placed
+F,85,Others,90,Others,Civil,82,No,92,68.03,0,0,3,5,2,Placed
+M,52,Central,57,Central,Electrical,50.8,No,67,62.79,0,0,1,4,3,Not Placed
+F,60.23,Central,69,Central,Mechanical,66,No,72,59.47,1,1,1,2,3,Placed
+M,52,Central,62,Central,Computer Science,54,No,72,55.41,1,0,6,3,3,Not Placed
+M,58,Central,62,Central,Information Technology,64,No,53.88,54.97,0,0,8,0,1,Placed
+M,73,Central,78,Others,Mechanical,65,Yes,95.46,62.16,1,0,3,0,2,Placed
+F,76,Central,70,Central,Computer Science,76,Yes,66,64.44,0,0,2,2,2,Placed
+F,70.5,Central,62.5,Others,Information Technology,61,No,93.91,69.03,0,0,4,0,3,Not Placed
+F,69,Central,73,Central,Electrical,65,No,70,57.31,0,0,7,1,3,Placed
+M,54,Central,82,Others,Computer Science,63,No,50,59.47,0,0,0,4,1,Not Placed
+F,45,Others,57,Others,Civil,58,Yes,56.39,64.95,0,0,5,2,1,Not Placed
+M,63,Central,72,Central,Information Technology,68,No,78,60.44,0,0,3,6,3,Placed
+F,77,Others,61,Others,Civil,68,Yes,57.5,61.31,0,0,8,0,1,Placed
+M,73,Central,78,Central,Computer Science,73,Yes,85,65.83,0,0,6,2,2,Placed
+M,69,Central,63,Others,Information Technology,65,Yes,55,58.23,0,0,8,1,3,Placed
+M,59,Central,64,Others,Information Technology,58,No,85,55.3,0,1,7,3,3,Not Placed
+M,61.08,Others,50,Others,Electronics And Communication,54,No,71,65.69,1,1,3,4,2,Not Placed
+M,82,Others,90,Others,Civil,83,No,80,73.52,0,0,4,4,2,Placed
+M,61,Central,82,Central,Computer Science,69,No,84,58.31,0,0,2,4,2,Placed
+M,52,Central,63,Others,Information Technology,65,Yes,86,56.09,0,0,3,5,2,Not Placed
+F,69.5,Central,70,Central,Computer Science,72,No,57.2,54.8,0,0,5,1,3,Placed
+M,51,Others,54,Others,Civil,61,No,60,60.64,1,0,0,1,3,Not Placed
+M,58,Others,61,Others,Mechanical,61,No,58,53.94,1,0,3,2,3,Placed
+F,73.96,Others,79,Others,Electrical,67,No,72.15,63.08,0,0,6,2,1,Placed
+M,65,Central,68,Others,Information Technology,69,No,53.7,55.01,0,0,1,6,3,Placed
+F,73,Others,63,Others,Computer Science,66,No,89,60.5,0,0,4,4,3,Placed
+M,68.2,Central,72.8,Central,Information Technology,66.6,Yes,96,70.85,0,0,2,5,1,Placed
+M,77,Others,75,Others,Electrical,73,No,80,67.05,0,0,7,5,1,Placed
+M,76,Central,80,Central,Information Technology,78,Yes,97,70.48,0,0,1,4,1,Placed
+M,60.8,Central,68.4,Central,Computer Science,64.6,Yes,82.66,64.34,1,0,7,6,2,Placed
+M,58,Others,40,Others,Electronics And Communication,59,No,73,58.81,0,0,5,2,3,Not Placed
+F,64,Central,67,Others,Computer Science,69.6,Yes,55.67,71.49,1,0,0,4,1,Placed
+F,66.5,Central,66.8,Central,Computer Science,69.3,Yes,80.4,71,0,0,6,4,1,Placed
+M,74,Others,59,Others,Information Technology,73,Yes,60,56.7,0,0,6,6,2,Placed
+M,67,Central,71,Central,Electrical,64.33,Yes,64,61.26,0,0,1,0,1,Placed
+F,84,Central,73,Central,Mechanical,73,No,75,73.33,1,0,7,1,2,Placed
+F,79,Others,61,Others,Computer Science,75.5,Yes,70,68.2,1,0,8,1,2,Placed
+F,72,Others,60,Others,Computer Science,69,No,55.5,58.4,0,0,4,5,3,Placed
+M,80.4,Central,73.4,Central,Computer Science,77.72,Yes,81.2,76.26,0,0,0,6,3,Placed
+M,76.7,Central,89.7,Others,Information Technology,66,Yes,90,68.55,0,0,7,2,1,Placed
+M,62,Central,65,Others,Electronics And Communication,60,No,84,64.15,0,0,0,4,2,Not Placed
+F,74.9,Others,57,Others,Electrical,62,Yes,80,60.78,0,0,3,4,1,Placed
+M,67,Others,68,Others,Computer Science,64,Yes,74.4,53.49,0,0,2,2,3,Placed
+M,73,Central,64,Others,Electrical,77,Yes,65,60.98,0,0,8,0,2,Placed
+F,77.44,Central,92,Others,Electrical,72,Yes,94,67.13,0,1,0,3,3,Placed
+F,72,Central,56,Others,Mechanical,69,No,55.6,65.63,0,0,7,5,1,Placed
+F,47,Central,59,Central,Electrical,64,No,78,61.58,1,0,0,4,1,Not Placed
+M,67,Others,63,Central,Information Technology,72,No,56,60.41,0,0,1,0,3,Placed
+F,82,Others,64,Others,Mechanical,73,Yes,96,71.77,1,0,5,1,2,Placed
+M,77,Central,70,Central,Computer Science,59,Yes,58,54.43,0,0,7,3,3,Placed
+M,65,Central,64.8,Others,Civil,69.5,Yes,56,56.94,1,1,6,0,3,Placed
+M,66,Central,64,Central,Information Technology,60,No,60,61.9,0,0,7,6,1,Not Placed
+M,85,Central,60,Others,Electronics And Communication,73.43,Yes,60,61.29,1,1,2,2,3,Placed
+M,77.67,Others,64.89,Others,Information Technology,70.67,No,89,60.39,0,0,6,0,2,Placed
+M,52,Others,50,Others,Mechanical,61,No,60,58.52,1,0,3,2,3,Not Placed
+M,89.4,Others,65.66,Others,Civil,71.25,No,72,63.23,1,0,4,6,1,Placed
+M,62,Central,63,Others,Civil,66,No,85,55.14,0,0,3,3,2,Placed
+M,70,Central,74,Central,Computer Science,65,No,83,62.28,0,0,2,5,1,Placed
+F,77,Central,86,Central,Electronics And Communication,56,No,57,64.08,0,0,5,0,2,Placed
+M,44,Central,58,Central,Computer Science,55,Yes,64.25,58.54,0,1,8,0,1,Not Placed
+M,71,Central,58.66,Central,Electrical,58,Yes,56,61.3,0,0,7,2,2,Placed
+M,65,Central,65,Central,Information Technology,75,No,83,58.87,1,0,1,5,1,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,1,0,0,0,2,Placed
+M,49,Others,59,Others,Electrical,65,Yes,86,62.48,0,0,0,5,2,Placed
+M,53,Central,63,Others,Electronics And Communication,60,Yes,70,53.2,0,1,5,5,1,Placed
+M,51.57,Others,74.66,Others,Information Technology,59.9,Yes,56.15,65.99,0,0,6,0,3,Not Placed
+M,84.2,Central,69.4,Central,Computer Science,65,Yes,80,52.72,0,0,6,0,3,Placed
+M,66.5,Central,62.5,Central,Civil,60.9,No,93.4,55.03,0,0,4,1,1,Placed
+M,67,Others,63,Others,Information Technology,64,No,60,61.87,0,0,0,4,2,Not Placed
+M,52,Central,49,Others,Computer Science,58,No,62,60.59,0,0,7,4,2,Not Placed
+M,87,Central,74,Central,Mechanical,65,Yes,75,72.29,1,0,2,3,2,Placed
+M,55.6,Others,51,Others,Civil,57.5,No,57.63,62.72,0,0,0,1,1,Not Placed
+M,74.2,Central,87.6,Others,Computer Science,77.25,Yes,75.2,66.06,0,0,7,6,3,Placed
+M,63,Others,67,Others,Computer Science,64,No,75,66.46,0,0,7,5,1,Placed
+F,67.16,Central,72.5,Central,Civil,63.35,No,53.04,65.52,0,0,6,1,1,Placed
+F,63.3,Central,78.33,Others,Computer Science,74,No,80,74.56,0,0,3,4,2,Not Placed
+M,62,Others,62,Others,Civil,60,Yes,63,52.38,0,0,5,3,3,Placed
+M,67.9,Others,62,Others,Electronics And Communication,67,Yes,58.1,75.71,1,1,6,1,3,Not Placed
+F,48,Central,51,Central,Mechanical,58,Yes,60,58.79,0,0,0,1,2,Not Placed
+M,59.96,Others,42.16,Others,Information Technology,61.26,No,54.48,65.48,0,0,1,5,2,Not Placed
+F,63.4,Others,67.2,Others,Civil,60,No,58.06,69.28,0,0,2,2,2,Not Placed
+M,80,Others,80,Others,Electronics And Communication,72,Yes,63.79,66.04,0,0,1,5,2,Placed
+M,73,Others,58,Others,Mechanical,56,No,84,52.64,1,0,5,5,3,Placed
+F,52,Others,52,Others,Electrical,55,No,67,59.32,0,0,1,2,3,Not Placed
+M,73.24,Others,50.83,Others,Computer Science,64.27,Yes,64,66.23,0,0,1,2,1,Placed
+M,63,Others,62,Others,Information Technology,65,No,87.5,60.69,1,0,6,5,3,Not Placed
+F,59,Central,60,Others,Electronics And Communication,56,No,55,57.9,1,0,5,3,2,Placed
+F,73,Central,97,Others,Computer Science,79,Yes,89,70.81,0,0,3,2,2,Placed
+M,68,Others,56,Others,Civil,68,No,73,68.07,0,1,2,0,3,Placed
+F,77.8,Central,64,Central,Electronics And Communication,64.2,No,75.5,72.14,0,0,7,0,2,Not Placed
+M,65,Central,71.5,Others,Civil,62.8,Yes,57,56.6,1,0,4,1,1,Placed
+M,62,Central,60.33,Others,Mechanical,64.21,No,63,60.02,1,0,7,2,2,Not Placed
+M,52,Others,65,Others,Information Technology,57,Yes,75,59.81,0,0,5,5,1,Not Placed
+M,65,Central,77,Central,Electronics And Communication,69,No,60,61.82,0,0,8,2,1,Placed
+F,56.28,Others,62.83,Others,Information Technology,59.79,No,60,57.29,0,0,3,5,3,Not Placed
+F,88,Central,72,Central,Electronics And Communication,78,No,82,71.43,0,0,4,2,1,Placed
+F,52,Central,64,Central,Information Technology,61,No,55,62.93,0,0,6,0,3,Not Placed
+M,78.5,Central,65.5,Central,Electronics And Communication,67,Yes,95,64.86,0,0,1,0,1,Placed
+M,61.8,Others,47,Others,Mechanical,54.38,No,57,56.13,1,0,2,1,3,Not Placed
+F,54,Central,77.6,Others,Mechanical,69.2,No,95.65,66.94,1,0,4,3,1,Not Placed
+F,64,Others,70.2,Central,Mechanical,61,No,50,62.5,1,0,2,6,1,Not Placed
+M,67,Others,61,Central,Electrical,72,No,72,61.01,1,0,6,5,1,Placed
+M,65.2,Central,61.4,Central,Information Technology,64.8,Yes,93.4,57.34,0,0,6,1,1,Placed
+F,60,Central,63,Central,Information Technology,56,Yes,80,56.63,0,0,7,5,3,Placed
+M,52,Others,55,Others,Computer Science,56.3,No,59,64.74,0,0,6,6,3,Not Placed
+M,66,Central,76,Central,Information Technology,72,Yes,84,58.95,0,0,4,5,3,Placed
+M,72,Others,63,Others,Computer Science,77.5,Yes,78,54.48,0,0,2,1,2,Placed
+F,83.96,Others,53,Others,Mechanical,91,No,59.32,69.71,1,0,4,1,3,Placed
+F,67,Central,70,Central,Electrical,65,No,88,71.96,1,0,2,0,3,Not Placed
+M,69,Others,65,Others,Electronics And Communication,57,No,73,55.8,1,1,3,0,2,Placed
+M,69,Others,60,Others,Computer Science,65,No,87.55,52.81,0,0,5,3,1,Placed
+M,54.2,Central,63,Others,Electrical,58,No,79,58.44,0,0,5,4,1,Not Placed
+M,70,Central,63,Central,Electronics And Communication,66,No,61.28,60.11,0,0,8,1,3,Placed
+M,55.68,Others,61.33,Others,Information Technology,56.87,No,66,58.3,0,1,3,4,2,Placed
+F,74,Others,73,Others,Electronics And Communication,73,Yes,80,67.69,0,0,5,5,3,Placed
+M,61,Others,62,Others,Mechanical,65,No,62,56.81,1,0,6,6,2,Placed
+M,41,Central,42,Central,Information Technology,60,No,97,53.39,0,0,8,4,2,Not Placed
+M,83.33,Central,78,Others,Electrical,61,Yes,88.56,71.55,0,0,5,3,3,Placed
+F,43,Central,60,Others,Electronics And Communication,65,No,92.66,62.92,0,0,1,1,3,Not Placed
+M,62,Central,72,Central,Computer Science,65,No,67,56.49,0,0,4,4,3,Placed
+M,80.6,Others,82,Others,Computer Science,77.6,No,91,74.49,0,0,4,5,2,Placed
+M,58,Others,60,Others,Computer Science,72,No,74,53.62,0,0,0,1,3,Placed
+M,67,Others,67,Others,Information Technology,73,Yes,59,69.72,0,0,3,4,3,Placed
+F,74,Others,66,Others,Information Technology,58,No,70,60.23,0,0,5,3,2,Placed
+M,62,Central,58,Others,Civil,53,No,89,60.22,0,1,8,2,1,Not Placed
+M,67,Others,91,Others,Mechanical,58,No,55,58.8,1,0,5,6,2,Placed
+M,79.33,Central,78.33,Others,Computer Science,77.48,Yes,86.5,66.28,0,0,5,1,1,Placed
+M,65,Central,68,Central,Mechanical,64,No,75,57.8,1,0,4,5,2,Placed
+M,56,Central,52,Central,Electrical,52,No,66,59.43,1,1,1,6,2,Not Placed
+M,85.8,Central,73.6,Central,Computer Science,73.3,No,96.8,55.5,1,0,3,5,2,Placed
+M,55,Others,49.8,Others,Mechanical,67.25,Yes,55,51.58,0,0,0,6,1,Not Placed
+F,46,Others,49.2,Others,Civil,79,No,74.28,53.29,1,0,6,5,3,Not Placed
+M,82,Central,64,Central,Electronics And Communication,66,Yes,67,62.14,0,0,0,4,2,Placed
+M,73,Central,79,Central,Information Technology,72,No,91.34,61.29,0,0,0,1,3,Placed
+M,58,Central,70,Central,Electronics And Communication,61,No,54,52.21,0,0,3,1,1,Not Placed
+M,58,Central,61,Central,Information Technology,60,Yes,62,60.85,0,0,4,6,2,Placed
+M,69.6,Central,68.4,Central,Mechanical,78.3,Yes,60,63.7,1,0,4,6,2,Placed
+F,47,Central,55,Others,Mechanical,65,No,62,65.04,1,0,4,5,3,Not Placed
+F,77,Central,87,Central,Information Technology,59,No,68,68.63,0,0,5,0,1,Placed
+M,62,Central,47,Central,Information Technology,50,No,76,54.96,0,0,5,1,1,Not Placed
+F,65,Central,75,Central,Electrical,69,Yes,72,64.66,1,1,0,5,2,Placed
+M,63,Central,66.2,Central,Computer Science,65.6,Yes,60,62.54,0,0,3,3,3,Placed
+F,55,Central,67,Central,Computer Science,64,No,60,67.28,0,1,8,6,1,Not Placed
+F,63,Central,66,Central,Information Technology,64,No,68,64.08,0,0,0,5,1,Not Placed
+M,60,Others,67,Others,Electronics And Communication,70,Yes,50.48,77.89,1,1,0,4,2,Placed
+M,62,Others,65,Others,Information Technology,66,No,50,56.7,0,0,4,4,3,Placed
+F,79,Others,76,Others,Information Technology,85,No,95,69.06,0,0,1,2,3,Placed
+F,69.8,Others,60.8,Others,Computer Science,72.23,No,55.53,68.81,0,1,8,3,2,Placed
+F,77.4,Others,60,Others,Information Technology,64.74,Yes,92,63.62,0,0,3,5,2,Placed
+M,76.5,Others,97.7,Others,Computer Science,78.86,No,97.4,74.01,0,1,6,5,3,Placed
+F,52.58,Others,54.6,Central,Electrical,50.2,Yes,76,65.33,0,0,8,3,1,Not Placed
+M,71,Others,79,Others,Information Technology,66,Yes,94,57.55,0,1,7,1,3,Placed
+M,63,Others,67,Others,Mechanical,66,No,68,57.69,1,0,2,4,3,Placed
+M,76.76,Others,76.5,Others,Information Technology,67.5,Yes,73.35,64.15,0,0,6,5,3,Placed
+M,62,Central,67,Central,Electrical,58,No,77,51.29,0,0,3,4,2,Not Placed
+F,64,Central,73.5,Central,Electronics And Communication,73,No,52,56.7,0,0,1,5,1,Placed
+F,67,Central,53,Central,Information Technology,65,No,64,58.32,0,0,7,4,1,Not Placed
+F,61,Central,81,Central,Computer Science,66.4,No,50.89,62.21,1,0,6,3,3,Placed
+F,87,Others,65,Others,Information Technology,81,Yes,88,72.78,0,0,2,3,3,Placed
+M,62,Others,51,Others,Information Technology,52,No,68.44,62.77,0,0,2,6,2,Not Placed
+F,69,Central,78,Central,Civil,72,No,71,62.74,1,1,8,1,2,Placed
+M,51,Central,44,Central,Information Technology,57,No,64,51.45,0,0,0,1,1,Not Placed
+F,79,Central,76,Central,Electrical,65.6,No,58,55.47,0,0,7,1,3,Placed
+F,73,Others,58,Others,Information Technology,66,No,53.7,56.86,0,0,5,5,3,Placed
+M,81,Others,68,Others,Information Technology,64,No,93,62.56,0,0,2,6,1,Placed
+F,78,Central,77,Others,Mechanical,80,No,60,66.72,1,1,4,2,3,Placed
+F,74,Others,63.16,Others,Information Technology,65,Yes,65,69.76,1,0,8,5,1,Not Placed
+M,49,Others,39,Central,Mechanical,65,No,63,51.21,1,1,1,2,2,Not Placed
+M,87,Others,87,Others,Information Technology,68,No,95,62.9,0,0,8,6,3,Placed
+F,77,Others,73,Others,Mechanical,81,Yes,89,69.7,1,0,5,5,2,Placed
+F,76,Central,64,Central,Electrical,72,No,58,66.53,0,1,8,4,1,Not Placed
+F,70.89,Others,71.98,Others,Information Technology,65.6,No,68,71.63,0,0,4,0,1,Not Placed
+M,63,Central,60,Central,Computer Science,57,Yes,78,54.55,0,0,0,5,1,Placed
+M,63,Others,62,Others,Information Technology,68,No,64,62.46,0,0,3,0,3,Placed
+F,50,Others,37,Others,Mechanical,52,No,65,56.11,1,0,1,3,1,Not Placed
+F,75.2,Central,73.2,Central,Information Technology,68.4,No,65,62.98,0,0,0,2,3,Placed
+M,54.4,Central,61.12,Central,Electrical,56.2,No,67,62.65,0,0,5,1,2,Not Placed
+F,40.89,Others,45.83,Others,Electronics And Communication,53,No,71.2,65.49,1,1,2,6,3,Not Placed
+M,80,Others,70,Others,Civil,72,No,87,71.04,0,0,2,1,2,Placed
+F,74,Central,60,Others,Civil,69,No,78,65.56,0,0,6,2,2,Placed
+M,60.4,Central,66.6,Others,Information Technology,65,No,71,52.71,0,0,7,1,2,Placed
+M,63,Others,71.4,Others,Information Technology,61.4,No,68,66.88,0,0,2,3,3,Placed
+M,68,Central,76,Central,Civil,74,No,80,63.59,1,0,6,5,2,Placed
+M,74,Central,62,Others,Computer Science,68,No,74,57.99,0,1,5,4,3,Placed
+M,52.6,Central,65.58,Others,Information Technology,72.11,No,57.6,56.66,0,0,5,0,3,Placed
+M,74,Central,70,Central,Civil,72,Yes,60,57.24,0,0,1,5,1,Placed
+M,84.2,Central,73.4,Central,Civil,66.89,No,61.6,62.48,0,0,6,0,2,Placed
+F,86.5,Others,64.2,Others,Computer Science,67.4,No,59,59.69,0,0,8,2,2,Placed
+M,61,Others,70,Others,Civil,64,No,68.5,59.5,0,0,8,2,3,Not Placed
+M,80,Others,73,Others,Civil,75,No,61,58.78,0,0,8,1,1,Placed
+M,54,Others,47,Others,Information Technology,57,No,89.69,57.1,0,1,1,5,1,Not Placed
+M,83,Others,74,Others,Mechanical,66,No,68.92,58.46,1,0,3,5,2,Placed
+M,80.92,Others,78.5,Others,Information Technology,67,No,68.71,60.99,0,0,0,6,3,Placed
+F,69.7,Central,47,Central,Civil,72.7,No,79,59.24,0,1,0,5,1,Not Placed
+M,73,Central,73,Central,Information Technology,66,Yes,70,68.07,0,0,1,6,3,Placed
+M,82,Others,61,Others,Electronics And Communication,62,No,89,65.45,0,0,8,2,2,Placed
+M,75,Others,70.29,Others,Computer Science,71,No,95,66.94,0,0,3,6,3,Placed
+M,84.86,Others,67,Others,Information Technology,78,No,95.5,68.53,1,0,7,3,1,Placed
+M,64.6,Central,83.83,Others,Computer Science,71.72,No,86,59.75,0,0,0,1,3,Placed
+M,56.6,Central,64.8,Central,Information Technology,70.2,No,84.27,67.2,0,1,5,0,3,Placed
+F,59,Central,62,Others,Computer Science,77.5,No,74,67,0,0,2,6,1,Not Placed
+F,66.5,Others,70.4,Central,Mechanical,71.93,No,61,64.27,1,1,1,4,2,Placed
+M,64,Others,80,Others,Computer Science,65,Yes,69,57.65,1,0,4,0,1,Placed
+M,84,Others,90.9,Others,Mechanical,64.5,No,86.04,59.42,1,0,7,5,1,Placed
+F,69,Central,62,Central,Civil,66,No,75,67.99,0,0,1,2,2,Not Placed
+F,69,Others,62,Others,Information Technology,69,Yes,67,62.35,0,1,7,2,3,Placed
+M,81.7,Others,63,Others,Mechanical,67,Yes,86,70.2,1,0,8,3,1,Placed
+M,63,Central,67,Central,Computer Science,74,No,82,60.44,0,0,4,6,1,Not Placed
+M,84,Others,79,Others,Electronics And Communication,68,Yes,84,66.69,0,0,7,3,3,Placed
+M,70,Central,63,Others,Computer Science,70,Yes,55,62,0,0,4,2,2,Placed
+F,83.84,Others,89.83,Others,Computer Science,77.2,Yes,78.74,76.18,0,0,8,3,1,Placed
+M,62,Others,63,Others,Computer Science,64,No,67,57.03,0,0,5,2,1,Placed
+M,59.6,Central,51,Central,Computer Science,60,No,75,59.08,0,0,7,5,3,Not Placed
+F,66,Central,62,Central,Information Technology,73,No,58,64.36,0,1,2,0,3,Placed
+F,84,Others,75,Others,Computer Science,69,Yes,62,62.36,0,0,4,0,1,Placed
+F,85,Others,90,Others,Information Technology,82,No,92,68.03,0,0,4,4,3,Placed
+M,52,Central,57,Central,Information Technology,50.8,No,67,62.79,0,0,2,2,2,Not Placed
+F,60.23,Central,69,Central,Computer Science,66,No,72,59.47,0,0,2,2,3,Placed
+M,52,Central,62,Central,Civil,54,No,72,55.41,0,0,0,1,2,Not Placed
+M,58,Central,62,Central,Mechanical,64,No,53.88,54.97,1,0,5,3,2,Placed
+M,73,Central,78,Others,Information Technology,65,Yes,95.46,62.16,0,0,1,5,2,Placed
+F,76,Central,70,Central,Information Technology,76,Yes,66,64.44,0,0,8,5,1,Placed
+F,70.5,Central,62.5,Others,Mechanical,61,No,93.91,69.03,1,0,6,2,3,Not Placed
+F,69,Central,73,Central,Computer Science,65,No,70,57.31,0,0,6,4,2,Placed
+M,54,Central,82,Others,Computer Science,63,No,50,59.47,0,0,3,5,1,Not Placed
+F,45,Others,57,Others,Mechanical,58,Yes,56.39,64.95,1,0,0,0,1,Not Placed
+M,63,Central,72,Central,Information Technology,68,No,78,60.44,1,0,3,6,1,Placed
+F,77,Others,61,Others,Information Technology,68,Yes,57.5,61.31,0,1,5,1,3,Placed
+M,73,Central,78,Central,Information Technology,73,Yes,85,65.83,0,1,1,2,1,Placed
+M,69,Central,63,Others,Information Technology,65,Yes,55,58.23,0,0,0,2,1,Placed
+M,59,Central,64,Others,Electrical,58,No,85,55.3,1,1,1,0,3,Not Placed
+M,61.08,Others,50,Others,Mechanical,54,No,71,65.69,1,0,6,1,2,Not Placed
+M,82,Others,90,Others,Electronics And Communication,83,No,80,73.52,0,0,4,0,3,Placed
+M,61,Central,82,Central,Mechanical,69,No,84,58.31,1,0,2,4,1,Placed
+M,52,Central,63,Others,Electrical,65,Yes,86,56.09,0,0,3,1,2,Not Placed
+F,69.5,Central,70,Central,Electronics And Communication,72,No,57.2,54.8,0,0,3,2,3,Placed
+M,51,Others,54,Others,Civil,61,No,60,60.64,0,0,5,6,2,Not Placed
+M,58,Others,61,Others,Civil,61,No,58,53.94,1,0,8,0,3,Placed
+F,73.96,Others,79,Others,Computer Science,67,No,72.15,63.08,0,0,5,2,1,Placed
+M,65,Central,68,Others,Mechanical,69,No,53.7,55.01,1,0,8,3,1,Placed
+F,73,Others,63,Others,Information Technology,66,No,89,60.5,0,1,5,0,1,Placed
+M,68.2,Central,72.8,Central,Computer Science,66.6,Yes,96,70.85,1,0,0,0,3,Placed
+M,77,Others,75,Others,Computer Science,73,No,80,67.05,1,0,7,4,3,Placed
+M,76,Central,80,Central,Civil,78,Yes,97,70.48,0,0,7,4,3,Placed
+M,60.8,Central,68.4,Central,Computer Science,64.6,Yes,82.66,64.34,0,1,3,6,3,Placed
+M,58,Others,40,Others,Civil,59,No,73,58.81,0,1,7,3,2,Not Placed
+F,64,Central,67,Others,Mechanical,69.6,Yes,55.67,71.49,1,0,1,6,1,Placed
+F,66.5,Central,66.8,Central,Electronics And Communication,69.3,Yes,80.4,71,0,1,0,4,2,Placed
+M,74,Others,59,Others,Information Technology,73,Yes,60,56.7,0,0,5,2,2,Placed
+M,67,Central,71,Central,Computer Science,64.33,Yes,64,61.26,0,0,6,3,2,Placed
+F,84,Central,73,Central,Information Technology,73,No,75,73.33,0,0,8,6,2,Placed
+F,79,Others,61,Others,Electronics And Communication,75.5,Yes,70,68.2,0,0,3,1,2,Placed
+F,72,Others,60,Others,Computer Science,69,No,55.5,58.4,1,0,8,6,2,Placed
+M,80.4,Central,73.4,Central,Computer Science,77.72,Yes,81.2,76.26,1,0,4,3,1,Placed
+M,76.7,Central,89.7,Others,Electrical,66,Yes,90,68.55,0,0,5,0,3,Placed
+M,62,Central,65,Others,Mechanical,60,No,84,64.15,1,0,0,4,1,Not Placed
+F,74.9,Others,57,Others,Computer Science,62,Yes,80,60.78,0,0,4,1,2,Placed
+M,67,Others,68,Others,Mechanical,64,Yes,74.4,53.49,1,0,5,4,2,Placed
+M,73,Central,64,Others,Computer Science,77,Yes,65,60.98,0,0,6,5,2,Placed
+F,77.44,Central,92,Others,Information Technology,72,Yes,94,67.13,1,1,8,0,3,Placed
+F,72,Central,56,Others,Information Technology,69,No,55.6,65.63,0,1,7,1,2,Placed
+F,47,Central,59,Central,Information Technology,64,No,78,61.58,0,0,8,5,2,Not Placed
+M,67,Others,63,Central,Information Technology,72,No,56,60.41,0,1,8,3,1,Placed
+F,82,Others,64,Others,Civil,73,Yes,96,71.77,0,0,2,3,1,Placed
+M,77,Central,70,Central,Information Technology,59,Yes,58,54.43,0,0,1,2,1,Placed
+M,65,Central,64.8,Others,Information Technology,69.5,Yes,56,56.94,0,0,8,5,1,Placed
+M,66,Central,64,Central,Information Technology,60,No,60,61.9,0,0,6,2,2,Not Placed
+M,85,Central,60,Others,Computer Science,73.43,Yes,60,61.29,1,1,1,2,3,Placed
+M,77.67,Others,64.89,Others,Computer Science,70.67,No,89,60.39,0,0,0,1,2,Placed
+M,52,Others,50,Others,Electrical,61,No,60,58.52,0,0,0,1,1,Not Placed
+M,89.4,Others,65.66,Others,Civil,71.25,No,72,63.23,0,0,8,5,3,Placed
+M,62,Central,63,Others,Information Technology,66,No,85,55.14,0,1,7,4,1,Placed
+M,70,Central,74,Central,Information Technology,65,No,83,62.28,0,1,2,1,3,Placed
+F,77,Central,86,Central,Electronics And Communication,56,No,57,64.08,1,1,8,0,1,Placed
+M,44,Central,58,Central,Mechanical,55,Yes,64.25,58.54,1,1,1,1,3,Not Placed
+M,71,Central,58.66,Central,Information Technology,58,Yes,56,61.3,1,0,8,1,2,Placed
+M,65,Central,65,Central,Information Technology,75,No,83,58.87,0,1,8,3,3,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,0,1,3,5,3,Placed
+M,49,Others,59,Others,Information Technology,65,Yes,86,62.48,0,0,3,4,3,Placed
+M,53,Central,63,Others,Information Technology,60,Yes,70,53.2,0,0,8,3,3,Placed
+M,51.57,Others,74.66,Others,Information Technology,59.9,Yes,56.15,65.99,0,1,8,3,2,Not Placed
+M,84.2,Central,69.4,Central,Electrical,65,Yes,80,52.72,0,0,7,6,3,Placed
+M,66.5,Central,62.5,Central,Civil,60.9,No,93.4,55.03,1,1,8,1,2,Placed
+M,67,Others,63,Others,Information Technology,64,No,60,61.87,0,0,2,1,2,Not Placed
+M,52,Central,49,Others,Information Technology,58,No,62,60.59,0,0,3,2,2,Not Placed
+M,87,Central,74,Central,Civil,65,Yes,75,72.29,0,0,2,6,1,Placed
+M,55.6,Others,51,Others,Electrical,57.5,No,57.63,62.72,0,1,7,1,3,Not Placed
+M,74.2,Central,87.6,Others,Civil,77.25,Yes,75.2,66.06,0,0,7,4,2,Placed
+M,63,Others,67,Others,Information Technology,64,No,75,66.46,0,0,6,2,1,Placed
+F,67.16,Central,72.5,Central,Civil,63.35,No,53.04,65.52,0,0,3,3,1,Placed
+F,63.3,Central,78.33,Others,Computer Science,74,No,80,74.56,1,0,2,1,1,Not Placed
+M,62,Others,62,Others,Electronics And Communication,60,Yes,63,52.38,0,0,0,3,2,Placed
+M,67.9,Others,62,Others,Information Technology,67,Yes,58.1,75.71,0,1,2,5,3,Not Placed
+F,48,Central,51,Central,Mechanical,58,Yes,60,58.79,1,0,6,5,3,Not Placed
+M,59.96,Others,42.16,Others,Mechanical,61.26,No,54.48,65.48,1,0,0,0,2,Not Placed
+F,63.4,Others,67.2,Others,Information Technology,60,No,58.06,69.28,0,0,2,4,1,Not Placed
+M,80,Others,80,Others,Computer Science,72,Yes,63.79,66.04,0,0,0,6,3,Placed
+M,73,Others,58,Others,Electrical,56,No,84,52.64,0,0,5,3,1,Placed
+F,52,Others,52,Others,Computer Science,55,No,67,59.32,0,0,7,5,2,Not Placed
+M,73.24,Others,50.83,Others,Civil,64.27,Yes,64,66.23,1,0,8,4,3,Placed
+M,63,Others,62,Others,Computer Science,65,No,87.5,60.69,0,0,1,2,2,Not Placed
+F,59,Central,60,Others,Information Technology,56,No,55,57.9,0,0,5,6,2,Placed
+F,73,Central,97,Others,Computer Science,79,Yes,89,70.81,0,0,4,4,2,Placed
+M,68,Others,56,Others,Mechanical,68,No,73,68.07,1,0,6,3,2,Placed
+F,77.8,Central,64,Central,Information Technology,64.2,No,75.5,72.14,0,0,4,2,3,Not Placed
+M,65,Central,71.5,Others,Mechanical,62.8,Yes,57,56.6,1,0,5,2,1,Placed
+M,62,Central,60.33,Others,Computer Science,64.21,No,63,60.02,0,1,5,5,1,Not Placed
+M,52,Others,65,Others,Computer Science,57,Yes,75,59.81,0,1,8,0,3,Not Placed
+M,65,Central,77,Central,Information Technology,69,No,60,61.82,0,0,3,5,3,Placed
+F,56.28,Others,62.83,Others,Mechanical,59.79,No,60,57.29,1,0,0,2,2,Not Placed
+F,88,Central,72,Central,Computer Science,78,No,82,71.43,0,0,5,0,1,Placed
+F,52,Central,64,Central,Computer Science,61,No,55,62.93,0,0,4,1,3,Not Placed
+M,78.5,Central,65.5,Central,Mechanical,67,Yes,95,64.86,1,0,3,0,1,Placed
+M,61.8,Others,47,Others,Computer Science,54.38,No,57,56.13,0,0,3,1,2,Not Placed
+F,54,Central,77.6,Others,Civil,69.2,No,95.65,66.94,0,0,6,6,2,Not Placed
+F,64,Others,70.2,Central,Civil,61,No,50,62.5,0,1,6,3,1,Not Placed
+M,67,Others,61,Central,Electrical,72,No,72,61.01,0,0,1,6,2,Placed
+M,65.2,Central,61.4,Central,Computer Science,64.8,Yes,93.4,57.34,1,1,4,6,1,Placed
+F,60,Central,63,Central,Computer Science,56,Yes,80,56.63,0,1,5,1,3,Placed
+M,52,Others,55,Others,Electrical,56.3,No,59,64.74,0,0,1,1,3,Not Placed
+M,66,Central,76,Central,Electronics And Communication,72,Yes,84,58.95,1,1,2,5,2,Placed
+M,72,Others,63,Others,Civil,77.5,Yes,78,54.48,0,0,0,2,2,Placed
+F,83.96,Others,53,Others,Electronics And Communication,91,No,59.32,69.71,0,0,7,3,3,Placed
+F,67,Central,70,Central,Electrical,65,No,88,71.96,0,0,8,0,1,Not Placed
+M,69,Others,65,Others,Computer Science,57,No,73,55.8,0,0,2,0,1,Placed
+M,69,Others,60,Others,Electronics And Communication,65,No,87.55,52.81,0,0,1,5,1,Placed
+M,54.2,Central,63,Others,Computer Science,58,No,79,58.44,0,0,8,3,3,Not Placed
+M,70,Central,63,Central,Electronics And Communication,66,No,61.28,60.11,1,1,4,6,2,Placed
+M,55.68,Others,61.33,Others,Electronics And Communication,56.87,No,66,58.3,0,0,7,2,1,Placed
+F,74,Others,73,Others,Mechanical,73,Yes,80,67.69,1,1,0,5,2,Placed
+M,61,Others,62,Others,Electronics And Communication,65,No,62,56.81,0,0,2,2,1,Placed
+M,41,Central,42,Central,Electrical,60,No,97,53.39,0,0,8,0,1,Not Placed
+M,83.33,Central,78,Others,Civil,61,Yes,88.56,71.55,0,0,5,3,3,Placed
+F,43,Central,60,Others,Information Technology,65,No,92.66,62.92,0,0,2,5,3,Not Placed
+M,62,Central,72,Central,Electrical,65,No,67,56.49,0,0,0,5,1,Placed
+M,80.6,Others,82,Others,Electronics And Communication,77.6,No,91,74.49,0,0,8,6,1,Placed
+M,58,Others,60,Others,Computer Science,72,No,74,53.62,0,0,2,1,2,Placed
+M,67,Others,67,Others,Computer Science,73,Yes,59,69.72,0,0,6,6,2,Placed
+F,74,Others,66,Others,Electronics And Communication,58,No,70,60.23,0,0,7,1,1,Placed
+M,62,Central,58,Others,Information Technology,53,No,89,60.22,0,0,4,4,2,Not Placed
+M,67,Others,91,Others,Information Technology,58,No,55,58.8,0,1,7,6,1,Placed
+M,79.33,Central,78.33,Others,Computer Science,77.48,Yes,86.5,66.28,1,1,7,2,2,Placed
+M,65,Central,68,Central,Computer Science,64,No,75,57.8,0,0,4,1,3,Placed
+M,56,Central,52,Central,Information Technology,52,No,66,59.43,0,0,1,6,2,Not Placed
+M,85.8,Central,73.6,Central,Civil,73.3,No,96.8,55.5,0,0,8,0,2,Placed
+M,55,Others,49.8,Others,Computer Science,67.25,Yes,55,51.58,1,0,3,6,3,Not Placed
+F,46,Others,49.2,Others,Mechanical,79,No,74.28,53.29,1,0,7,2,1,Not Placed
+M,82,Central,64,Central,Mechanical,66,Yes,67,62.14,1,0,6,0,3,Placed
+M,73,Central,79,Central,Information Technology,72,No,91.34,61.29,0,0,8,3,2,Placed
+M,58,Central,70,Central,Electrical,61,No,54,52.21,0,0,6,1,3,Not Placed
+M,58,Central,61,Central,Mechanical,60,Yes,62,60.85,1,0,3,2,3,Placed
+M,69.6,Central,68.4,Central,Electrical,78.3,Yes,60,63.7,0,0,0,2,2,Placed
+F,47,Central,55,Others,Mechanical,65,No,62,65.04,1,0,1,6,3,Not Placed
+F,77,Central,87,Central,Information Technology,59,No,68,68.63,0,0,4,4,1,Placed
+M,62,Central,47,Central,Civil,50,No,76,54.96,0,0,4,6,2,Not Placed
+F,65,Central,75,Central,Information Technology,69,Yes,72,64.66,0,1,3,2,1,Placed
+M,63,Central,66.2,Central,Computer Science,65.6,Yes,60,62.54,1,0,3,3,2,Placed
+F,55,Central,67,Central,Electronics And Communication,64,No,60,67.28,0,0,0,3,3,Not Placed
+F,63,Central,66,Central,Electronics And Communication,64,No,68,64.08,0,1,8,3,1,Not Placed
+M,60,Others,67,Others,Mechanical,70,Yes,50.48,77.89,1,0,6,6,1,Placed
+M,62,Others,65,Others,Computer Science,66,No,50,56.7,0,0,4,3,1,Placed
+F,79,Others,76,Others,Electronics And Communication,85,No,95,69.06,0,1,1,4,2,Placed
+F,69.8,Others,60.8,Others,Electronics And Communication,72.23,No,55.53,68.81,0,1,3,0,3,Placed
+F,77.4,Others,60,Others,Electrical,64.74,Yes,92,63.62,0,1,0,2,1,Placed
+M,76.5,Others,97.7,Others,Computer Science,78.86,No,97.4,74.01,1,0,7,0,2,Placed
+F,52.58,Others,54.6,Central,Information Technology,50.2,Yes,76,65.33,1,0,2,6,3,Not Placed
+M,71,Others,79,Others,Mechanical,66,Yes,94,57.55,1,0,4,4,1,Placed
+M,63,Others,67,Others,Electronics And Communication,66,No,68,57.69,1,1,3,4,3,Placed
+M,76.76,Others,76.5,Others,Civil,67.5,Yes,73.35,64.15,1,0,5,1,2,Placed
+M,62,Central,67,Central,Information Technology,58,No,77,51.29,0,0,6,3,1,Not Placed
+F,64,Central,73.5,Central,Civil,73,No,52,56.7,0,1,1,2,3,Placed
+F,67,Central,53,Central,Information Technology,65,No,64,58.32,0,0,4,0,2,Not Placed
+F,61,Central,81,Central,Computer Science,66.4,No,50.89,62.21,0,1,3,5,1,Placed
+F,87,Others,65,Others,Computer Science,81,Yes,88,72.78,1,0,7,2,2,Placed
+M,62,Others,51,Others,Information Technology,52,No,68.44,62.77,0,0,5,0,1,Not Placed
+F,69,Central,78,Central,Computer Science,72,No,71,62.74,0,0,0,0,2,Placed
+M,51,Central,44,Central,Mechanical,57,No,64,51.45,1,0,6,3,2,Not Placed
+F,79,Central,76,Central,Computer Science,65.6,No,58,55.47,0,0,6,0,3,Placed
+F,73,Others,58,Others,Electronics And Communication,66,No,53.7,56.86,0,0,2,3,3,Placed
+M,81,Others,68,Others,Electronics And Communication,64,No,93,62.56,0,0,4,2,1,Placed
+F,78,Central,77,Others,Computer Science,80,No,60,66.72,0,0,2,4,1,Placed
+F,74,Others,63.16,Others,Electrical,65,Yes,65,69.76,0,1,1,6,1,Not Placed
+M,49,Others,39,Central,Electronics And Communication,65,No,63,51.21,0,0,6,3,2,Not Placed
+M,87,Others,87,Others,Information Technology,68,No,95,62.9,0,0,1,2,3,Placed
+F,77,Others,73,Others,Mechanical,81,Yes,89,69.7,1,0,3,2,3,Placed
+F,76,Central,64,Central,Electrical,72,No,58,66.53,1,1,0,1,1,Not Placed
+F,70.89,Others,71.98,Others,Mechanical,65.6,No,68,71.63,1,1,1,3,2,Not Placed
+M,63,Central,60,Central,Electrical,57,Yes,78,54.55,0,0,6,4,3,Placed
+M,63,Others,62,Others,Civil,68,No,64,62.46,0,0,8,1,2,Placed
+F,50,Others,37,Others,Mechanical,52,No,65,56.11,1,0,7,3,1,Not Placed
+F,75.2,Central,73.2,Central,Information Technology,68.4,No,65,62.98,0,0,1,5,3,Placed
+M,54.4,Central,61.12,Central,Electronics And Communication,56.2,No,67,62.65,1,1,2,1,3,Not Placed
+F,40.89,Others,45.83,Others,Electronics And Communication,53,No,71.2,65.49,0,0,1,3,2,Not Placed
+M,80,Others,70,Others,Electronics And Communication,72,No,87,71.04,0,0,3,1,3,Placed
+F,74,Central,60,Others,Information Technology,69,No,78,65.56,0,0,6,2,2,Placed
+M,60.4,Central,66.6,Others,Civil,65,No,71,52.71,0,0,4,0,1,Placed
+M,63,Others,71.4,Others,Civil,61.4,No,68,66.88,1,0,1,5,2,Placed
+M,68,Central,76,Central,Electrical,74,No,80,63.59,0,0,2,1,3,Placed
+M,74,Central,62,Others,Computer Science,68,No,74,57.99,0,0,6,6,1,Placed
+M,52.6,Central,65.58,Others,Information Technology,72.11,No,57.6,56.66,0,0,4,1,3,Placed
+M,74,Central,70,Central,Civil,72,Yes,60,57.24,0,1,3,3,3,Placed
+M,84.2,Central,73.4,Central,Mechanical,66.89,No,61.6,62.48,1,0,2,2,1,Placed
+F,86.5,Others,64.2,Others,Information Technology,67.4,No,59,59.69,0,0,5,1,3,Placed
+M,61,Others,70,Others,Civil,64,No,68.5,59.5,0,0,0,6,2,Not Placed
+M,80,Others,73,Others,Computer Science,75,No,61,58.78,0,1,4,3,3,Placed
+M,54,Others,47,Others,Information Technology,57,No,89.69,57.1,1,0,0,4,3,Not Placed
+M,83,Others,74,Others,Computer Science,66,No,68.92,58.46,0,0,0,6,3,Placed
+M,80.92,Others,78.5,Others,Civil,67,No,68.71,60.99,0,0,1,3,2,Placed
+F,69.7,Central,47,Central,Computer Science,72.7,No,79,59.24,1,0,3,4,3,Not Placed
+M,73,Central,73,Central,Civil,66,Yes,70,68.07,1,0,1,0,2,Placed
+M,82,Others,61,Others,Electronics And Communication,62,No,89,65.45,0,0,1,5,1,Placed
+M,75,Others,70.29,Others,Mechanical,71,No,95,66.94,1,0,4,3,3,Placed
+M,84.86,Others,67,Others,Electrical,78,No,95.5,68.53,1,0,6,3,2,Placed
+M,64.6,Central,83.83,Others,Electrical,71.72,No,86,59.75,0,0,2,2,1,Placed
+M,56.6,Central,64.8,Central,Electrical,70.2,No,84.27,67.2,0,1,6,0,1,Placed
+F,59,Central,62,Others,Computer Science,77.5,No,74,67,1,0,8,4,1,Not Placed
+F,66.5,Others,70.4,Central,Mechanical,71.93,No,61,64.27,1,0,5,4,2,Placed
+M,64,Others,80,Others,Information Technology,65,Yes,69,57.65,1,0,3,2,1,Placed
+M,84,Others,90.9,Others,Electrical,64.5,No,86.04,59.42,0,0,5,2,3,Placed
+F,69,Central,62,Central,Information Technology,66,No,75,67.99,0,0,8,0,3,Not Placed
+F,69,Others,62,Others,Electronics And Communication,69,Yes,67,62.35,0,0,1,2,2,Placed
+M,81.7,Others,63,Others,Computer Science,67,Yes,86,70.2,1,0,7,6,2,Placed
+M,63,Central,67,Central,Information Technology,74,No,82,60.44,0,0,0,3,1,Not Placed
+M,84,Others,79,Others,Mechanical,68,Yes,84,66.69,1,1,6,4,3,Placed
+M,70,Central,63,Others,Mechanical,70,Yes,55,62,1,1,2,2,1,Placed
+F,83.84,Others,89.83,Others,Information Technology,77.2,Yes,78.74,76.18,0,0,5,4,3,Placed
+M,62,Others,63,Others,Information Technology,64,No,67,57.03,0,0,3,0,1,Placed
+M,59.6,Central,51,Central,Civil,60,No,75,59.08,0,0,3,2,1,Not Placed
+F,66,Central,62,Central,Mechanical,73,No,58,64.36,1,0,8,6,3,Placed
+F,84,Others,75,Others,Computer Science,69,Yes,62,62.36,1,1,2,4,2,Placed
+F,85,Others,90,Others,Information Technology,82,No,92,68.03,1,0,8,2,2,Placed
+M,52,Central,57,Central,Mechanical,50.8,No,67,62.79,1,0,4,4,3,Not Placed
+F,60.23,Central,69,Central,Electrical,66,No,72,59.47,0,0,7,4,3,Placed
+M,52,Central,62,Central,Mechanical,54,No,72,55.41,1,0,2,1,2,Not Placed
+M,58,Central,62,Central,Information Technology,64,No,53.88,54.97,0,0,3,0,2,Placed
+M,73,Central,78,Others,Mechanical,65,Yes,95.46,62.16,1,0,1,2,3,Placed
+F,76,Central,70,Central,Electrical,76,Yes,66,64.44,1,0,4,2,2,Placed
+F,70.5,Central,62.5,Others,Information Technology,61,No,93.91,69.03,0,0,5,4,1,Not Placed
+F,69,Central,73,Central,Information Technology,65,No,70,57.31,0,0,1,0,2,Placed
+M,54,Central,82,Others,Computer Science,63,No,50,59.47,1,0,6,6,3,Not Placed
+F,45,Others,57,Others,Civil,58,Yes,56.39,64.95,0,0,5,2,2,Not Placed
+M,63,Central,72,Central,Information Technology,68,No,78,60.44,0,0,8,4,2,Placed
+F,77,Others,61,Others,Information Technology,68,Yes,57.5,61.31,0,0,5,5,2,Placed
+M,73,Central,78,Central,Civil,73,Yes,85,65.83,0,1,7,2,2,Placed
+M,69,Central,63,Others,Electrical,65,Yes,55,58.23,0,0,3,2,1,Placed
+M,59,Central,64,Others,Computer Science,58,No,85,55.3,0,0,3,6,3,Not Placed
+M,61.08,Others,50,Others,Electrical,54,No,71,65.69,0,0,7,4,2,Not Placed
+M,82,Others,90,Others,Electronics And Communication,83,No,80,73.52,0,0,1,3,2,Placed
+M,61,Central,82,Central,Electrical,69,No,84,58.31,0,0,7,1,2,Placed
+M,52,Central,63,Others,Civil,65,Yes,86,56.09,0,1,0,1,3,Not Placed
+F,69.5,Central,70,Central,Computer Science,72,No,57.2,54.8,0,0,4,5,2,Placed
+M,51,Others,54,Others,Civil,61,No,60,60.64,0,0,4,0,1,Not Placed
+M,58,Others,61,Others,Information Technology,61,No,58,53.94,0,0,7,3,1,Placed
+F,73.96,Others,79,Others,Civil,67,No,72.15,63.08,0,0,0,4,1,Placed
+M,65,Central,68,Others,Computer Science,69,No,53.7,55.01,0,0,4,0,1,Placed
+F,73,Others,63,Others,Electronics And Communication,66,No,89,60.5,0,0,3,2,1,Placed
+M,68.2,Central,72.8,Central,Electronics And Communication,66.6,Yes,96,70.85,1,1,3,1,2,Placed
+M,77,Others,75,Others,Electrical,73,No,80,67.05,0,0,7,3,3,Placed
+M,76,Central,80,Central,Information Technology,78,Yes,97,70.48,1,0,7,4,2,Placed
+M,60.8,Central,68.4,Central,Information Technology,64.6,Yes,82.66,64.34,0,0,4,5,2,Placed
+M,58,Others,40,Others,Electrical,59,No,73,58.81,0,1,4,0,3,Not Placed
+F,64,Central,67,Others,Computer Science,69.6,Yes,55.67,71.49,0,0,6,2,2,Placed
+F,66.5,Central,66.8,Central,Computer Science,69.3,Yes,80.4,71,0,0,0,3,2,Placed
+M,74,Others,59,Others,Computer Science,73,Yes,60,56.7,0,0,8,3,2,Placed
+M,67,Central,71,Central,Computer Science,64.33,Yes,64,61.26,1,1,6,4,1,Placed
+F,84,Central,73,Central,Information Technology,73,No,75,73.33,0,0,7,4,2,Placed
+F,79,Others,61,Others,Mechanical,75.5,Yes,70,68.2,1,0,2,5,1,Placed
+F,72,Others,60,Others,Computer Science,69,No,55.5,58.4,0,0,4,1,3,Placed
+M,80.4,Central,73.4,Central,Electronics And Communication,77.72,Yes,81.2,76.26,0,0,0,2,1,Placed
+M,76.7,Central,89.7,Others,Mechanical,66,Yes,90,68.55,1,0,2,0,1,Placed
+M,62,Central,65,Others,Information Technology,60,No,84,64.15,0,0,8,0,1,Not Placed
+F,74.9,Others,57,Others,Mechanical,62,Yes,80,60.78,1,0,5,3,1,Placed
+M,67,Others,68,Others,Civil,64,Yes,74.4,53.49,0,0,3,5,2,Placed
+M,73,Central,64,Others,Civil,77,Yes,65,60.98,0,0,8,4,3,Placed
+F,77.44,Central,92,Others,Information Technology,72,Yes,94,67.13,0,0,8,5,3,Placed
+F,72,Central,56,Others,Information Technology,69,No,55.6,65.63,0,0,3,5,3,Placed
+F,47,Central,59,Central,Mechanical,64,No,78,61.58,1,0,3,5,2,Not Placed
+M,67,Others,63,Central,Electronics And Communication,72,No,56,60.41,1,1,7,4,2,Placed
+F,82,Others,64,Others,Mechanical,73,Yes,96,71.77,1,0,7,4,1,Placed
+M,77,Central,70,Central,Computer Science,59,Yes,58,54.43,1,0,0,3,2,Placed
+M,65,Central,64.8,Others,Computer Science,69.5,Yes,56,56.94,0,1,4,5,2,Placed
+M,66,Central,64,Central,Information Technology,60,No,60,61.9,0,0,1,5,1,Not Placed
+M,85,Central,60,Others,Electronics And Communication,73.43,Yes,60,61.29,0,0,7,1,2,Placed
+M,77.67,Others,64.89,Others,Electronics And Communication,70.67,No,89,60.39,0,0,4,0,3,Placed
+M,52,Others,50,Others,Electronics And Communication,61,No,60,58.52,1,1,2,5,2,Not Placed
+M,89.4,Others,65.66,Others,Mechanical,71.25,No,72,63.23,1,0,2,3,3,Placed
+M,62,Central,63,Others,Computer Science,66,No,85,55.14,0,0,0,6,1,Placed
+M,70,Central,74,Central,Mechanical,65,No,83,62.28,1,0,6,6,2,Placed
+F,77,Central,86,Central,Information Technology,56,No,57,64.08,0,0,4,0,3,Placed
+M,44,Central,58,Central,Mechanical,55,Yes,64.25,58.54,1,0,2,4,3,Not Placed
+M,71,Central,58.66,Central,Electrical,58,Yes,56,61.3,0,0,8,5,2,Placed
+M,65,Central,65,Central,Computer Science,75,No,83,58.87,0,1,6,5,1,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,0,0,5,2,3,Placed
+M,49,Others,59,Others,Mechanical,65,Yes,86,62.48,1,1,6,2,3,Placed
+M,53,Central,63,Others,Information Technology,60,Yes,70,53.2,0,0,2,4,3,Placed
+M,51.57,Others,74.66,Others,Mechanical,59.9,Yes,56.15,65.99,1,0,5,5,3,Not Placed
+M,84.2,Central,69.4,Central,Electrical,65,Yes,80,52.72,0,0,5,4,3,Placed
+M,66.5,Central,62.5,Central,Information Technology,60.9,No,93.4,55.03,0,0,6,3,1,Placed
+M,67,Others,63,Others,Mechanical,64,No,60,61.87,1,0,2,2,1,Not Placed
+M,52,Central,49,Others,Civil,58,No,62,60.59,0,0,8,5,1,Not Placed
+M,87,Central,74,Central,Electronics And Communication,65,Yes,75,72.29,0,0,2,2,1,Placed
+M,55.6,Others,51,Others,Information Technology,57.5,No,57.63,62.72,0,0,7,3,2,Not Placed
+M,74.2,Central,87.6,Others,Mechanical,77.25,Yes,75.2,66.06,1,0,4,6,1,Placed
+M,63,Others,67,Others,Mechanical,64,No,75,66.46,1,0,4,4,1,Placed
+F,67.16,Central,72.5,Central,Computer Science,63.35,No,53.04,65.52,0,0,6,4,3,Placed
+F,63.3,Central,78.33,Others,Information Technology,74,No,80,74.56,1,0,8,5,3,Not Placed
+M,62,Others,62,Others,Electrical,60,Yes,63,52.38,0,1,7,5,2,Placed
+M,67.9,Others,62,Others,Computer Science,67,Yes,58.1,75.71,0,0,7,5,1,Not Placed
+F,48,Central,51,Central,Electrical,58,Yes,60,58.79,0,0,4,0,1,Not Placed
+M,59.96,Others,42.16,Others,Information Technology,61.26,No,54.48,65.48,0,0,7,0,3,Not Placed
+F,63.4,Others,67.2,Others,Information Technology,60,No,58.06,69.28,1,0,4,2,2,Not Placed
+M,80,Others,80,Others,Mechanical,72,Yes,63.79,66.04,1,0,6,0,1,Placed
+M,73,Others,58,Others,Computer Science,56,No,84,52.64,1,0,4,4,2,Placed
+F,52,Others,52,Others,Civil,55,No,67,59.32,0,0,4,4,2,Not Placed
+M,73.24,Others,50.83,Others,Computer Science,64.27,Yes,64,66.23,0,1,1,3,3,Placed
+M,63,Others,62,Others,Information Technology,65,No,87.5,60.69,0,1,1,5,2,Not Placed
+F,59,Central,60,Others,Computer Science,56,No,55,57.9,0,0,6,2,2,Placed
+F,73,Central,97,Others,Mechanical,79,Yes,89,70.81,1,1,8,3,3,Placed
+M,68,Others,56,Others,Mechanical,68,No,73,68.07,0,0,2,1,1,Placed
+F,77.8,Central,64,Central,Civil,64.2,No,75.5,72.14,0,0,8,1,3,Not Placed
+M,65,Central,71.5,Others,Electrical,62.8,Yes,57,56.6,0,0,2,0,1,Placed
+M,62,Central,60.33,Others,Electrical,64.21,No,63,60.02,1,1,4,2,3,Not Placed
+M,52,Others,65,Others,Electronics And Communication,57,Yes,75,59.81,0,0,5,5,2,Not Placed
+M,65,Central,77,Central,Electronics And Communication,69,No,60,61.82,1,1,2,4,1,Placed
+F,56.28,Others,62.83,Others,Computer Science,59.79,No,60,57.29,0,0,0,4,3,Not Placed
+F,88,Central,72,Central,Computer Science,78,No,82,71.43,0,1,7,5,1,Placed
+F,52,Central,64,Central,Computer Science,61,No,55,62.93,0,0,1,6,2,Not Placed
+M,78.5,Central,65.5,Central,Electrical,67,Yes,95,64.86,0,0,6,1,1,Placed
+M,61.8,Others,47,Others,Electrical,54.38,No,57,56.13,0,0,4,3,2,Not Placed
+F,54,Central,77.6,Others,Electronics And Communication,69.2,No,95.65,66.94,0,0,7,0,1,Not Placed
+F,64,Others,70.2,Central,Mechanical,61,No,50,62.5,1,0,2,3,3,Not Placed
+M,67,Others,61,Central,Computer Science,72,No,72,61.01,1,0,3,3,2,Placed
+M,65.2,Central,61.4,Central,Mechanical,64.8,Yes,93.4,57.34,1,0,3,6,3,Placed
+F,60,Central,63,Central,Electronics And Communication,56,Yes,80,56.63,0,0,3,1,3,Placed
+M,52,Others,55,Others,Electronics And Communication,56.3,No,59,64.74,0,0,2,4,1,Not Placed
+M,66,Central,76,Central,Electronics And Communication,72,Yes,84,58.95,0,0,2,3,3,Placed
+M,72,Others,63,Others,Computer Science,77.5,Yes,78,54.48,0,0,2,1,3,Placed
+F,83.96,Others,53,Others,Information Technology,91,No,59.32,69.71,0,0,8,1,1,Placed
+F,67,Central,70,Central,Mechanical,65,No,88,71.96,1,0,5,3,2,Not Placed
+M,69,Others,65,Others,Mechanical,57,No,73,55.8,1,0,8,0,1,Placed
+M,69,Others,60,Others,Information Technology,65,No,87.55,52.81,0,0,8,2,1,Placed
+M,54.2,Central,63,Others,Mechanical,58,No,79,58.44,1,0,8,2,2,Not Placed
+M,70,Central,63,Central,Information Technology,66,No,61.28,60.11,0,0,4,4,2,Placed
+M,55.68,Others,61.33,Others,Information Technology,56.87,No,66,58.3,0,0,3,4,2,Placed
+F,74,Others,73,Others,Information Technology,73,Yes,80,67.69,0,0,5,0,2,Placed
+M,61,Others,62,Others,Mechanical,65,No,62,56.81,0,0,8,0,2,Placed
+M,41,Central,42,Central,Electronics And Communication,60,No,97,53.39,0,0,8,5,1,Not Placed
+M,83.33,Central,78,Others,Computer Science,61,Yes,88.56,71.55,0,0,1,6,3,Placed
+F,43,Central,60,Others,Civil,65,No,92.66,62.92,0,0,7,1,2,Not Placed
+M,62,Central,72,Central,Mechanical,65,No,67,56.49,1,0,5,6,1,Placed
+M,80.6,Others,82,Others,Computer Science,77.6,No,91,74.49,0,0,4,3,3,Placed
+M,58,Others,60,Others,Information Technology,72,No,74,53.62,0,0,3,5,1,Placed
+M,67,Others,67,Others,Civil,73,Yes,59,69.72,0,1,8,5,3,Placed
+F,74,Others,66,Others,Information Technology,58,No,70,60.23,0,0,8,1,3,Placed
+M,62,Central,58,Others,Electronics And Communication,53,No,89,60.22,0,0,1,2,1,Not Placed
+M,67,Others,91,Others,Electrical,58,No,55,58.8,0,0,8,1,3,Placed
+M,79.33,Central,78.33,Others,Electronics And Communication,77.48,Yes,86.5,66.28,0,0,5,5,1,Placed
+M,65,Central,68,Central,Information Technology,64,No,75,57.8,1,0,4,2,1,Placed
+M,56,Central,52,Central,Mechanical,52,No,66,59.43,1,0,5,2,2,Not Placed
+M,85.8,Central,73.6,Central,Computer Science,73.3,No,96.8,55.5,0,0,4,2,2,Placed
+M,55,Others,49.8,Others,Information Technology,67.25,Yes,55,51.58,1,1,2,4,3,Not Placed
+F,46,Others,49.2,Others,Information Technology,79,No,74.28,53.29,0,0,1,5,3,Not Placed
+M,82,Central,64,Central,Electrical,66,Yes,67,62.14,0,0,6,4,3,Placed
+M,73,Central,79,Central,Computer Science,72,No,91.34,61.29,0,0,5,3,3,Placed
+M,58,Central,70,Central,Electronics And Communication,61,No,54,52.21,0,0,1,5,2,Not Placed
+M,58,Central,61,Central,Information Technology,60,Yes,62,60.85,0,0,1,1,1,Placed
+M,69.6,Central,68.4,Central,Electrical,78.3,Yes,60,63.7,1,0,2,1,3,Placed
+F,47,Central,55,Others,Information Technology,65,No,62,65.04,0,1,5,1,3,Not Placed
+F,77,Central,87,Central,Electronics And Communication,59,No,68,68.63,0,0,4,2,3,Placed
+M,62,Central,47,Central,Computer Science,50,No,76,54.96,1,0,0,4,3,Not Placed
+F,65,Central,75,Central,Computer Science,69,Yes,72,64.66,0,0,3,3,3,Placed
+M,63,Central,66.2,Central,Computer Science,65.6,Yes,60,62.54,0,0,5,0,1,Placed
+F,55,Central,67,Central,Information Technology,64,No,60,67.28,0,0,7,1,1,Not Placed
+F,63,Central,66,Central,Computer Science,64,No,68,64.08,0,0,1,0,2,Not Placed
+M,60,Others,67,Others,Civil,70,Yes,50.48,77.89,0,1,1,1,2,Placed
+M,62,Others,65,Others,Computer Science,66,No,50,56.7,0,1,7,0,3,Placed
+F,79,Others,76,Others,Computer Science,85,No,95,69.06,0,0,6,0,1,Placed
+F,69.8,Others,60.8,Others,Information Technology,72.23,No,55.53,68.81,0,0,5,3,1,Placed
+F,77.4,Others,60,Others,Mechanical,64.74,Yes,92,63.62,0,1,5,0,2,Placed
+M,76.5,Others,97.7,Others,Electrical,78.86,No,97.4,74.01,0,0,8,4,3,Placed
+F,52.58,Others,54.6,Central,Information Technology,50.2,Yes,76,65.33,0,0,3,4,1,Not Placed
+M,71,Others,79,Others,Mechanical,66,Yes,94,57.55,1,0,6,2,1,Placed
+M,63,Others,67,Others,Electronics And Communication,66,No,68,57.69,0,1,3,1,2,Placed
+M,76.76,Others,76.5,Others,Electronics And Communication,67.5,Yes,73.35,64.15,0,0,6,6,3,Placed
+M,62,Central,67,Central,Computer Science,58,No,77,51.29,0,0,5,1,1,Not Placed
+F,64,Central,73.5,Central,Computer Science,73,No,52,56.7,1,1,7,6,3,Placed
+F,67,Central,53,Central,Computer Science,65,No,64,58.32,0,1,4,2,2,Not Placed
+F,61,Central,81,Central,Electrical,66.4,No,50.89,62.21,0,0,1,2,1,Placed
+F,87,Others,65,Others,Mechanical,81,Yes,88,72.78,1,0,3,3,1,Placed
+M,62,Others,51,Others,Computer Science,52,No,68.44,62.77,0,0,4,0,3,Not Placed
+F,69,Central,78,Central,Computer Science,72,No,71,62.74,0,0,5,5,2,Placed
+M,51,Central,44,Central,Mechanical,57,No,64,51.45,0,0,1,0,3,Not Placed
+F,79,Central,76,Central,Computer Science,65.6,No,58,55.47,0,0,6,1,2,Placed
+F,73,Others,58,Others,Computer Science,66,No,53.7,56.86,0,1,1,0,1,Placed
+M,81,Others,68,Others,Electronics And Communication,64,No,93,62.56,1,1,8,1,2,Placed
+F,78,Central,77,Others,Computer Science,80,No,60,66.72,1,0,0,4,3,Placed
+F,74,Others,63.16,Others,Computer Science,65,Yes,65,69.76,0,0,1,6,3,Not Placed
+M,49,Others,39,Central,Mechanical,65,No,63,51.21,1,0,7,0,2,Not Placed
+M,87,Others,87,Others,Civil,68,No,95,62.9,0,0,7,3,2,Placed
+F,77,Others,73,Others,Computer Science,81,Yes,89,69.7,1,0,7,2,3,Placed
+F,76,Central,64,Central,Information Technology,72,No,58,66.53,0,0,0,5,1,Not Placed
+F,70.89,Others,71.98,Others,Computer Science,65.6,No,68,71.63,1,0,5,5,3,Not Placed
+M,63,Central,60,Central,Information Technology,57,Yes,78,54.55,0,0,6,2,1,Placed
+M,63,Others,62,Others,Computer Science,68,No,64,62.46,0,0,4,3,3,Placed
+F,50,Others,37,Others,Information Technology,52,No,65,56.11,0,0,4,4,1,Not Placed
+F,75.2,Central,73.2,Central,Information Technology,68.4,No,65,62.98,0,0,3,6,2,Placed
+M,54.4,Central,61.12,Central,Civil,56.2,No,67,62.65,0,0,6,2,1,Not Placed
+F,40.89,Others,45.83,Others,Electronics And Communication,53,No,71.2,65.49,0,0,6,6,2,Not Placed
+M,80,Others,70,Others,Mechanical,72,No,87,71.04,1,0,5,4,1,Placed
+F,74,Central,60,Others,Mechanical,69,No,78,65.56,1,1,8,0,2,Placed
+M,60.4,Central,66.6,Others,Computer Science,65,No,71,52.71,0,0,3,4,1,Placed
+M,63,Others,71.4,Others,Computer Science,61.4,No,68,66.88,0,0,8,6,3,Placed
+M,68,Central,76,Central,Computer Science,74,No,80,63.59,0,1,2,1,1,Placed
+M,74,Central,62,Others,Computer Science,68,No,74,57.99,0,1,4,2,3,Placed
+M,52.6,Central,65.58,Others,Computer Science,72.11,No,57.6,56.66,0,0,4,4,3,Placed
+M,74,Central,70,Central,Electrical,72,Yes,60,57.24,0,0,2,4,3,Placed
+M,84.2,Central,73.4,Central,Information Technology,66.89,No,61.6,62.48,0,0,3,2,2,Placed
+F,86.5,Others,64.2,Others,Computer Science,67.4,No,59,59.69,0,0,7,5,1,Placed
+M,61,Others,70,Others,Mechanical,64,No,68.5,59.5,1,1,5,6,2,Not Placed
+M,80,Others,73,Others,Computer Science,75,No,61,58.78,0,0,2,0,3,Placed
+M,54,Others,47,Others,Information Technology,57,No,89.69,57.1,0,0,1,5,1,Not Placed
+M,83,Others,74,Others,Computer Science,66,No,68.92,58.46,1,1,1,0,1,Placed
+M,80.92,Others,78.5,Others,Mechanical,67,No,68.71,60.99,1,0,3,6,3,Placed
+F,69.7,Central,47,Central,Computer Science,72.7,No,79,59.24,0,0,3,4,1,Not Placed
+M,73,Central,73,Central,Electronics And Communication,66,Yes,70,68.07,0,0,7,0,3,Placed
+M,82,Others,61,Others,Civil,62,No,89,65.45,0,0,5,4,3,Placed
+M,75,Others,70.29,Others,Electrical,71,No,95,66.94,0,0,1,6,2,Placed
+M,84.86,Others,67,Others,Computer Science,78,No,95.5,68.53,0,0,8,2,2,Placed
+M,64.6,Central,83.83,Others,Mechanical,71.72,No,86,59.75,1,0,0,3,3,Placed
+M,56.6,Central,64.8,Central,Information Technology,70.2,No,84.27,67.2,0,0,5,0,3,Placed
+F,59,Central,62,Others,Computer Science,77.5,No,74,67,0,0,3,6,2,Not Placed
+F,66.5,Others,70.4,Central,Information Technology,71.93,No,61,64.27,0,1,1,6,2,Placed
+M,64,Others,80,Others,Electrical,65,Yes,69,57.65,0,0,7,3,2,Placed
+M,84,Others,90.9,Others,Information Technology,64.5,No,86.04,59.42,0,0,6,5,3,Placed
+F,69,Central,62,Central,Information Technology,66,No,75,67.99,0,0,7,6,2,Not Placed
+F,69,Others,62,Others,Information Technology,69,Yes,67,62.35,0,1,4,3,3,Placed
+M,81.7,Others,63,Others,Information Technology,67,Yes,86,70.2,0,0,8,5,3,Placed
+M,63,Central,67,Central,Electronics And Communication,74,No,82,60.44,0,0,5,2,1,Not Placed
+M,84,Others,79,Others,Electronics And Communication,68,Yes,84,66.69,0,1,2,4,2,Placed
+M,70,Central,63,Others,Electrical,70,Yes,55,62,0,0,3,5,3,Placed
+F,83.84,Others,89.83,Others,Information Technology,77.2,Yes,78.74,76.18,1,0,7,6,2,Placed
+M,62,Others,63,Others,Computer Science,64,No,67,57.03,0,0,8,0,3,Placed
+M,59.6,Central,51,Central,Information Technology,60,No,75,59.08,1,0,8,1,1,Not Placed
+F,66,Central,62,Central,Information Technology,73,No,58,64.36,0,1,1,3,1,Placed
+F,84,Others,75,Others,Information Technology,69,Yes,62,62.36,0,0,5,2,2,Placed
+F,85,Others,90,Others,Electronics And Communication,82,No,92,68.03,0,0,0,1,1,Placed
+M,52,Central,57,Central,Electrical,50.8,No,67,62.79,1,1,2,3,3,Not Placed
+F,60.23,Central,69,Central,Computer Science,66,No,72,59.47,0,0,0,6,3,Placed
+M,52,Central,62,Central,Information Technology,54,No,72,55.41,0,0,0,0,3,Not Placed
+M,58,Central,62,Central,Electronics And Communication,64,No,53.88,54.97,0,1,6,3,1,Placed
+M,73,Central,78,Others,Information Technology,65,Yes,95.46,62.16,1,1,3,4,1,Placed
+F,76,Central,70,Central,Computer Science,76,Yes,66,64.44,1,0,7,5,1,Placed
+F,70.5,Central,62.5,Others,Mechanical,61,No,93.91,69.03,1,0,1,4,1,Not Placed
+F,69,Central,73,Central,Computer Science,65,No,70,57.31,0,0,3,5,2,Placed
+M,54,Central,82,Others,Information Technology,63,No,50,59.47,0,0,6,3,3,Not Placed
+F,45,Others,57,Others,Information Technology,58,Yes,56.39,64.95,0,0,0,3,1,Not Placed
+M,63,Central,72,Central,Electronics And Communication,68,No,78,60.44,0,1,6,1,1,Placed
+F,77,Others,61,Others,Information Technology,68,Yes,57.5,61.31,0,0,3,4,2,Placed
+M,73,Central,78,Central,Information Technology,73,Yes,85,65.83,0,0,4,2,2,Placed
+M,69,Central,63,Others,Mechanical,65,Yes,55,58.23,1,0,1,6,2,Placed
+M,59,Central,64,Others,Mechanical,58,No,85,55.3,1,1,0,5,2,Not Placed
+M,61.08,Others,50,Others,Information Technology,54,No,71,65.69,0,0,4,5,2,Not Placed
+M,82,Others,90,Others,Computer Science,83,No,80,73.52,1,1,1,4,1,Placed
+M,61,Central,82,Central,Information Technology,69,No,84,58.31,0,0,5,4,2,Placed
+M,52,Central,63,Others,Electrical,65,Yes,86,56.09,0,1,8,5,1,Not Placed
+F,69.5,Central,70,Central,Civil,72,No,57.2,54.8,0,0,6,1,2,Placed
+M,51,Others,54,Others,Civil,61,No,60,60.64,0,1,3,4,1,Not Placed
+M,58,Others,61,Others,Information Technology,61,No,58,53.94,0,0,6,6,2,Placed
+F,73.96,Others,79,Others,Electronics And Communication,67,No,72.15,63.08,0,0,3,2,1,Placed
+M,65,Central,68,Others,Mechanical,69,No,53.7,55.01,1,0,8,2,2,Placed
+F,73,Others,63,Others,Civil,66,No,89,60.5,1,1,1,1,1,Placed
+M,68.2,Central,72.8,Central,Civil,66.6,Yes,96,70.85,0,1,3,5,3,Placed
+M,77,Others,75,Others,Computer Science,73,No,80,67.05,1,1,6,0,2,Placed
+M,76,Central,80,Central,Information Technology,78,Yes,97,70.48,0,0,0,1,3,Placed
+M,60.8,Central,68.4,Central,Mechanical,64.6,Yes,82.66,64.34,1,0,2,3,3,Placed
+M,58,Others,40,Others,Computer Science,59,No,73,58.81,0,0,2,1,3,Not Placed
+F,64,Central,67,Others,Information Technology,69.6,Yes,55.67,71.49,0,1,4,4,2,Placed
+F,66.5,Central,66.8,Central,Civil,69.3,Yes,80.4,71,0,0,0,3,3,Placed
+M,74,Others,59,Others,Mechanical,73,Yes,60,56.7,1,0,1,3,1,Placed
+M,67,Central,71,Central,Civil,64.33,Yes,64,61.26,1,1,6,6,2,Placed
+F,84,Central,73,Central,Mechanical,73,No,75,73.33,1,0,0,2,2,Placed
+F,79,Others,61,Others,Information Technology,75.5,Yes,70,68.2,0,1,5,1,2,Placed
+F,72,Others,60,Others,Mechanical,69,No,55.5,58.4,1,1,3,5,3,Placed
+M,80.4,Central,73.4,Central,Information Technology,77.72,Yes,81.2,76.26,0,1,3,1,1,Placed
+M,76.7,Central,89.7,Others,Electronics And Communication,66,Yes,90,68.55,0,0,6,1,1,Placed
+M,62,Central,65,Others,Information Technology,60,No,84,64.15,0,0,8,3,3,Not Placed
+F,74.9,Others,57,Others,Electronics And Communication,62,Yes,80,60.78,0,0,8,2,2,Placed
+M,67,Others,68,Others,Computer Science,64,Yes,74.4,53.49,0,0,4,1,1,Placed
+M,73,Central,64,Others,Computer Science,77,Yes,65,60.98,0,0,2,1,1,Placed
+F,77.44,Central,92,Others,Electronics And Communication,72,Yes,94,67.13,0,1,6,1,3,Placed
+F,72,Central,56,Others,Mechanical,69,No,55.6,65.63,1,0,5,1,2,Placed
+F,47,Central,59,Central,Computer Science,64,No,78,61.58,0,1,0,5,1,Not Placed
+M,67,Others,63,Central,Electronics And Communication,72,No,56,60.41,0,0,0,3,2,Placed
+F,82,Others,64,Others,Electronics And Communication,73,Yes,96,71.77,0,0,2,2,3,Placed
+M,77,Central,70,Central,Electrical,59,Yes,58,54.43,0,0,0,3,1,Placed
+M,65,Central,64.8,Others,Electronics And Communication,69.5,Yes,56,56.94,0,0,5,1,3,Placed
+M,66,Central,64,Central,Electrical,60,No,60,61.9,0,0,7,2,3,Not Placed
+M,85,Central,60,Others,Electrical,73.43,Yes,60,61.29,0,0,7,3,1,Placed
+M,77.67,Others,64.89,Others,Computer Science,70.67,No,89,60.39,0,0,0,3,3,Placed
+M,52,Others,50,Others,Information Technology,61,No,60,58.52,1,0,2,2,1,Not Placed
+M,89.4,Others,65.66,Others,Electronics And Communication,71.25,No,72,63.23,0,0,7,6,1,Placed
+M,62,Central,63,Others,Computer Science,66,No,85,55.14,0,0,4,5,2,Placed
+M,70,Central,74,Central,Civil,65,No,83,62.28,0,0,7,1,2,Placed
+F,77,Central,86,Central,Information Technology,56,No,57,64.08,0,0,2,2,1,Placed
+M,44,Central,58,Central,Information Technology,55,Yes,64.25,58.54,0,0,0,2,2,Not Placed
+M,71,Central,58.66,Central,Information Technology,58,Yes,56,61.3,0,1,6,0,3,Placed
+M,65,Central,65,Central,Information Technology,75,No,83,58.87,0,0,2,6,2,Placed
+F,75.4,Others,60.5,Central,Computer Science,84,No,98,65.25,1,0,8,3,2,Placed
+M,49,Others,59,Others,Electrical,65,Yes,86,62.48,0,0,8,4,2,Placed
+M,53,Central,63,Others,Computer Science,60,Yes,70,53.2,1,0,6,5,1,Placed
+M,51.57,Others,74.66,Others,Computer Science,59.9,Yes,56.15,65.99,0,1,7,5,1,Not Placed
+M,84.2,Central,69.4,Central,Information Technology,65,Yes,80,52.72,0,1,1,3,2,Placed
+M,66.5,Central,62.5,Central,Computer Science,60.9,No,93.4,55.03,1,0,8,2,2,Placed
+M,67,Others,63,Others,Electronics And Communication,64,No,60,61.87,0,0,3,1,1,Not Placed
+M,52,Central,49,Others,Computer Science,58,No,62,60.59,0,0,3,6,2,Not Placed
+M,87,Central,74,Central,Electrical,65,Yes,75,72.29,0,0,2,1,2,Placed
+M,55.6,Others,51,Others,Information Technology,57.5,No,57.63,62.72,0,0,2,6,2,Not Placed
+M,74.2,Central,87.6,Others,Computer Science,77.25,Yes,75.2,66.06,0,1,7,4,1,Placed
+M,63,Others,67,Others,Electrical,64,No,75,66.46,0,0,1,5,2,Placed
+F,67.16,Central,72.5,Central,Computer Science,63.35,No,53.04,65.52,1,0,0,1,1,Placed
+F,63.3,Central,78.33,Others,Computer Science,74,No,80,74.56,0,0,3,0,1,Not Placed
+M,62,Others,62,Others,Electronics And Communication,60,Yes,63,52.38,0,0,1,6,2,Placed
+M,67.9,Others,62,Others,Electronics And Communication,67,Yes,58.1,75.71,0,0,5,2,2,Not Placed
+F,48,Central,51,Central,Computer Science,58,Yes,60,58.79,0,0,2,1,2,Not Placed
+M,59.96,Others,42.16,Others,Mechanical,61.26,No,54.48,65.48,1,0,8,5,1,Not Placed
+F,63.4,Others,67.2,Others,Computer Science,60,No,58.06,69.28,0,0,7,4,2,Not Placed
+M,80,Others,80,Others,Civil,72,Yes,63.79,66.04,1,0,7,0,3,Placed
+M,73,Others,58,Others,Computer Science,56,No,84,52.64,0,0,1,2,3,Placed
+F,52,Others,52,Others,Information Technology,55,No,67,59.32,0,0,8,1,3,Not Placed
+M,73.24,Others,50.83,Others,Mechanical,64.27,Yes,64,66.23,1,1,0,3,1,Placed
+M,63,Others,62,Others,Information Technology,65,No,87.5,60.69,0,0,2,3,3,Not Placed
+F,59,Central,60,Others,Information Technology,56,No,55,57.9,0,0,0,2,3,Placed
+F,73,Central,97,Others,Information Technology,79,Yes,89,70.81,0,0,6,3,3,Placed
+M,68,Others,56,Others,Electrical,68,No,73,68.07,0,0,4,6,3,Placed
+F,77.8,Central,64,Central,Information Technology,64.2,No,75.5,72.14,0,0,7,6,1,Not Placed
+M,65,Central,71.5,Others,Information Technology,62.8,Yes,57,56.6,0,0,4,4,3,Placed
+M,62,Central,60.33,Others,Electrical,64.21,No,63,60.02,0,0,7,1,3,Not Placed
+M,52,Others,65,Others,Mechanical,57,Yes,75,59.81,1,0,3,2,1,Not Placed
+M,65,Central,77,Central,Electronics And Communication,69,No,60,61.82,0,0,5,1,2,Placed
+F,56.28,Others,62.83,Others,Information Technology,59.79,No,60,57.29,0,0,7,4,1,Not Placed
+F,88,Central,72,Central,Mechanical,78,No,82,71.43,1,0,5,4,1,Placed
+F,52,Central,64,Central,Computer Science,61,No,55,62.93,0,0,5,1,3,Not Placed
+M,78.5,Central,65.5,Central,Electronics And Communication,67,Yes,95,64.86,0,0,5,2,1,Placed
+M,61.8,Others,47,Others,Electronics And Communication,54.38,No,57,56.13,0,0,0,1,2,Not Placed
+F,54,Central,77.6,Others,Computer Science,69.2,No,95.65,66.94,0,0,5,0,1,Not Placed
+F,64,Others,70.2,Central,Electrical,61,No,50,62.5,0,0,8,4,1,Not Placed
+M,67,Others,61,Central,Computer Science,72,No,72,61.01,0,0,6,2,3,Placed
+M,65.2,Central,61.4,Central,Electronics And Communication,64.8,Yes,93.4,57.34,0,0,3,1,2,Placed
+F,60,Central,63,Central,Information Technology,56,Yes,80,56.63,0,0,8,1,1,Placed
+M,52,Others,55,Others,Civil,56.3,No,59,64.74,0,1,1,3,2,Not Placed
+M,66,Central,76,Central,Computer Science,72,Yes,84,58.95,0,1,5,6,3,Placed
+M,72,Others,63,Others,Information Technology,77.5,Yes,78,54.48,0,0,6,6,1,Placed
+F,83.96,Others,53,Others,Civil,91,No,59.32,69.71,0,0,5,2,1,Placed
+F,67,Central,70,Central,Electronics And Communication,65,No,88,71.96,0,0,1,0,1,Not Placed
+M,69,Others,65,Others,Civil,57,No,73,55.8,0,0,6,4,3,Placed
+M,69,Others,60,Others,Information Technology,65,No,87.55,52.81,0,0,2,1,2,Placed
+M,54.2,Central,63,Others,Computer Science,58,No,79,58.44,0,0,3,5,2,Not Placed
+M,70,Central,63,Central,Information Technology,66,No,61.28,60.11,1,0,1,6,2,Placed
+M,55.68,Others,61.33,Others,Computer Science,56.87,No,66,58.3,0,0,5,2,1,Placed
+F,74,Others,73,Others,Electrical,73,Yes,80,67.69,0,0,4,0,1,Placed
+M,61,Others,62,Others,Information Technology,65,No,62,56.81,0,0,4,3,3,Placed
+M,41,Central,42,Central,Electrical,60,No,97,53.39,0,1,4,4,3,Not Placed
+M,83.33,Central,78,Others,Computer Science,61,Yes,88.56,71.55,1,0,7,4,3,Placed
+F,43,Central,60,Others,Computer Science,65,No,92.66,62.92,1,0,4,3,3,Not Placed
+M,62,Central,72,Central,Information Technology,65,No,67,56.49,0,0,3,0,2,Placed
+M,80.6,Others,82,Others,Computer Science,77.6,No,91,74.49,0,0,0,4,2,Placed
+M,58,Others,60,Others,Computer Science,72,No,74,53.62,1,1,7,5,3,Placed
+M,67,Others,67,Others,Information Technology,73,Yes,59,69.72,0,0,6,2,1,Placed
+F,74,Others,66,Others,Computer Science,58,No,70,60.23,0,0,2,2,1,Placed
+M,62,Central,58,Others,Computer Science,53,No,89,60.22,0,0,7,0,1,Not Placed
+M,67,Others,91,Others,Computer Science,58,No,55,58.8,0,0,0,5,3,Placed
+M,79.33,Central,78.33,Others,Information Technology,77.48,Yes,86.5,66.28,0,0,1,2,3,Placed
+M,65,Central,68,Central,Computer Science,64,No,75,57.8,0,0,7,3,3,Placed
+M,56,Central,52,Central,Electrical,52,No,66,59.43,0,1,2,6,1,Not Placed
+M,85.8,Central,73.6,Central,Computer Science,73.3,No,96.8,55.5,0,0,4,1,2,Placed
+M,55,Others,49.8,Others,Electronics And Communication,67.25,Yes,55,51.58,0,0,8,3,2,Not Placed
+F,46,Others,49.2,Others,Computer Science,79,No,74.28,53.29,1,0,8,0,1,Not Placed
+M,82,Central,64,Central,Computer Science,66,Yes,67,62.14,0,0,8,1,3,Placed
+M,73,Central,79,Central,Electrical,72,No,91.34,61.29,0,0,2,5,1,Placed
+M,58,Central,70,Central,Computer Science,61,No,54,52.21,1,1,5,2,3,Not Placed
+M,58,Central,61,Central,Computer Science,60,Yes,62,60.85,0,0,7,0,3,Placed
+M,69.6,Central,68.4,Central,Information Technology,78.3,Yes,60,63.7,0,0,5,1,1,Placed
+F,47,Central,55,Others,Computer Science,65,No,62,65.04,0,0,0,2,3,Not Placed
+F,77,Central,87,Central,Information Technology,59,No,68,68.63,0,0,7,2,2,Placed
+M,62,Central,47,Central,Mechanical,50,No,76,54.96,0,0,1,1,1,Not Placed
+F,65,Central,75,Central,Electrical,69,Yes,72,64.66,0,0,3,1,3,Placed
+M,63,Central,66.2,Central,Electronics And Communication,65.6,Yes,60,62.54,0,1,5,3,2,Placed
+F,55,Central,67,Central,Electrical,64,No,60,67.28,0,1,8,0,3,Not Placed
+F,63,Central,66,Central,Electrical,64,No,68,64.08,0,0,4,0,1,Not Placed
+M,60,Others,67,Others,Mechanical,70,Yes,50.48,77.89,1,0,8,4,1,Placed
+M,62,Others,65,Others,Computer Science,66,No,50,56.7,0,0,6,1,2,Placed
+F,79,Others,76,Others,Computer Science,85,No,95,69.06,0,0,7,6,3,Placed
+F,69.8,Others,60.8,Others,Mechanical,72.23,No,55.53,68.81,1,0,6,3,2,Placed
+F,77.4,Others,60,Others,Electrical,64.74,Yes,92,63.62,0,0,6,6,1,Placed
+M,76.5,Others,97.7,Others,Civil,78.86,No,97.4,74.01,0,0,6,6,1,Placed
+F,52.58,Others,54.6,Central,Electronics And Communication,50.2,Yes,76,65.33,0,1,1,5,3,Not Placed
+M,71,Others,79,Others,Mechanical,66,Yes,94,57.55,1,0,8,6,1,Placed
+M,63,Others,67,Others,Computer Science,66,No,68,57.69,0,0,1,6,1,Placed
+M,76.76,Others,76.5,Others,Mechanical,67.5,Yes,73.35,64.15,1,0,4,5,3,Placed
+M,62,Central,67,Central,Computer Science,58,No,77,51.29,0,0,2,3,1,Not Placed
+F,64,Central,73.5,Central,Computer Science,73,No,52,56.7,0,0,4,4,3,Placed
+F,67,Central,53,Central,Computer Science,65,No,64,58.32,0,1,3,1,3,Not Placed
+F,61,Central,81,Central,Computer Science,66.4,No,50.89,62.21,1,0,7,4,1,Placed
+F,87,Others,65,Others,Electrical,81,Yes,88,72.78,0,0,4,5,2,Placed
+M,62,Others,51,Others,Computer Science,52,No,68.44,62.77,0,0,0,6,2,Not Placed
+F,69,Central,78,Central,Information Technology,72,No,71,62.74,0,0,4,3,3,Placed
+M,51,Central,44,Central,Mechanical,57,No,64,51.45,1,0,8,5,3,Not Placed
+F,79,Central,76,Central,Civil,65.6,No,58,55.47,0,0,4,3,2,Placed
+F,73,Others,58,Others,Computer Science,66,No,53.7,56.86,1,1,5,4,3,Placed
+M,81,Others,68,Others,Electronics And Communication,64,No,93,62.56,0,1,6,0,1,Placed
+F,78,Central,77,Others,Electronics And Communication,80,No,60,66.72,0,0,7,1,1,Placed
+F,74,Others,63.16,Others,Electronics And Communication,65,Yes,65,69.76,0,0,0,6,2,Not Placed
+M,49,Others,39,Central,Electrical,65,No,63,51.21,0,0,7,0,1,Not Placed
+M,87,Others,87,Others,Computer Science,68,No,95,62.9,0,1,6,5,2,Placed
+F,77,Others,73,Others,Computer Science,81,Yes,89,69.7,0,0,1,4,2,Placed
+F,76,Central,64,Central,Computer Science,72,No,58,66.53,0,0,6,1,3,Not Placed
+F,70.89,Others,71.98,Others,Information Technology,65.6,No,68,71.63,0,0,2,6,1,Not Placed
+M,63,Central,60,Central,Information Technology,57,Yes,78,54.55,0,0,7,0,1,Placed
+M,63,Others,62,Others,Computer Science,68,No,64,62.46,0,0,1,1,2,Placed
+F,50,Others,37,Others,Information Technology,52,No,65,56.11,0,0,6,1,2,Not Placed
+F,75.2,Central,73.2,Central,Mechanical,68.4,No,65,62.98,1,0,5,1,3,Placed
+M,54.4,Central,61.12,Central,Information Technology,56.2,No,67,62.65,0,0,7,6,3,Not Placed
+F,40.89,Others,45.83,Others,Electronics And Communication,53,No,71.2,65.49,0,0,3,6,2,Not Placed
+M,80,Others,70,Others,Computer Science,72,No,87,71.04,0,0,0,3,3,Placed
+F,74,Central,60,Others,Mechanical,69,No,78,65.56,1,1,8,3,3,Placed
+M,60.4,Central,66.6,Others,Mechanical,65,No,71,52.71,1,0,8,3,2,Placed
+M,63,Others,71.4,Others,Information Technology,61.4,No,68,66.88,0,1,0,3,1,Placed
+M,68,Central,76,Central,Computer Science,74,No,80,63.59,0,1,7,3,2,Placed
+M,74,Central,62,Others,Mechanical,68,No,74,57.99,1,0,2,5,3,Placed
+M,52.6,Central,65.58,Others,Civil,72.11,No,57.6,56.66,0,0,7,6,1,Placed
+M,74,Central,70,Central,Electronics And Communication,72,Yes,60,57.24,0,0,4,5,2,Placed
+M,84.2,Central,73.4,Central,Mechanical,66.89,No,61.6,62.48,1,0,6,0,2,Placed
+F,86.5,Others,64.2,Others,Computer Science,67.4,No,59,59.69,1,1,6,6,1,Placed
+M,61,Others,70,Others,Computer Science,64,No,68.5,59.5,0,1,8,1,2,Not Placed
+M,80,Others,73,Others,Electronics And Communication,75,No,61,58.78,0,0,1,6,3,Placed
+M,54,Others,47,Others,Electrical,57,No,89.69,57.1,0,0,1,6,3,Not Placed
+M,83,Others,74,Others,Computer Science,66,No,68.92,58.46,0,0,7,4,3,Placed
+M,80.92,Others,78.5,Others,Computer Science,67,No,68.71,60.99,0,0,8,5,2,Placed
+F,69.7,Central,47,Central,Electronics And Communication,72.7,No,79,59.24,0,0,2,0,2,Not Placed
+M,73,Central,73,Central,Computer Science,66,Yes,70,68.07,0,0,3,5,2,Placed
+M,82,Others,61,Others,Information Technology,62,No,89,65.45,0,0,6,6,3,Placed
+M,75,Others,70.29,Others,Civil,71,No,95,66.94,0,0,0,4,3,Placed
+M,84.86,Others,67,Others,Information Technology,78,No,95.5,68.53,0,0,1,0,2,Placed
+M,64.6,Central,83.83,Others,Electrical,71.72,No,86,59.75,1,1,0,3,3,Placed
+M,56.6,Central,64.8,Central,Information Technology,70.2,No,84.27,67.2,0,0,3,6,3,Placed
+F,59,Central,62,Others,Computer Science,77.5,No,74,67,0,0,4,3,2,Not Placed
+F,66.5,Others,70.4,Central,Civil,71.93,No,61,64.27,0,0,2,4,2,Placed
+M,64,Others,80,Others,Mechanical,65,Yes,69,57.65,1,0,7,4,3,Placed
+M,84,Others,90.9,Others,Information Technology,64.5,No,86.04,59.42,1,0,6,5,2,Placed
+F,69,Central,62,Central,Electronics And Communication,66,No,75,67.99,0,0,8,4,1,Not Placed
+F,69,Others,62,Others,Civil,69,Yes,67,62.35,0,0,6,4,1,Placed
+M,81.7,Others,63,Others,Computer Science,67,Yes,86,70.2,0,0,2,1,3,Placed
+M,63,Central,67,Central,Computer Science,74,No,82,60.44,1,1,3,5,2,Not Placed
+M,84,Others,79,Others,Information Technology,68,Yes,84,66.69,0,1,0,6,2,Placed
+M,70,Central,63,Others,Information Technology,70,Yes,55,62,0,0,8,6,2,Placed
+F,83.84,Others,89.83,Others,Civil,77.2,Yes,78.74,76.18,0,0,1,6,2,Placed
+M,62,Others,63,Others,Information Technology,64,No,67,57.03,0,0,5,3,1,Placed
+M,59.6,Central,51,Central,Civil,60,No,75,59.08,0,0,1,3,2,Not Placed
+F,66,Central,62,Central,Computer Science,73,No,58,64.36,0,0,6,0,3,Placed
+F,84,Others,75,Others,Computer Science,69,Yes,62,62.36,0,0,1,4,2,Placed
+F,85,Others,90,Others,Computer Science,82,No,92,68.03,0,0,3,3,2,Placed
+M,52,Central,57,Central,Mechanical,50.8,No,67,62.79,0,1,0,5,3,Not Placed
+F,60.23,Central,69,Central,Civil,66,No,72,59.47,0,0,5,4,2,Placed
+M,52,Central,62,Central,Information Technology,54,No,72,55.41,0,0,2,6,3,Not Placed
+M,58,Central,62,Central,Electrical,64,No,53.88,54.97,0,1,8,4,3,Placed
+M,73,Central,78,Others,Computer Science,65,Yes,95.46,62.16,1,0,4,1,3,Placed
+F,76,Central,70,Central,Computer Science,76,Yes,66,64.44,1,0,4,2,2,Placed
+F,70.5,Central,62.5,Others,Civil,61,No,93.91,69.03,1,0,3,5,1,Not Placed
+F,69,Central,73,Central,Information Technology,65,No,70,57.31,0,0,3,6,1,Placed
+M,54,Central,82,Others,Mechanical,63,No,50,59.47,0,0,5,0,1,Not Placed
+F,45,Others,57,Others,Civil,58,Yes,56.39,64.95,1,1,2,4,2,Not Placed
+M,63,Central,72,Central,Electronics And Communication,68,No,78,60.44,0,1,4,4,3,Placed
+F,77,Others,61,Others,Mechanical,68,Yes,57.5,61.31,1,0,0,6,1,Placed
+M,73,Central,78,Central,Mechanical,73,Yes,85,65.83,1,1,3,2,2,Placed
+M,69,Central,63,Others,Information Technology,65,Yes,55,58.23,0,1,4,0,1,Placed
+M,59,Central,64,Others,Information Technology,58,No,85,55.3,0,0,6,3,1,Not Placed
+M,61.08,Others,50,Others,Electronics And Communication,54,No,71,65.69,0,0,8,2,3,Not Placed
+M,82,Others,90,Others,Information Technology,83,No,80,73.52,0,0,8,6,1,Placed
+M,61,Central,82,Central,Information Technology,69,No,84,58.31,0,0,4,0,2,Placed
+M,52,Central,63,Others,Computer Science,65,Yes,86,56.09,0,0,2,4,2,Not Placed
+F,69.5,Central,70,Central,Electronics And Communication,72,No,57.2,54.8,0,0,0,5,1,Placed
+M,51,Others,54,Others,Information Technology,61,No,60,60.64,0,0,0,0,2,Not Placed
+M,58,Others,61,Others,Electronics And Communication,61,No,58,53.94,0,0,8,0,3,Placed
+F,73.96,Others,79,Others,Information Technology,67,No,72.15,63.08,1,0,6,6,1,Placed
+M,65,Central,68,Others,Electronics And Communication,69,No,53.7,55.01,0,0,7,2,3,Placed
+F,73,Others,63,Others,Electronics And Communication,66,No,89,60.5,0,0,4,6,2,Placed
+M,68.2,Central,72.8,Central,Information Technology,66.6,Yes,96,70.85,0,0,1,2,1,Placed
+M,77,Others,75,Others,Civil,73,No,80,67.05,1,0,2,2,1,Placed
+M,76,Central,80,Central,Mechanical,78,Yes,97,70.48,0,0,8,2,3,Placed
+M,60.8,Central,68.4,Central,Computer Science,64.6,Yes,82.66,64.34,0,0,5,4,1,Placed
+M,58,Others,40,Others,Civil,59,No,73,58.81,0,0,8,2,2,Not Placed
+F,64,Central,67,Others,Information Technology,69.6,Yes,55.67,71.49,0,0,4,2,1,Placed
+F,66.5,Central,66.8,Central,Civil,69.3,Yes,80.4,71,1,0,2,2,2,Placed
+M,74,Others,59,Others,Computer Science,73,Yes,60,56.7,0,1,7,4,1,Placed
+M,67,Central,71,Central,Computer Science,64.33,Yes,64,61.26,0,0,1,1,3,Placed
+F,84,Central,73,Central,Civil,73,No,75,73.33,0,0,0,3,3,Placed
+F,79,Others,61,Others,Information Technology,75.5,Yes,70,68.2,0,0,7,6,3,Placed
+F,72,Others,60,Others,Electrical,69,No,55.5,58.4,0,0,6,4,2,Placed
+M,80.4,Central,73.4,Central,Mechanical,77.72,Yes,81.2,76.26,1,1,8,6,1,Placed
+M,76.7,Central,89.7,Others,Information Technology,66,Yes,90,68.55,0,0,8,3,3,Placed
+M,62,Central,65,Others,Computer Science,60,No,84,64.15,1,1,6,4,1,Not Placed
+F,74.9,Others,57,Others,Electronics And Communication,62,Yes,80,60.78,0,0,1,5,3,Placed
+M,67,Others,68,Others,Civil,64,Yes,74.4,53.49,0,0,1,5,2,Placed
+M,73,Central,64,Others,Computer Science,77,Yes,65,60.98,0,0,3,3,1,Placed
+F,77.44,Central,92,Others,Mechanical,72,Yes,94,67.13,1,0,3,0,2,Placed
+F,72,Central,56,Others,Information Technology,69,No,55.6,65.63,0,1,6,6,1,Placed
+F,47,Central,59,Central,Electrical,64,No,78,61.58,0,0,3,0,1,Not Placed
+M,67,Others,63,Central,Civil,72,No,56,60.41,0,0,6,0,2,Placed
+F,82,Others,64,Others,Mechanical,73,Yes,96,71.77,1,1,5,3,2,Placed
+M,77,Central,70,Central,Electronics And Communication,59,Yes,58,54.43,0,0,4,2,1,Placed
+M,65,Central,64.8,Others,Electronics And Communication,69.5,Yes,56,56.94,0,0,8,0,3,Placed
+M,66,Central,64,Central,Civil,60,No,60,61.9,0,0,1,4,3,Not Placed
+M,85,Central,60,Others,Electrical,73.43,Yes,60,61.29,0,0,0,2,1,Placed
+M,77.67,Others,64.89,Others,Civil,70.67,No,89,60.39,0,0,7,5,3,Placed
+M,52,Others,50,Others,Mechanical,61,No,60,58.52,1,0,1,0,1,Not Placed
+M,89.4,Others,65.66,Others,Mechanical,71.25,No,72,63.23,1,1,3,5,3,Placed
+M,62,Central,63,Others,Information Technology,66,No,85,55.14,0,0,8,2,1,Placed
+M,70,Central,74,Central,Information Technology,65,No,83,62.28,0,0,7,4,2,Placed
+F,77,Central,86,Central,Electrical,56,No,57,64.08,0,0,1,1,2,Placed
+M,44,Central,58,Central,Mechanical,55,Yes,64.25,58.54,1,1,1,6,2,Not Placed
+M,71,Central,58.66,Central,Mechanical,58,Yes,56,61.3,1,0,8,1,1,Placed
+M,65,Central,65,Central,Information Technology,75,No,83,58.87,0,0,1,0,2,Placed
+F,75.4,Others,60.5,Central,Information Technology,84,No,98,65.25,0,0,8,2,3,Placed
+M,49,Others,59,Others,Electronics And Communication,65,Yes,86,62.48,0,0,8,4,2,Placed
+M,53,Central,63,Others,Computer Science,60,Yes,70,53.2,0,1,6,1,2,Placed
+M,51.57,Others,74.66,Others,Computer Science,59.9,Yes,56.15,65.99,1,0,6,4,1,Not Placed
+M,84.2,Central,69.4,Central,Mechanical,65,Yes,80,52.72,1,0,2,6,1,Placed
+M,66.5,Central,62.5,Central,Electronics And Communication,60.9,No,93.4,55.03,0,1,6,5,2,Placed
+M,67,Others,63,Others,Information Technology,64,No,60,61.87,0,0,6,5,2,Not Placed
+M,52,Central,49,Others,Information Technology,58,No,62,60.59,0,0,5,5,2,Not Placed
+M,87,Central,74,Central,Computer Science,65,Yes,75,72.29,0,1,7,1,1,Placed
+M,55.6,Others,51,Others,Computer Science,57.5,No,57.63,62.72,0,0,6,1,2,Not Placed
+M,74.2,Central,87.6,Others,Electronics And Communication,77.25,Yes,75.2,66.06,0,0,2,3,3,Placed
+M,63,Others,67,Others,Information Technology,64,No,75,66.46,1,0,8,2,2,Placed
+F,67.16,Central,72.5,Central,Computer Science,63.35,No,53.04,65.52,0,1,8,6,2,Placed
+F,63.3,Central,78.33,Others,Electronics And Communication,74,No,80,74.56,0,1,6,3,3,Not Placed
+M,62,Others,62,Others,Computer Science,60,Yes,63,52.38,1,1,3,2,3,Placed
+M,67.9,Others,62,Others,Electronics And Communication,67,Yes,58.1,75.71,0,0,4,0,1,Not Placed
+F,48,Central,51,Central,Electronics And Communication,58,Yes,60,58.79,0,0,3,0,2,Not Placed
+M,59.96,Others,42.16,Others,Civil,61.26,No,54.48,65.48,1,1,7,1,3,Not Placed
+F,63.4,Others,67.2,Others,Electronics And Communication,60,No,58.06,69.28,0,0,6,2,3,Not Placed
+M,80,Others,80,Others,Mechanical,72,Yes,63.79,66.04,1,0,8,0,1,Placed
+M,73,Others,58,Others,Electrical,56,No,84,52.64,0,0,4,1,3,Placed
+F,52,Others,52,Others,Computer Science,55,No,67,59.32,0,0,7,4,1,Not Placed
+M,73.24,Others,50.83,Others,Information Technology,64.27,Yes,64,66.23,0,1,1,6,1,Placed
+M,63,Others,62,Others,Mechanical,65,No,87.5,60.69,1,0,3,4,1,Not Placed
+F,59,Central,60,Others,Information Technology,56,No,55,57.9,0,0,1,2,3,Placed
+F,73,Central,97,Others,Electronics And Communication,79,Yes,89,70.81,1,1,0,1,2,Placed
+M,68,Others,56,Others,Electronics And Communication,68,No,73,68.07,1,1,1,1,1,Placed
+F,77.8,Central,64,Central,Mechanical,64.2,No,75.5,72.14,1,0,6,0,3,Not Placed
+M,65,Central,71.5,Others,Computer Science,62.8,Yes,57,56.6,0,0,1,6,2,Placed
+M,62,Central,60.33,Others,Electrical,64.21,No,63,60.02,0,0,2,0,3,Not Placed
+M,52,Others,65,Others,Information Technology,57,Yes,75,59.81,0,0,6,5,3,Not Placed
+M,65,Central,77,Central,Electronics And Communication,69,No,60,61.82,0,0,4,1,3,Placed
+F,56.28,Others,62.83,Others,Information Technology,59.79,No,60,57.29,0,0,6,6,3,Not Placed
+F,88,Central,72,Central,Computer Science,78,No,82,71.43,1,0,5,3,2,Placed
+F,52,Central,64,Central,Information Technology,61,No,55,62.93,0,0,3,2,2,Not Placed
+M,78.5,Central,65.5,Central,Information Technology,67,Yes,95,64.86,0,0,5,5,3,Placed
+M,61.8,Others,47,Others,Information Technology,54.38,No,57,56.13,0,0,8,1,2,Not Placed
+F,54,Central,77.6,Others,Civil,69.2,No,95.65,66.94,1,1,1,4,3,Not Placed
+F,64,Others,70.2,Central,Mechanical,61,No,50,62.5,1,0,1,3,3,Not Placed
+M,67,Others,61,Central,Computer Science,72,No,72,61.01,0,0,7,4,3,Placed
+M,65.2,Central,61.4,Central,Computer Science,64.8,Yes,93.4,57.34,0,0,6,1,3,Placed
+F,60,Central,63,Central,Electronics And Communication,56,Yes,80,56.63,0,0,8,5,1,Placed
+M,52,Others,55,Others,Electronics And Communication,56.3,No,59,64.74,0,0,4,4,3,Not Placed
+M,66,Central,76,Central,Information Technology,72,Yes,84,58.95,0,0,3,3,2,Placed
+M,72,Others,63,Others,Computer Science,77.5,Yes,78,54.48,1,0,1,0,1,Placed
+F,83.96,Others,53,Others,Computer Science,91,No,59.32,69.71,1,1,7,3,3,Placed
+F,67,Central,70,Central,Mechanical,65,No,88,71.96,1,0,2,1,1,Not Placed
+M,69,Others,65,Others,Computer Science,57,No,73,55.8,1,0,5,3,1,Placed
+M,69,Others,60,Others,Electronics And Communication,65,No,87.55,52.81,0,0,1,5,2,Placed
+M,54.2,Central,63,Others,Information Technology,58,No,79,58.44,0,0,6,5,1,Not Placed
+M,70,Central,63,Central,Electronics And Communication,66,No,61.28,60.11,0,0,2,4,1,Placed
+M,55.68,Others,61.33,Others,Mechanical,56.87,No,66,58.3,1,0,6,5,1,Placed
+F,74,Others,73,Others,Mechanical,73,Yes,80,67.69,1,0,8,1,1,Placed
+M,61,Others,62,Others,Mechanical,65,No,62,56.81,0,0,1,2,2,Placed
+M,41,Central,42,Central,Information Technology,60,No,97,53.39,0,1,2,4,1,Not Placed
+M,83.33,Central,78,Others,Mechanical,61,Yes,88.56,71.55,1,1,1,0,3,Placed
+F,43,Central,60,Others,Civil,65,No,92.66,62.92,0,0,6,0,3,Not Placed
+M,62,Central,72,Central,Electrical,65,No,67,56.49,0,0,5,6,3,Placed
+M,80.6,Others,82,Others,Computer Science,77.6,No,91,74.49,0,0,6,6,2,Placed
+M,58,Others,60,Others,Computer Science,72,No,74,53.62,0,0,2,2,3,Placed
+M,67,Others,67,Others,Civil,73,Yes,59,69.72,0,0,8,6,1,Placed
+F,74,Others,66,Others,Information Technology,58,No,70,60.23,0,0,5,1,1,Placed
+M,62,Central,58,Others,Civil,53,No,89,60.22,0,0,1,2,3,Not Placed
+M,67,Others,91,Others,Computer Science,58,No,55,58.8,0,0,8,1,2,Placed
+M,79.33,Central,78.33,Others,Information Technology,77.48,Yes,86.5,66.28,0,0,4,5,1,Placed
+M,65,Central,68,Central,Information Technology,64,No,75,57.8,0,0,3,3,2,Placed
+M,56,Central,52,Central,Electrical,52,No,66,59.43,1,1,7,6,1,Not Placed
+M,85.8,Central,73.6,Central,Information Technology,73.3,No,96.8,55.5,0,0,5,2,3,Placed
+M,55,Others,49.8,Others,Electronics And Communication,67.25,Yes,55,51.58,0,0,8,1,1,Not Placed
+F,46,Others,49.2,Others,Computer Science,79,No,74.28,53.29,0,0,2,4,2,Not Placed
+M,82,Central,64,Central,Information Technology,66,Yes,67,62.14,0,0,6,2,1,Placed
+M,73,Central,79,Central,Mechanical,72,No,91.34,61.29,1,0,3,4,2,Placed
+M,58,Central,70,Central,Computer Science,61,No,54,52.21,0,0,8,1,2,Not Placed
+M,58,Central,61,Central,Civil,60,Yes,62,60.85,0,1,0,5,3,Placed
+M,69.6,Central,68.4,Central,Electrical,78.3,Yes,60,63.7,1,0,1,5,2,Placed
+F,47,Central,55,Others,Mechanical,65,No,62,65.04,1,1,2,5,3,Not Placed
+F,77,Central,87,Central,Electrical,59,No,68,68.63,0,0,4,3,3,Placed
+M,62,Central,47,Central,Mechanical,50,No,76,54.96,1,0,8,5,2,Not Placed
+F,65,Central,75,Central,Information Technology,69,Yes,72,64.66,0,0,1,3,1,Placed
+M,63,Central,66.2,Central,Mechanical,65.6,Yes,60,62.54,1,0,6,6,3,Placed
+F,55,Central,67,Central,Civil,64,No,60,67.28,0,1,1,6,3,Not Placed
+F,63,Central,66,Central,Computer Science,64,No,68,64.08,0,1,1,0,3,Not Placed
+M,60,Others,67,Others,Information Technology,70,Yes,50.48,77.89,0,0,3,3,3,Placed
+M,62,Others,65,Others,Computer Science,66,No,50,56.7,0,0,0,3,2,Placed
+F,79,Others,76,Others,Computer Science,85,No,95,69.06,0,0,2,0,3,Placed
+F,69.8,Others,60.8,Others,Electronics And Communication,72.23,No,55.53,68.81,0,0,0,0,2,Placed
+F,77.4,Others,60,Others,Electrical,64.74,Yes,92,63.62,0,1,4,3,3,Placed
+M,76.5,Others,97.7,Others,Civil,78.86,No,97.4,74.01,0,1,0,4,3,Placed
+F,52.58,Others,54.6,Central,Information Technology,50.2,Yes,76,65.33,0,0,1,6,1,Not Placed
+M,71,Others,79,Others,Electronics And Communication,66,Yes,94,57.55,0,1,7,5,2,Placed
+M,63,Others,67,Others,Mechanical,66,No,68,57.69,1,0,0,5,1,Placed
+M,76.76,Others,76.5,Others,Information Technology,67.5,Yes,73.35,64.15,0,0,0,0,1,Placed
+M,62,Central,67,Central,Civil,58,No,77,51.29,0,1,6,4,2,Not Placed
+F,64,Central,73.5,Central,Computer Science,73,No,52,56.7,0,0,5,0,2,Placed
+F,67,Central,53,Central,Mechanical,65,No,64,58.32,1,0,5,1,1,Not Placed
+F,61,Central,81,Central,Mechanical,66.4,No,50.89,62.21,1,1,7,3,1,Placed
+F,87,Others,65,Others,Civil,81,Yes,88,72.78,0,0,7,5,3,Placed
+M,62,Others,51,Others,Mechanical,52,No,68.44,62.77,1,0,6,2,3,Not Placed
+F,69,Central,78,Central,Computer Science,72,No,71,62.74,0,1,7,4,3,Placed
+M,51,Central,44,Central,Computer Science,57,No,64,51.45,1,0,1,0,3,Not Placed
+F,79,Central,76,Central,Computer Science,65.6,No,58,55.47,0,0,1,2,2,Placed
+F,73,Others,58,Others,Computer Science,66,No,53.7,56.86,0,0,8,3,1,Placed
+M,81,Others,68,Others,Civil,64,No,93,62.56,1,0,8,0,2,Placed
+F,78,Central,77,Others,Electronics And Communication,80,No,60,66.72,0,0,2,3,2,Placed
+F,74,Others,63.16,Others,Electrical,65,Yes,65,69.76,1,1,1,2,3,Not Placed
+M,49,Others,39,Central,Information Technology,65,No,63,51.21,0,0,4,4,3,Not Placed
+M,87,Others,87,Others,Civil,68,No,95,62.9,0,0,5,0,2,Placed
+F,77,Others,73,Others,Civil,81,Yes,89,69.7,0,1,6,3,2,Placed
+F,76,Central,64,Central,Electrical,72,No,58,66.53,0,1,6,1,3,Not Placed
+F,70.89,Others,71.98,Others,Computer Science,65.6,No,68,71.63,0,1,5,0,1,Not Placed
+M,63,Central,60,Central,Computer Science,57,Yes,78,54.55,1,0,0,3,1,Placed
+M,63,Others,62,Others,Computer Science,68,No,64,62.46,0,1,8,2,3,Placed
+F,50,Others,37,Others,Electronics And Communication,52,No,65,56.11,0,0,6,6,2,Not Placed
+F,75.2,Central,73.2,Central,Computer Science,68.4,No,65,62.98,1,0,5,3,1,Placed
+M,54.4,Central,61.12,Central,Computer Science,56.2,No,67,62.65,0,0,7,4,2,Not Placed
+F,40.89,Others,45.83,Others,Computer Science,53,No,71.2,65.49,0,0,5,1,2,Not Placed
+M,80,Others,70,Others,Information Technology,72,No,87,71.04,0,0,1,5,2,Placed
+F,74,Central,60,Others,Information Technology,69,No,78,65.56,0,0,7,6,1,Placed
+M,60.4,Central,66.6,Others,Information Technology,65,No,71,52.71,0,0,7,3,3,Placed
+M,63,Others,71.4,Others,Information Technology,61.4,No,68,66.88,0,0,2,1,3,Placed
+M,68,Central,76,Central,Information Technology,74,No,80,63.59,0,0,1,2,1,Placed
+M,74,Central,62,Others,Computer Science,68,No,74,57.99,0,0,4,4,2,Placed
+M,52.6,Central,65.58,Others,Electrical,72.11,No,57.6,56.66,0,0,6,1,3,Placed
+M,74,Central,70,Central,Electronics And Communication,72,Yes,60,57.24,1,0,4,0,1,Placed
+M,84.2,Central,73.4,Central,Information Technology,66.89,No,61.6,62.48,0,0,1,6,2,Placed
+F,86.5,Others,64.2,Others,Civil,67.4,No,59,59.69,0,0,2,2,3,Placed
+M,61,Others,70,Others,Computer Science,64,No,68.5,59.5,0,0,1,6,2,Not Placed
+M,80,Others,73,Others,Civil,75,No,61,58.78,1,0,6,1,2,Placed
+M,54,Others,47,Others,Information Technology,57,No,89.69,57.1,0,0,7,1,2,Not Placed
+M,83,Others,74,Others,Civil,66,No,68.92,58.46,1,0,1,0,1,Placed
+M,80.92,Others,78.5,Others,Mechanical,67,No,68.71,60.99,0,0,2,0,2,Placed
+F,69.7,Central,47,Central,Information Technology,72.7,No,79,59.24,1,0,2,4,1,Not Placed
+M,73,Central,73,Central,Electronics And Communication,66,Yes,70,68.07,0,0,4,4,3,Placed
+M,82,Others,61,Others,Civil,62,No,89,65.45,1,0,0,2,3,Placed
+M,75,Others,70.29,Others,Information Technology,71,No,95,66.94,0,0,2,5,2,Placed
+M,84.86,Others,67,Others,Information Technology,78,No,95.5,68.53,0,0,5,4,3,Placed
+M,64.6,Central,83.83,Others,Electronics And Communication,71.72,No,86,59.75,0,1,8,5,1,Placed
+M,56.6,Central,64.8,Central,Information Technology,70.2,No,84.27,67.2,0,0,3,2,3,Placed
+F,59,Central,62,Others,Mechanical,77.5,No,74,67,1,0,4,5,1,Not Placed
+F,66.5,Others,70.4,Central,Information Technology,71.93,No,61,64.27,0,0,1,0,2,Placed
+M,64,Others,80,Others,Information Technology,65,Yes,69,57.65,0,0,8,2,3,Placed
+M,84,Others,90.9,Others,Computer Science,64.5,No,86.04,59.42,0,1,6,1,2,Placed
+F,69,Central,62,Central,Computer Science,66,No,75,67.99,0,0,3,4,3,Not Placed
+F,69,Others,62,Others,Computer Science,69,Yes,67,62.35,1,0,0,0,2,Placed
+M,81.7,Others,63,Others,Computer Science,67,Yes,86,70.2,0,0,2,4,2,Placed
+M,63,Central,67,Central,Mechanical,74,No,82,60.44,0,0,1,3,1,Not Placed
+M,84,Others,79,Others,Civil,68,Yes,84,66.69,1,0,7,4,2,Placed
+M,70,Central,63,Others,Information Technology,70,Yes,55,62,0,0,7,3,1,Placed
+F,83.84,Others,89.83,Others,Electrical,77.2,Yes,78.74,76.18,0,0,2,5,1,Placed
+M,62,Others,63,Others,Electronics And Communication,64,No,67,57.03,0,1,4,6,3,Placed
+M,59.6,Central,51,Central,Computer Science,60,No,75,59.08,0,0,2,0,1,Not Placed
+F,66,Central,62,Central,Mechanical,73,No,58,64.36,1,0,7,0,1,Placed
+F,84,Others,75,Others,Computer Science,69,Yes,62,62.36,0,0,2,2,2,Placed
+F,85,Others,90,Others,Computer Science,82,No,92,68.03,0,0,5,0,3,Placed
+M,52,Central,57,Central,Computer Science,50.8,No,67,62.79,0,0,7,1,3,Not Placed
+F,60.23,Central,69,Central,Electronics And Communication,66,No,72,59.47,0,0,3,1,1,Placed
+M,52,Central,62,Central,Information Technology,54,No,72,55.41,0,0,6,5,2,Not Placed
+M,58,Central,62,Central,Computer Science,64,No,53.88,54.97,0,0,6,6,1,Placed
+M,73,Central,78,Others,Civil,65,Yes,95.46,62.16,0,0,1,5,2,Placed
+F,76,Central,70,Central,Electronics And Communication,76,Yes,66,64.44,0,0,3,5,3,Placed
+F,70.5,Central,62.5,Others,Electronics And Communication,61,No,93.91,69.03,1,1,4,1,1,Not Placed
+F,69,Central,73,Central,Information Technology,65,No,70,57.31,0,0,8,5,3,Placed
+M,54,Central,82,Others,Civil,63,No,50,59.47,1,1,3,5,3,Not Placed
+F,45,Others,57,Others,Mechanical,58,Yes,56.39,64.95,1,1,2,2,3,Not Placed
+M,63,Central,72,Central,Electronics And Communication,68,No,78,60.44,1,1,8,6,1,Placed
+F,77,Others,61,Others,Civil,68,Yes,57.5,61.31,0,0,5,2,1,Placed
+M,73,Central,78,Central,Information Technology,73,Yes,85,65.83,1,0,7,3,1,Placed
+M,69,Central,63,Others,Electronics And Communication,65,Yes,55,58.23,1,1,6,6,1,Placed
+M,59,Central,64,Others,Computer Science,58,No,85,55.3,0,1,7,0,1,Not Placed
+M,61.08,Others,50,Others,Mechanical,54,No,71,65.69,1,0,2,5,3,Not Placed
+M,82,Others,90,Others,Electronics And Communication,83,No,80,73.52,0,0,7,3,2,Placed
+M,61,Central,82,Central,Mechanical,69,No,84,58.31,1,0,6,3,3,Placed
+M,52,Central,63,Others,Civil,65,Yes,86,56.09,0,0,3,6,1,Not Placed
+F,69.5,Central,70,Central,Mechanical,72,No,57.2,54.8,1,0,7,0,3,Placed
+M,51,Others,54,Others,Computer Science,61,No,60,60.64,0,0,0,4,3,Not Placed
+M,58,Others,61,Others,Computer Science,61,No,58,53.94,0,0,6,3,1,Placed
+F,73.96,Others,79,Others,Computer Science,67,No,72.15,63.08,0,0,5,3,3,Placed
+M,65,Central,68,Others,Electronics And Communication,69,No,53.7,55.01,1,1,2,3,2,Placed
+F,73,Others,63,Others,Computer Science,66,No,89,60.5,1,0,3,5,3,Placed
+M,68.2,Central,72.8,Central,Mechanical,66.6,Yes,96,70.85,1,0,1,4,3,Placed
+M,77,Others,75,Others,Electronics And Communication,73,No,80,67.05,0,0,8,1,3,Placed
+M,76,Central,80,Central,Electronics And Communication,78,Yes,97,70.48,0,0,3,0,1,Placed
+M,60.8,Central,68.4,Central,Mechanical,64.6,Yes,82.66,64.34,1,0,2,5,1,Placed
+M,58,Others,40,Others,Electronics And Communication,59,No,73,58.81,0,0,1,3,2,Not Placed
+F,64,Central,67,Others,Electrical,69.6,Yes,55.67,71.49,0,0,5,4,1,Placed
+F,66.5,Central,66.8,Central,Information Technology,69.3,Yes,80.4,71,1,0,7,2,2,Placed
+M,74,Others,59,Others,Mechanical,73,Yes,60,56.7,1,1,7,0,1,Placed
+M,67,Central,71,Central,Computer Science,64.33,Yes,64,61.26,0,0,3,2,1,Placed
+F,84,Central,73,Central,Mechanical,73,No,75,73.33,1,1,3,1,1,Placed
+F,79,Others,61,Others,Electrical,75.5,Yes,70,68.2,0,0,2,3,2,Placed
+F,72,Others,60,Others,Civil,69,No,55.5,58.4,0,0,6,6,3,Placed
+M,80.4,Central,73.4,Central,Information Technology,77.72,Yes,81.2,76.26,0,0,2,3,1,Placed
+M,76.7,Central,89.7,Others,Computer Science,66,Yes,90,68.55,0,0,4,4,3,Placed
+M,62,Central,65,Others,Information Technology,60,No,84,64.15,0,0,7,2,2,Not Placed
+F,74.9,Others,57,Others,Computer Science,62,Yes,80,60.78,0,0,4,5,1,Placed
+M,67,Others,68,Others,Information Technology,64,Yes,74.4,53.49,0,0,2,0,1,Placed
+M,73,Central,64,Others,Mechanical,77,Yes,65,60.98,1,0,0,3,1,Placed
+F,77.44,Central,92,Others,Computer Science,72,Yes,94,67.13,0,0,1,6,2,Placed
+F,72,Central,56,Others,Computer Science,69,No,55.6,65.63,1,1,1,4,2,Placed
+F,47,Central,59,Central,Computer Science,64,No,78,61.58,0,0,7,0,3,Not Placed
+M,67,Others,63,Central,Information Technology,72,No,56,60.41,0,1,3,5,1,Placed
+F,82,Others,64,Others,Computer Science,73,Yes,96,71.77,0,0,3,2,1,Placed
+M,77,Central,70,Central,Electrical,59,Yes,58,54.43,0,0,0,4,1,Placed
+M,65,Central,64.8,Others,Information Technology,69.5,Yes,56,56.94,0,0,6,6,2,Placed
+M,66,Central,64,Central,Information Technology,60,No,60,61.9,0,0,0,3,1,Not Placed
+M,85,Central,60,Others,Mechanical,73.43,Yes,60,61.29,1,1,4,0,1,Placed
+M,77.67,Others,64.89,Others,Mechanical,70.67,No,89,60.39,1,0,0,3,2,Placed
+M,52,Others,50,Others,Information Technology,61,No,60,58.52,1,0,6,5,2,Not Placed
+M,89.4,Others,65.66,Others,Civil,71.25,No,72,63.23,1,0,5,3,2,Placed
+M,62,Central,63,Others,Electronics And Communication,66,No,85,55.14,1,0,8,1,2,Placed
+M,70,Central,74,Central,Computer Science,65,No,83,62.28,0,0,1,5,2,Placed
+F,77,Central,86,Central,Computer Science,56,No,57,64.08,0,0,4,1,3,Placed
+M,44,Central,58,Central,Information Technology,55,Yes,64.25,58.54,0,0,4,6,1,Not Placed
+M,71,Central,58.66,Central,Electrical,58,Yes,56,61.3,0,1,7,4,1,Placed
+M,65,Central,65,Central,Information Technology,75,No,83,58.87,0,0,7,2,1,Placed
+F,75.4,Others,60.5,Central,Electrical,84,No,98,65.25,0,0,7,4,1,Placed
+M,49,Others,59,Others,Electronics And Communication,65,Yes,86,62.48,0,1,7,6,1,Placed
+M,53,Central,63,Others,Information Technology,60,Yes,70,53.2,0,0,6,0,2,Placed
+M,51.57,Others,74.66,Others,Electronics And Communication,59.9,Yes,56.15,65.99,0,0,5,2,2,Not Placed
+M,84.2,Central,69.4,Central,Computer Science,65,Yes,80,52.72,0,0,5,6,2,Placed
+M,66.5,Central,62.5,Central,Electronics And Communication,60.9,No,93.4,55.03,0,0,0,4,1,Placed
+M,67,Others,63,Others,Computer Science,64,No,60,61.87,0,0,8,0,1,Not Placed
+M,52,Central,49,Others,Information Technology,58,No,62,60.59,0,1,1,5,3,Not Placed
+M,87,Central,74,Central,Computer Science,65,Yes,75,72.29,0,0,4,0,2,Placed
+M,55.6,Others,51,Others,Mechanical,57.5,No,57.63,62.72,1,0,5,1,2,Not Placed
+M,74.2,Central,87.6,Others,Information Technology,77.25,Yes,75.2,66.06,0,0,8,5,2,Placed
+M,63,Others,67,Others,Information Technology,64,No,75,66.46,0,0,4,1,2,Placed
+F,67.16,Central,72.5,Central,Electrical,63.35,No,53.04,65.52,0,0,4,0,3,Placed
+F,63.3,Central,78.33,Others,Electrical,74,No,80,74.56,0,0,7,2,3,Not Placed
+M,62,Others,62,Others,Electronics And Communication,60,Yes,63,52.38,0,0,7,2,3,Placed
+M,67.9,Others,62,Others,Civil,67,Yes,58.1,75.71,0,0,7,4,2,Not Placed
+F,48,Central,51,Central,Electrical,58,Yes,60,58.79,0,1,0,1,1,Not Placed
+M,59.96,Others,42.16,Others,Mechanical,61.26,No,54.48,65.48,1,0,1,3,2,Not Placed
+F,63.4,Others,67.2,Others,Information Technology,60,No,58.06,69.28,0,0,3,5,2,Not Placed
+M,80,Others,80,Others,Information Technology,72,Yes,63.79,66.04,0,0,0,6,1,Placed
+M,73,Others,58,Others,Computer Science,56,No,84,52.64,1,0,7,2,1,Placed
+F,52,Others,52,Others,Computer Science,55,No,67,59.32,0,0,6,5,3,Not Placed
+M,73.24,Others,50.83,Others,Information Technology,64.27,Yes,64,66.23,0,0,7,1,1,Placed
+M,63,Others,62,Others,Mechanical,65,No,87.5,60.69,1,0,3,6,3,Not Placed
+F,59,Central,60,Others,Electronics And Communication,56,No,55,57.9,0,0,6,5,3,Placed
+F,73,Central,97,Others,Information Technology,79,Yes,89,70.81,0,0,4,2,1,Placed
+M,68,Others,56,Others,Information Technology,68,No,73,68.07,0,0,3,6,1,Placed
+F,77.8,Central,64,Central,Mechanical,64.2,No,75.5,72.14,1,0,8,0,3,Not Placed
+M,65,Central,71.5,Others,Information Technology,62.8,Yes,57,56.6,0,0,7,4,1,Placed
+M,62,Central,60.33,Others,Computer Science,64.21,No,63,60.02,0,1,6,4,3,Not Placed
+M,52,Others,65,Others,Information Technology,57,Yes,75,59.81,0,0,1,0,1,Not Placed
+M,65,Central,77,Central,Information Technology,69,No,60,61.82,0,0,7,1,3,Placed
+F,56.28,Others,62.83,Others,Computer Science,59.79,No,60,57.29,0,0,0,5,2,Not Placed
+F,88,Central,72,Central,Electrical,78,No,82,71.43,1,0,4,1,2,Placed
+F,52,Central,64,Central,Information Technology,61,No,55,62.93,0,0,6,1,1,Not Placed
+M,78.5,Central,65.5,Central,Information Technology,67,Yes,95,64.86,0,1,6,5,1,Placed
+M,61.8,Others,47,Others,Electrical,54.38,No,57,56.13,0,0,1,6,2,Not Placed
+F,54,Central,77.6,Others,Computer Science,69.2,No,95.65,66.94,0,0,1,4,3,Not Placed
+F,64,Others,70.2,Central,Computer Science,61,No,50,62.5,0,0,7,2,1,Not Placed
+M,67,Others,61,Central,Computer Science,72,No,72,61.01,1,0,8,3,3,Placed
+M,65.2,Central,61.4,Central,Electrical,64.8,Yes,93.4,57.34,0,0,5,6,1,Placed
+F,60,Central,63,Central,Civil,56,Yes,80,56.63,0,1,4,4,1,Placed
+M,52,Others,55,Others,Computer Science,56.3,No,59,64.74,1,0,1,1,3,Not Placed
+M,66,Central,76,Central,Information Technology,72,Yes,84,58.95,0,0,4,1,2,Placed
+M,72,Others,63,Others,Electronics And Communication,77.5,Yes,78,54.48,0,0,7,6,2,Placed
+F,83.96,Others,53,Others,Electronics And Communication,91,No,59.32,69.71,0,0,7,6,3,Placed
+F,67,Central,70,Central,Computer Science,65,No,88,71.96,0,0,7,3,3,Not Placed
+M,69,Others,65,Others,Computer Science,57,No,73,55.8,0,0,8,6,2,Placed
+M,69,Others,60,Others,Computer Science,65,No,87.55,52.81,0,0,6,3,1,Placed
+M,54.2,Central,63,Others,Information Technology,58,No,79,58.44,0,0,3,4,3,Not Placed
+M,70,Central,63,Central,Mechanical,66,No,61.28,60.11,1,0,6,5,1,Placed
+M,55.68,Others,61.33,Others,Computer Science,56.87,No,66,58.3,1,0,0,1,3,Placed
+F,74,Others,73,Others,Electrical,73,Yes,80,67.69,0,0,5,5,3,Placed
+M,61,Others,62,Others,Mechanical,65,No,62,56.81,1,0,7,3,1,Placed
+M,41,Central,42,Central,Computer Science,60,No,97,53.39,1,0,3,0,3,Not Placed
+M,83.33,Central,78,Others,Computer Science,61,Yes,88.56,71.55,0,1,2,6,3,Placed
+F,43,Central,60,Others,Computer Science,65,No,92.66,62.92,0,1,4,6,2,Not Placed
+M,62,Central,72,Central,Computer Science,65,No,67,56.49,0,0,6,2,3,Placed
+M,80.6,Others,82,Others,Information Technology,77.6,No,91,74.49,0,0,1,1,3,Placed
+M,58,Others,60,Others,Information Technology,72,No,74,53.62,0,0,4,2,3,Placed
+M,67,Others,67,Others,Civil,73,Yes,59,69.72,0,0,6,6,1,Placed
+F,74,Others,66,Others,Information Technology,58,No,70,60.23,1,0,8,2,1,Placed
+M,62,Central,58,Others,Information Technology,53,No,89,60.22,0,0,8,2,2,Not Placed
